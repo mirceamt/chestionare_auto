@@ -1,0 +1,544 @@
+
+1
+Cum trebuie să procedezi atunci când circuli în acelaşi sens cu autovehiculele din serviciile regulate de transport public oprite în staţie?
+A. le ocoleşti cât mai mult, pentru a evita orice situaţie neplăcută;
+B. reduci viteza şi, la nevoie, opreşti, pentru a permite plecarea acestora din staţie, dacă aceasta este prevăzută cu alveolă;
+C. îţi continui deplasarea, deoarece ai prioritate de trecere faţă de toate vehiculele care pleacă de pe loc.
+B
+False
+
+2
+Ce trebuie să ai în vedere atunci când intenţionezi să treci de un autobuz oprit într-o staţie?
+A. treci cu atenţie la o distanţă corespunzătoare, pentru că din faţa autobuzului ar putea să apară în mod neaşteptat pietoni;
+B. aprinzi luminile intermitente de avertizare şi circuli mai departe cu atenţie;
+C. circuli mai departe fără ezitare.
+A
+False
+
+3
+Câte remorci poate tracta un autovehicul când circulă pe drumurile publice?
+A. trei remorci;
+B. două remorci;
+C. o remorcă.
+C
+False
+
+4
+Dacă vehiculul sau remorca au defecţiuni la sistemul de iluminare, este permisă tractarea celei din urmă pe timp de noapte?
+A. da, dacă vehiculul şi remorca au în funcţiune cel puţin luminile de poziţie de pe partea stângă;
+B. nu este permis în niciun caz;
+C. da, dar numai până la primul service.
+A
+False
+
+5
+Ce obligaţii ai atunci când conduci un vehicul destinat transportului de marfă cu remorcă?
+A. să menţii permanent curate parbrizul, luneta şi geamurile laterale ale vehiculului;
+B. să permiţi controlul stării tehnice a vehiculului în condiţiile legii;
+C. să circuli numai pe timp de zi.
+AB
+False
+
+6
+Conduci un autovehicul cu remorcă. Cum se efectuează, de regulă, depăşirea?
+A. pe partea dreaptă, dacă există bandă de refugiu;
+B. pe partea dreaptă, pentru vehiculele având o lăţime maximă de 2 m;
+C. pe partea stângă.
+C
+False
+
+7
+Permisul de conducere pentru subcategoria CE se poate obţine la vârsta de:
+A. 23 de ani;
+B. 21 de ani;
+C. 18 ani.
+B
+False
+
+8
+Unde este interzisă oprirea voluntară a unui vehicul destinat transportului de marfă cu remorcă?
+A. în intersecţiile cu circulaţia în sens giratoriu;
+B. pe viaducte;
+C. pe partea carosabilă a drumurilor naţionale europene (E).
+ABC
+False
+
+9
+Cuplarea unei remorci la un vehicul se poate realiza dacă:
+A. persoana care conduce autovehiculul este posesoare a unui permis pentru categoria E;
+B. remorca este dotată cu două osii;
+C. vehiculele care formează ansamblul nu se ating la trecerea peste denivelări, la efectuarea virajelor sau la schimbarea direcţiei de mers.
+C
+False
+
+10
+Autovehiculele cu remorcă pot circula în localităţi, în zona drumurilor cu denivelării semnalizate ca atare, cu o viteză mai mare de 30 km/h?
+A. nu;
+B. da, dacă drumul permite;
+C. da, dacă în zona respectivă nu sunt pietoni.
+A
+False
+
+11
+Pe ce parte depăşeşti un tramvai aflat în mers, dacă tractezi o remorcă?
+A. pe partea dreaptă;
+B. pe partea stângă;
+C. pe ambele părţi.
+A
+False
+
+12
+Unde este interzisă oprirea unui autovehicul cu remorcă?
+A. pe pistele obligatorii pentru pietoni;
+B. în parcările special amenajate;
+C. în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos.
+AC
+False
+
+13
+Conducătorul unui autovehicul cu remorcă trebuie să se asigure, înainte de efectuarea unei depăşiri:
+A. că din sens opus nu se apropie un alt autovehicul, că spaţiul lateral îi permite trecerea, iar manevra respectivă nu este interzisă;
+B. că cel depăşit a înţeles intenţia de a fi depăşit;
+C. că celălalt conducător a redus viteza.
+A
+False
+
+14
+Cum trebuie să procedezi atunci când circuli cu autovehiculul pe timp de noapte, pe o porţiune de drum liberă, şi dai semne de oboseală?
+A. bei o cafea rece;
+B. faci pauze corespunzătoare pentru odihnă;
+C. măreşti volumul radioului.
+B
+False
+
+15
+Pe ce bandă vor circula vehiculele lente sau grele?
+A. pe banda de lângă acostament sau bordură, dacă în sensul de mers nu este amenajată o bandă destinată acestora;
+B. pe banda de lângă axul drumului;
+C. pe oricare dintre benzi, dacă circulă cu viteza maximă admisă pe sectorul de drum respectiv.
+A
+False
+
+16
+Ce desemnează termenul "remorcă"?
+A. un autovehicul care este tractat de un alt autovehicul;
+B. un vehicul fără motor, destinat a fi tractat de un autovehicul sau de un tractor;
+C. dispozitivul ce se ataşează la partea din spate a unui vehicul, pentru a asigura remorcarea.
+B
+False
+
+17
+Cât este masa totală maximă admisă pentru un tren rutier, compus dintr-un vehicul motor cu două osii şi o remorcă cu o osie, pe drumuri asfaltate?
+A. 30 t;
+B. 25 t;
+C. 35 t.
+A
+False
+
+18
+Cum trebuie să procedezi dacă vehiculul sau remorca sunt defecte şi nu pot fi deplasate spre marginea părţii carosabile?
+A. să te îndepărtezi de vehicul şi să aştepţi sosirea echipei de intervenţie;
+B. să pui în funcţiune luminile de avarie şi să instalezi triunghiurile reflectorizante;
+C. este suficient să semnalizezi ansamblul cu crengi sau cu alte obiecte vizibile.
+B
+False
+
+19
+Cum trebuie aşezată şi fixată încărcătura unui vehicul destinat transportului de marfă cu remorcă?
+A. astfel încât să nu cadă pe drum;
+B. astfel încât să nu producă praf sau mirosuri pestilenţiale;
+C. astfel încât să nu stânjenească vizibilitatea conducătorului de vehicul.
+ABC
+False
+
+20
+Ce obligaţii ai atunci când conduci un autovehicul, cu sau fără remorcă, şi eşti implicat într-un accident soldat cu victime?
+A. să verifici maşina şi, dacă se poate, să o scoţi în afara părţii carosabile;
+B. să anunţi imediat poliţia, să nu modifici sau să ştergi urmele accidentului şi să nu părăseşti locul faptei;
+C. să opreşti circulaţia în zonă şi să iei legătura cu rudele victimei.
+B
+False
+
+21
+Conduci un vehicul care tractează o remorcă, într-o intersecţie nedirijată. Eşti obligat să acorzi prioritate de trecere unui autovehicul al Salvării care circulă din partea stângă, având în funcţiune dispozitivul special cu lumini de culoare albastră şi pe cel sonor?
+A. nu, deoarece autovehiculul Salvării nu face parte din categoria autovehiculelor cu regim prioritar;
+B. nu, deoarece în acest caz se aplică regula priorităţii de dreapta;
+C. da.
+C
+False
+
+22
+În caz de imobilizare prelungită în tunel a autovehiculul cu remorcă pe care îl conduci, eşti obligat:
+A. să opreşti motorul;
+B. să tractezi vehiculul pentru a elibera tunelul;
+C. să tractezi remorca pentru a nu crea pericole suplimentare.
+A
+False
+
+23
+Prin "semiremorcă" se înţelege:
+A. remorca a cărei masă totală maximă autorizată este preluată în parte de către un autovehicul sau de către un tractor;
+B. remorca a cărei masă maximă autorizată nu depăşeşte 750 kg;
+C. remorca basculabilă, destinată doar transporturilor de mărfuri neambalate.
+A
+False
+
+24
+Cum poate fi evitată acvaplanarea?
+A. autovehiculul este supraîncărcat;
+B. pneurile nu sunt uzate, iar viteza este redusă;
+C. autovehiculul şi remorca sunt echipate cu un sistem de frânare automat (tip "ABS").
+B
+False
+
+25
+Cum trebuie să procedezi pe porţiunile drumului public care urcă sau coboară, în cazul a două vehicule de aceeaşi categorie?
+A. vehiculele care coboară au prioritate faţă de cele care urcă;
+B. vehiculele care urcă au prioritate faţă de cele care coboară;
+C. nu este prevăzut în lege.
+A
+False
+
+26
+Ce se poate întâmpla dacă, atunci când circuli într-o curbă, frânezi dintr-odată puternic?
+A. autovehiculul şi remorca se înclină spre interiorul curbei;
+B. autovehiculul şi remorca derapează;
+C. autovehiculul şi remorca îşi menţin direcţia.
+B
+False
+
+27
+Efectuarea depăşirii este interzisă:
+A. când depăşirea urmează să se efectueze în vârfuri de rampă, iar vizibilitatea este redusă sub 50 m;
+B. la mai puţin de 50 m de staţiile de tramvai, troleibuz sau autobuz;
+C. pe drumurile publice cu o lăţime mai mică de 6 m.
+A
+False
+
+28
+Atunci când conducătorii a două autovehicule circulă în aceeaşi direcţie, dar pe benzi diferite, pe un drum public prevăzut cu minimum 3 benzi pe sens, şi intenţionează să se înscrie pe banda liberă dintre ei, această bandă va fi ocupată de:
+A. autovehiculul care circulă pe banda din dreapta faţă de cel care circulă pe banda din stânga;
+B. autovehiculul care circulă pe banda din stânga faţă de cel care circulă pe banda din dreapta
+C. autovehiculul care circulă cu viteza maximă admisă pe sectorul de drum respectiv.
+B
+False
+
+29
+În care dintre cele trei situaţii depăşirea este interzisă, dacă eşti conducătorul unui autovehicul cu remorcă?
+A. pe drumul unde sensurile de circulaţie sunt despărţite prin marcaj discontinuu;
+B. pe drumul cu o singură bandă pe sens;
+C. pe drumul unde sensurile de circulaţie sunt despărţite prin marcaj longitudinal continuu, iar pentru depăşire ar fi necesară încălcarea acestuia.
+C
+False
+
+30
+În ce condiţii se poate face cuplarea unei remorci la un vehicul?
+A. dacă greutatea ansamblului nu depăşeşte 3,5 tone;
+B. dacă dimensiunile ansamblului de vehicule nu depăşesc limitele prevăzute de lege;
+C. dacă elementele de cuplare ale echipamentelor de frânare, de iluminare şi de semnalizare luminoasă sunt compatibile.
+BC
+False
+
+31
+Ce obligaţii îţi revin în cazul în care autovehiculul pe care îl conduci sau remorca ataşată acestuia rămâne în pană?
+A. să scoţi ansamblul în afara părţii carosabile sau să îl deplasezi lângă bordură sau acostament;
+B. să semnalizezi ansamblul cu orice obiecte ai la dispoziţie;
+C. să aprinzi farurile şi luminile de poziţie.
+A
+False
+
+32
+În ce condiţii se poate face cuplarea unei remorci la un vehicul?
+A. dacă ansamblul de vehicule poate realiza raza minimă de virare a autovehiculului trăgător;
+B. dacă elementele care compun dispozitivul de cuplare sunt omologate şi compatibile;
+C. dacă remorca este dotată cu un acumulator de 12 V.
+AB
+False
+
+33
+Se poate angaja conducătorul unui autovehicul cu remorcă în depăşirea unei căruţe aflate în traversarea trecerii la nivel cu o cale ferată fără bariere?
+A. da, în cazul când nu se apropie trenul;
+B. da, întrucât căruţa se deplasează cu viteză redusă;
+C. nu, depăşirea este interzisă în această situaţie.
+C
+False
+
+34
+Un autovehicul poate tracta un alt autovehicul atunci când:
+A. autovehiculul trăgător are masa proprie mai mare decât cel tractat, cu excepţia cazului în care este special dotat pentru acest caz;
+B. autovehiculul trăgător este dotat cu pneuri antiderapante;
+C. autovehiculul trăgător are tracţiune pe toate roţile.
+A
+False
+
+35
+Când vei acorda prioritate de trecere, dacă tractezi o remorcă?
+A. la întâlnirea indicatorului "Intersecţie cu un drum fără prioritate";
+B. la întâlnirea indicatorului "Prioritate pentru circulaţia din sens invers";
+C. la întâlnirea indicatorului "Sfârşitul drumului cu prioritate".
+B
+False
+
+36
+Se consideră depăşire faptul că te deplasezi pe un drum public cu mai multe benzi de circulaţie, cu o viteză mai mare decât cea a vehiculelor de pe celelalte benzi?
+A. da, dacă circuli pe banda din dreapta;
+B. da, dacă circuli pe banda din stânga;
+C. nu.
+C
+False
+
+37
+Atunci când ansamblul vehicul-remorcă rămâne în pană în localităţi şi circulaţia este intensă, triunghiurile reflectorizante se instalează:
+A. la o distanţă mai mică de 30 m sau direct pe vehicul, astfel încât să poată fi observate din timp de către ceilalţi participanţi la trafic;
+B. pe carosabil, însoţite de un fanion de culoare roşie;
+C. nu se instalează, pentru a nu fi un obstacol periculos pentru ceilalţi participanţi la trafic.
+A
+False
+
+38
+Pe un pod pot fi depăşite, prin excepţie, următoarele vehicule:
+A. căruţele, motocicletele fără ataş şi bicicletele;
+B. tractoarele, precum şi alte autovehicule lente;
+C. niciun vehicul.
+A
+False
+
+39
+Dacă eşti implicat într-un accident de circulaţie soldat cu avarii uşoare, eşti obligat:
+A. să scoţi imediat vehiculul în afara părţii carosabile ori, dacă starea acestuia nu permite, să îl deplasezi cât mai aproape de bordură sau de acostament;
+B. să mergi la unitatea sanitară cea mai apropiată;
+C. să te deplasezi în afara părţii carosabile, pentru a nu fi accidentat de către alte vehicule aflate în trafic.
+A
+False
+
+40
+Permisul de conducere pentru subcategoria C1E se poate obţine la vârsta de:
+A. 18 ani;
+B. 21 de ani;
+C. 20 de ani.
+A
+False
+
+41
+La depăşirea căror vehicule trebuie să păstrezi o distanţă laterală mai mare, mai ales dacă tractezi o remorcă?
+A. la depăşirea bicicletelor;
+B. la depăşirea autobuzelor;
+C. la depăşirea camioanelor.
+A
+False
+
+42
+Cât este masa totală maximă admisă pentru un tren rutier cu patru osii, compus dintr-un vehicul motor cu două osii şi o remorcă cu două osii, pe drumuri asfaltate?
+A. 40 t;
+B. 36 t;
+C. 46 t.
+B
+False
+
+43
+Unde este interzisă staţionarea voluntară a unui vehicul destinat transportului de marfă cu remorcă?
+A. în pante şi rampe;
+B. pe pistele pentru biciclete;
+C. pe drumurile publice cu o lăţime mai mică de 6 m.
+ABC
+False
+
+44
+Unui conducător de autovehicule implicat într-un accident de circulaţie îi este interzis:
+A. să coboare de la volan fără permisiunea poliţistului rutier;
+B. să consume alcool în intervalul de timp dintre producerea accidentului şi testarea alcoolemiei;
+C. să folosească telefonul mobil pentru a anunţa alte persoane despre producerea accidentului.
+B
+False
+
+45
+Dacă eşti implicat într-un accident de circulaţie în care o persoană a decedat, eşti obligat:
+A. să mergi la unitatea sanitară cea mai apropiată şi să te informezi în legătură cu primul ajutor;
+B. să anunţi imediat poliţia şi să apelezi 112;
+C. nu ai nicio obligaţie.
+B
+False
+
+46
+Cât trebuie să fie masa totală maximă admisă a remorcii cu trei osii, pe un drum european?
+A. 15 t;
+B. 10 t;
+C. 22 t.
+C
+False
+
+47
+Ce se înţelege prin "remorcă uşoară"?
+A. remorca a cărei masă maximă autorizată nu depăşeşte 750 kg;
+B. vehiculul fără motor, care se deplasează pe drumul public prin inerţie;
+C. remorca a cărei greutate este reglată în funcţie de greutatea vehiculului tractor.
+A
+False
+
+48
+Un autovehicul poate tracta un alt autovehicul atunci când remorcarea se realizează prin intermediul:
+A. unui lanţ metalic dublu cu lungimea de 4 m;
+B. unei bare metalice cu lungimea de cel mult 4 m;
+C. unei şufe din oţel cu diametrul de cel puţin 2 cm.
+B
+False
+
+49
+Când poate un autovehicul să tracteze un alt autovehicul?
+A. când conducătorul autovehiculului trăgător posedă permis de categoria C sau D;
+B. când autovehiculul trăgător este dotat cu girofar şi cu alarmă sonoră;
+C. când conducătorii autovehiculelor trăgător şi, respectiv, remorcat posedă permise de conducere valabile pentru categoriile din care face parte fiecare dintre autovehicule.
+C
+False
+
+50
+Atunci când conduci pe o autostradă un autovehicul din categoria C, care tractează o remorcă, viteza maximă admisă este de:
+A. 90 km/h;
+B. 100 km/h;
+C. 110 km/h.
+B
+False
+
+51
+Permisul de conducere subcategoria C1E permite conducerea unui ansamblu format din:
+A. un autovehicul de subcategoria C1E şi o remorcă a cărei masă autorizată este mai mare de 750 kg, iar masa totală maximă autorizată a remorcii să nu depăşească masa proprie a autovehiculului trăgător;
+B. un autovehicul de subcategoria C1E şi o remorcă a cărei masă autorizată este mai mare de 750 kg, cu condiţia ca masa totală maximă autorizată a întregului ansamblu să nu depăşească 12 000 kg, iar masa totală maximă autorizată a remorcii să nu depăşească masa proprie a autovehiculului trăgător;
+C. un autovehicul de subcategoria C1E şi o remorcă a cărei masă autorizată este mai mare de 750 kg, cu condiţia ca masa totală maximă autorizată a întregului ansamblu să nu depăşească 7500 kg.
+B
+False
+
+52
+Permisul de conducere categoria CE permite conducerea unui ansamblu format din:
+A. un autovehicul de categoria C şi o remorcă a cărei masă autorizată este mai mare de 3500 kg;
+B. un autovehicul de categoria C şi o remorcă a cărei masă autorizată este mai mare de 750 kg;
+C. un autovehicul de categoria C şi o remorcă a cărei masă autorizată este mai mare de 750 kg, masa totală maximă autorizată a întregului ansamblu depăşind 3500 kg.
+B
+False
+
+53
+Ce trebuie să ai în vedere, în primul rând, atunci când ieşi dintr-o curte şi intenţionezi să virezi în şosea?
+A. pietonii de pe trotuar;
+B. mijloacele de transport în comun;
+C. autovehiculele din trafic.
+A
+False
+
+54
+Atunci când conduci pe un drum judeţean un autovehicul din categoria C, care tractează o remorcă, viteza maximă admisă este de:
+A. 70 km/h;
+B. 90 km/h;
+C. 80 km/h.
+A
+False
+
+55
+Atunci când conduci un autovehicul din categoria C, care tractează o remorcă, pe drumuri naţionale europene (E), viteza maximă admisă este de:
+A. 80 km/h;
+B. 70 km/h;
+C. 90 km/h.
+A
+False
+
+56
+Cum vei proceda atunci când conduci un autovehicul care tractează o remorcă, la trecerea pe lângă un grup de elevi ce se deplasează în aceeaşi direcţie, pe drumul naţional dintr-o localitate rurală?
+A. depăşeşti grupul, semnalizând cu luminile de întâlnire;
+B. preventiv, reduci viteza şi ocoleşti cu prudenţă grupul;
+C. foloseşti avertizorul sonor, pentru a îndepărta elevii de pe partea carosabilă.
+B
+False
+
+57
+Ce îi este interzis conducătorului unui vehicul destinat transportului de marfă cu remorcă?
+A. să conducă vehiculul cu dispozitive neomologate montate pe sistemul de evacuare a gazelor;
+B. să folosească în mod abuziv mijloacele de avertizare sonoră;
+C. să profereze injurii la adresa celorlalţi participanţi la trafic.
+ABC
+False
+
+58
+Manevra de ocolire, prin schimbarea direcţiei de mers, a unui obstacol aflat pe sensul tău de circulaţie, urmată de revenirea pe acelaşi sens, constituie:
+A. depăşire;
+B. ocolire;
+C. situaţie de urgenţă.
+A
+False
+
+59
+Atunci când ansamblul vehicul-remorcă rămâne în pană, triunghiurile reflectorizante se instalează:
+A. în spatele vehiculului, la o distanţă de 30 m;
+B. în faţa vehiculului, la o distanţă de 50 m;
+C. în faţa şi în spatele vehiculului, la o distanţă de 30 m.
+C
+False
+
+60
+Atunci când eşti obligat să semnalizezi că eşti în pană, luminile de avarie pot fi înlocuite astfel:
+A. cu o lampă portabilă având lumina galbenă intermitentă instalată în partea din spate a vehiculului;
+B. prin aprinderea farurilor şi a semnalizatoarelor de pe partea stângă;
+C. cu un girofar de culoare roşie, instalat pe capotă.
+A
+False
+
+61
+Cum trebuie să procedezi înainte de a te angaja într-o depăşire, dacă tractezi o remorcă?
+A. semnalizezi şi te apropii cât mai mult de cel pe care intenţionezi să îl depăşeşti;
+B. îl avertizezi sonor şi optic pe conducătorul auto pe care intenţionezi să îl depăşeşti;
+C. te asiguri că autovehiculul care circulă în faţa sau în spatele tău nu a iniţiat o astfel de manevră.
+C
+False
+
+62
+Ce trebuie să verifice conducătorul unui vehicul destinat transportului de marfă cu remorcă?
+A. ca încărcătura să fie aşezată sau/şi fixată astfel încât să nu pericliteze stabilitatea sau conducerea vehiculului;
+B. ca încărcătura să fie aşezată sau/şi fixată astfel încât să nu cadă pe drum;
+C. ca încărcătura să fie aşezată sau/şi fixată astfel încât să nu cauzeze daune proprietăţii publice sau private.
+ABC
+False
+
+63
+Ce obligaţii ai atunci când conduci un autovehicul, cu sau fără remorcă, şi eşti implicat într-un accident soldat cu avarierea vehiculului?
+A. să te prezinţi la unitatea de poliţie pe raza căreia s-a produs accidentul în termen de 24 de ore;
+B. să nu modifici poziţia autovehiculului;
+C. nu ai nicio obligaţie.
+A
+False
+
+64
+Când trebuie dirijaţi conducătorii de autovehicule cu remorcă, la manevrarea vehiculului spre înapoi?
+A. pe marcajul pietonal;
+B. atunci când vizibilitatea în spate este împiedicată;
+C. acolo unde soliditatea drumului nu permite.
+B
+False
+
+65
+Pe ce bandă se desfăşoară transportul de mărfuri pe autostradă, cu autovehicule cu sau fără remorcă?
+A. numai pe banda de urgenţă;
+B. de regulă, numai pe banda marginală din partea dreaptă a autostrăzii, în sensul de mers;
+C. numai pe banda a doua în sensul de deplasare.
+B
+False
+
+66
+Cât trebuie să fie masa totală maximă admisă a remorcii cu două osii, pe un drum european?
+A. 7,5 t;
+B. 3,5 t;
+C. 17 t.
+C
+False
+
+67
+Echipamentul de frânare nu este obligatoriu la remorcile cu masa totală maximă autorizată:
+A. mai mică de 750 kg
+B. mai mică de 400 kg
+C. mai mare de 750 kg
+A
+False
+
+68
+Dacă conduci un autovehicul din categoria C care tractează o remorcă, cu cât este mai mică limita de viteză pe drumurile publice?
+A. 10 km/h;
+B. 20 km/h;
+C. 30 km/h.
+A
+False

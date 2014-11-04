@@ -1,0 +1,12 @@
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\bin\Debug\ChestionareAuto.exe.config
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.csprojResolveAssemblyReference.cache
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.Properties.Resources.resources
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.csproj.GenerateResource.Cache
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\bin\Debug\ChestionareAuto.exe
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\bin\Debug\ChestionareAuto.pdb
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.exe
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.pdb
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.CategorieWindow.resources
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\bin\Debug\ChestionareAuto.sdf
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.ChestionarWindow.resources
+D:\programe\C#\atestat\ChestionareAuto\ChestionareAuto\obj\Debug\ChestionareAuto.LoadingWindow.resources

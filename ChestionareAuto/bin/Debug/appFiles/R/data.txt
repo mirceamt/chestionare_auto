@@ -1,0 +1,2808 @@
+
+1
+În care dintre situaţii se suspendă exercitarea dreptului de a conduce autovehicule?
+A. în cazul depăşirii în mod repetat, cu mai mult de 20 km/h, a vitezei maxime legale;
+B. în cazul neopririi la semnalul agentului de cale ferată;
+C. în cazul neprezentării în termen de 24 de ore la unitatea de poliţie competentă pe raza căreia s-a produs un accident cu avarierea vehiculului.
+C
+False
+
+2
+Ce vehicule pot fi depăşite, prin excepţie, pe un pod?
+A. vehiculele cu tracţiune animală, motociclete fără ataş şi biciclete;
+B. tractoarele şi alte autovehicule lente;
+C. niciun vehicul.
+A
+False
+
+3
+În care dintre situaţiile de mai jos se anulează permisul de conducere?
+A. pentru conducerea unui autovehicul sub influenţa băuturilor alcoolice;
+B. pentru infracţiunile care s-au soldat cu moartea sau vătămarea gravă a unei persoane, săvârşite ca urmare a nerespectării regulilor de circulaţie;
+C. pentru nerespectarea semnalelor poliţiştilor la trecerea coloanelor oficiale.
+B
+False
+
+4
+Remorcarea unui autoturism rămas în pană se face cu:
+A. o legătură flexibilă omologată, în lungime de 3-5 m, dacă mecanismul de direcţie şi sistemul de frânare nu sunt defecte;
+B. o bară rigidă, lungă de peste 4 m;
+C. o bară metalică, însoţită de un lanţ de siguranţă.
+A
+False
+
+5
+La cererea poliţistului rutier, împreună cu reprezentantul autorităţilor abilitate, conducătorul auto este obligat:
+A. să prezinte documentele de călătorie;
+B. să-l transporte la unitatea de poliţie;
+C. să permită controlul stării tehnice a vehiculului, precum şi al bunurilor transportate.
+C
+False
+
+6
+Lumina de drum a farurilor se foloseşte:
+A. noaptea, numai în afara localităţilor;
+B. atât în localităţi, cât şi în afara acestora, după gradul de iluminare a drumului public;
+C. ziua când se circulă în localităţi.
+B
+False
+
+7
+În cazul în care, într-o intersecţie, lângă semaforul în stare de funcţionare este instalat indicatorul „Oprire“, sunteţi obligat să respectaţi:
+A. semnificaţia indicatorului;
+B. regula priorităţii de dreapta;
+C. semnificaţia luminii semaforului.
+C
+False
+
+8
+Permisul de conducere se restituie după promovarea testului de cunoaştere a regulilor de circulaţie, dacă a fost reţinut pentru:
+A. circularea cu viteză redusă în mod nejustificat;
+B. conducerea sub influenţa băuturilor alcoolice;
+C. neîndeplinirea obligaţiei de preschimbare a certificatului de înmatriculare în cazurile prevăzute de lege.
+B
+False
+
+9
+Când ai obligaţia de a folosi sistemul de lumini al autovehuculului pe care îl conduci?
+A. de la lăsarea serii şi până în zorii zilei, precum şi ziua când plouă torenţial, ninge abundent sau este ceaţă densă, ori în alte condiţii meteorologice ce reduc vizibilitatea pe drum;
+B. când parchezi autovehiculul în locuri special amenajate, dar neiluminate în mod corespunzător;
+C. la întâlnirea cortegiilor.
+A
+False
+
+10
+Ce obligaţii aveţi la semnalele agenţilor căilor ferate, plasaţi la trecerea la nivel cu o cale ferată?
+A. nicio obligaţie, deoarece agenţii căilor ferate dirijează garniturile de tren;
+B. să vă conformaţi semnificaţiei semnalelor acestora;
+C. să reduceţi viteza, să vă asiguraţi, iar, dacă trenul nu este în mişcare, puteţi să continuaţi traversarea căii ferate cu atenţie.
+B
+False
+
+11
+Se interzice întoarcerea vehiculului:
+A. pe marcajul pietonal;
+B. la o distanţă mai mică de 50 m de marcajul pietonal;
+C. în intersecţii, inclusiv în cele cu circulaţie în sens giratoriu.
+A
+False
+
+12
+Vă apropiaţi de o trecere la nivel cu calea ferată curentă fără bariere, în traversarea căreia s-a angajat o căruţă aflată în faţa dvs. În această situaţie puteţi efectua depăşirea?
+A. da, dacă aceasta nu a ajuns încă la linia de tren;
+B. da, întrucât căruţa este un vehicul lent;
+C. nu, întrucât depăşirea este interzisă pe trecerile la nivel cu calea ferată şi la mai puţin de 50m înainte de acestea.
+C
+False
+
+13
+Care este prima măsură pe care trebuie să o ia un conducator de autovehicul atunci când motorul s-a defectat?
+A. verifică sistemul de alimentare cu benzină între rezervor şi carburator;
+B. scoate autovehiculul în afara părţii carosabile sau, când nu este posibil, îl deplasează cât mai aproape de trotuar sau acostament;
+C. verifică instalaţia electrică.
+B
+False
+
+14
+Este permisă parcarea autoturismelor pe trotuar?
+A. nu, întrucât trotuarul este rezervat în exclusivitate deplasării pietonilor;
+B. da, dar numai în acele zone unde există reglementări în acest sens;
+C. da, când vehiculul trebuie scos de pe partea carosabilă pentru a nu stânjeni autovehiculele aflate în mişcare.
+B
+False
+
+15
+Se interzice staţionarea voluntară:
+A. pe drumurile cu mai puţin de două benzi pe sensul de mers;
+B. în zona de acţionare a indicatorului „Circulaţie în ambele sensuri&quot;;
+C. în dreptul căilor de acces care deservesc proprietăţi alăturate drumurilor publice.
+C
+False
+
+16
+Braţele întinse orizontal, ale poliţistului care dirijează circulaţia, semnifică:
+A. oprire pentru toţi participanţii la trafic care, indiferent de sensul lor de mers, circulă din direcţia sau direcţiile intersectate de braţele întinse ale acestuia;
+B. oprire pentru toţi participanţii la trafic care circulă numai din spatele acestuia;
+C. oprire pentru toţi participanţii la trafic care circulă numai din faţa acestuia.
+A
+False
+
+17
+Oprirea voluntară a unui vehicul este interzisă:
+A. în zona de acţiune a indicatorului „Staţionarea interzisă“;
+B. în curbe şi în alte locuri unde vizibilitatea este redusă sub 100 m;
+C. în intersecţiile cu sens giratoriu.
+C
+False
+
+18
+În intersecţii au prioritate de trecere vehiculele care întâlnesc unul dintre indicatoarele:
+A. „Circulaţie în ambele sensuri“;
+B. „Intersecţie cu un drum fără prioritate“;
+C. „Obligatoriu înainte şi la dreapta“.
+B
+False
+
+19
+Conduceţi autovehiculul pe drumurile publice şi refuzaţi recoltarea unor probe biologice în vederea stabilirii alcoolemiei. Veţi fi pedepsit penal?
+A. da;
+B. numai dacă sunteţi implicat într-un accident de circulaţie;
+C. nu.
+A
+False
+
+20
+La intersecţia nedirijată dintre un drum judeţean şi unul comunal sau local, prioritatea de trecere se acordă:
+A. vehiculelor care circulă pe drumul judeţean;
+B. vehiculelor care circulă pe drumul comunal sau local;
+C. vehiculelor care vin din dreapta.
+A
+False
+
+21
+Într-o intersecţie cu sens giratoriu au prioritate de trecere:
+A. vehiculele care circulă din dreapta, faţă de cele care vin din stânga;
+B. vehiculele care aparţin armatei şi poliţiei;
+C. vehiculele care circulă în interiorul intersecţiei, faţă de cele care intră în intersecţie.
+C
+False
+
+22
+Cum se efectuează schimbarea direcţiei de mers spre stânga, în cazul în care două vehicule intră într-o intersecţie, circulând pe acelaşi drum, dar din sensuri opuse?
+A. prin ocolirea centrului intersecţiei;
+B. prin stânga centrului intersecţiei, fără intersectarea traiectoriei acestora;
+C. pe traiectoria cea mai scurtă.
+B
+False
+
+23
+Cum veţi proceda dacă la intrarea într-o intersecţie semaforul este pe semnalul de culoare verde, dar aceasta este blocată din cauza aglomeraţiei?
+A. vă continuaţi deplasarea, deoarece semnalul verde vă permite acest lucru;
+B. claxonaţi şi găsiţi o modalitate de a avansa printre celelalte vehicule;
+C. opriţi şi aşteptaţi deblocarea, după care pătrundeţi în intersecţie pe semnalul verde al semaforului.
+C
+False
+
+24
+Ce obligaţii revin celui care urmează a fi depăşit?
+A. să nu mărească viteza şi să se angajeze cât mai aproape de marginea din dreapta a drumului;
+B. să reducă viteza şi să nu depăşească alt autovehicul;
+C. să semnalizeze că a înţeles intenţia celui care îl urmează.
+A
+False
+
+25
+Semafoarele de avertizare constituite dintr-un corp de iluminat de culoare galbenă intermitentă te informează în legătură cu:
+A. intersecţii nedirijate;
+B. treceri de pietoni izolate;
+C. avarii ale sistemului de semafoare într-o intersecţie.
+B
+False
+
+26
+Ce măsuri trebuie să ia conducatorul autoturismului care, circulând cu viteza maximă de 90km/h, observă că un alt conducător de autovehicul încearcă să-l depăşească?
+A. să nu mărească viteza şi să circule cât mai aproape de partea din dreapta drumului, permiţând efectuarea depăşirii;
+B. să meţină pozitia autoturismului cat mai aproape de axul drumului;
+C. să folosească semnalul sonor pentru a-l atenţiona că depăşeşte limita legală a vitezei.
+A
+False
+
+27
+Înainte de efectuarea unei depăşiri, conducătorul de autovehicul trebuie să se asigure că:
+A. cel depăşit a înţeles intenţia de a fi depăşit;
+B. din sens opus nu se apropie alt autovehicul, spaţiul lateral îi permite trecerea, iar manevra respectivă nu este interzisă;
+C. celălalt conducător a redus viteza.
+B
+False
+
+28
+Mersul înapoi cu autovehiculul este interzis:
+A. la iesirea de pe peroprietăţi alăturate drumurilor publice;
+B. în zona de acţiune a indicatoarelor de avertizare;
+C. pe străzile cu sens unic.
+A
+False
+
+29
+Puteţi trece cu autovehiculul peste o linie continuă dacă:
+A. linia continuă este însoţită de una discontinuă, iar aceasta din urmă este mai apropiată de sensul dvs. de deplasare;
+B. aceasta este aplicată pe drumuri cu mai mult de o bandă pe sensul de mers;
+C. aceasta separă sensurile de circulaţie.
+A
+False
+
+30
+Circulaţia pe banda rezervată transportului public de persoane, semnalizată ca atare, este permisă:
+A. vehiculelor care efectuează transport public de persoane şi autovehiculelor cu regim de circulaţie prioritar, atunci când se deplasează în acţiuni de intervenţie sau în misiuni care au caracter de urgenţă;
+B. numai vehiculelor care efectuează transport public de persoane;
+C. tuturor vehiculelor, dacă nu incomodează circulaţia vehiculelor prioritare.
+A
+False
+
+31
+Sunteţi obligat să vă supuneţi recoltării probelor biologice, în cazul unui accident de circulaţie din care a rezultat moartea sau vătămarea integrităţii corporale ori a sănătăţii unor persoane?
+A. da, dar numai dacă sunteţi vinovat de producerea accidentului;
+B. nu, dacă aţi fost testat cu un aparat autorizat;
+C. da.
+C
+False
+
+32
+În care dintre situaţii oprirea este interzisă:
+A. pe străzile cu sens unic;
+B. în intersecţiile cu sens giratoriu;
+C. în dreptul indicatorului „Parcarea interzisă&quot;.
+B
+False
+
+33
+La intersecţia nedirijată dintre un drum comunal şi unul local, prioritatea de trecere se acordă:
+A. vehiculelor care circulă pe drumul comunal;
+B. vehiculelor care circulă pe drumul local;
+C. vehiculelor care vin din dreapta.
+A
+False
+
+34
+În care dintre situaţii este permisă depăşirea?
+A. în intersecţia semnalizată cu indicatoare de prioritate;
+B. în intersecţia nedirijată;
+C. în intersecţia dirijată, atunci cand din sens opus circulă alt autovehicul.
+A
+False
+
+35
+Este permisă depăşirea altor vehicule la întâlnirea indicatorului „Limitare de viteză“?
+A. da, dar fără a se depăşi viteza înscrisă pe indicator;
+B. în asemenea zone depăşirea ste interzisă până la întâlnirea indicatorului „Sfârşitul tuturor restricţiilor“;
+C. da, dar numai a vehiculelor care se deplasează cu viteză redusă.
+A
+False
+
+36
+Semnalele date dintr-un autovehicul al poliţiei, care însoţeşte o coloană oficială, prin folosirea mijloacelor speciale de avertizare sonoră şi luminoasă, obligă la:
+A. intrarea pe prima stradă în dreapta;
+B. oprirea de îndată pe partea dreaptă a drumului, cât mai aproape de trotuar sau de acostament ori, dacă este posibil, în afara părţii carosabile;
+C. reducerea vitezei şi deplasarea pe lângă bordură sau acostament.
+B
+False
+
+37
+La întâlnirea unui vehicul care circulă noaptea, din sens opus, pe un drum neiluminat, conducătorul de autovehicul este obligat:
+A. să circule cât mai aproape de marginea din dreapta a drumului;
+B. să reducă viteza;
+C. să folosească avertizorul sonor.
+B
+False
+
+38
+Ce obligaţii are conducătorul auto care intenţionează să repună în mişcare autovehiculul aflat între alte vehicule staţionate?
+A. semnalizează plecarea de pe loc, pentru a fi observat de cei care circulă în acelaşi sens;
+B. se asigură, semnalizează manevra şi acordă prioritate vehiculelor care circulă pe drum, indiferent de direcţia lor de mers;
+C. manevrează cu grijă pentru a nu lovi vehiculele din faţa sau din spatele său, după care se repune în mişcare.
+B
+False
+
+39
+La semnalul poliţistului situat într-o intersecţie, cu braţul ridicat vertical, aveţi obligaţia:
+A. să circulaţi cu prudenţă maximă;
+B. să reduceţi viteza;
+C. să opriţi, indiferent din ce direcţie circulaţi.
+C
+False
+
+40
+Când poliţistul se află cu spatele la autovehiculul care se apropie şi cu braţul stâng întins orizontal, conducătorul acestuia trebuie:
+A. să continue deplasarea, deoarece semnalul de oprire nu i se adresează;
+B. să schimbe direcţia de mers spre stânga;
+C. să oprească, deoarece semnalul i se adresează.
+A
+False
+
+41
+Dacă semaforul în funcţiune se află instalat de cealaltă parte a intersecţiei, conducătorul de autovehicul:
+A. nu este obligat să respecte semnificaţia semnalelor luminoase, deoarece nu i se adresează;
+B. este obligat să respecte semnificaţia semnalelor luminoase, doar dacă semaforul este însoţit de un semn adiţional care indică direcţiile cărora li se adresează semnalele;
+C. este obligat să respecte semnificaţia semnalelor luminoase ale acestuia, dacă un alt semafor instalat la intrarea în intersecţie are în funcţiune un semnal similar.
+C
+False
+
+42
+Ce obligaţii îţi revin la plecarea de pe loc cu autovehiculul:
+A. să aprinzi luminile de poziţie;
+B. să semnalizezi din timp plecarea de pe loc, să te asiguri că poţi efectua manevra fără a perturba circulaţia sau fără a pune în pericol siguranţa celorlaţi participanţi la trafic şi să acorzi prioritate vehiculelor care circula pe drumul public, indiferent de directia de deplasare;
+C. să accelelerezi progresiv motorul.
+B
+False
+
+43
+Încredinţarea cu ştiinţă a unui autovehicul, pentru a fi condus pe drumul public, unei persoane care nu posedă permis de conducere se pedepseşte:
+A. penal;
+B. contravenţional;
+C. cu amendă contravenţională şi anularea permisului de conducere.
+A
+False
+
+44
+Cum vei proceda dacă, apropiindu-te de o intersecţie, observi aprinse simultan luminile de culoare roşie şi galbenă ale semaforului?
+A. reduci viteza şi continui drumul, dacă intenţionezi să virezi la dreapta;
+B. circuli cu prudenţă, deoarece semaforul este defect;
+C. opreşti şi aştepţi culoarea verde a semaforului.
+C
+False
+
+45
+Ce obligaţii îi revin conducătorului de autovehicul care a accidentat un pieton ce a traversat strada printr-un loc nepermis?
+A. să se prezinte de urgenţă la cea mai apropiată unitate de poliţie;
+B. întrucât nu este vinovat de accident, poate părăsi locul faptei;
+C. să anunţe poliţia şi, în lipsa altor mijloace de transport, să-l transporte el însuşi la cea mai apropiată unitate sanitară, apoi să se întoarcă la locul accidentului.
+C
+False
+
+46
+Conducătorul unui autovehicul poate executa o depăşire la întâlnirea indicatorului „Limitare de viteză“?
+A. da, dacă în timpul manevrei viteza sa nu este mai mare decât cea înscrisă pe indicator;
+B. nu, până la întâlnirea indicatorului care semnalizează terminarea zonei de limitare a vitezei;
+C. da, dacă depăşirea se execută în afara unei localităţi.
+A
+False
+
+47
+Trebuie respectată semnificaţia unui indicator instalat pe partea stângă a drumului, orientat către conducătorii de vehicule care se apropie?
+A. nu, deoarece se adresează circulaţiei din sens invers;
+B. da, dar numai de către cei care circulă pe banda cea mai apropiată de axul drumului;
+C. da, de către toţi conducătorii de vehicule care îl întâlnesc.
+C
+False
+
+48
+În care dintre situaţii este interzis să circulaţi pe drumurile publice?
+A. atunci când certificatul de înmatriculare este deteriorat;
+B. atunci când vehiculul nu este asigurat de răspundere civilă, în caz de pagube materiale produse terţilor prin accidente de circulaţie, conform legii;
+C. atunci când conducătorul auto nu a plătit taxa de folosire a drumurilor publice.
+B
+False
+
+49
+Este permisă depăşirea când din sens opus se apropie un alt autovehicul?
+A. da, dacă cel care se apropie din sens opus a redus viteza de deplasare;
+B. da, dacă cel care se apropie din sens opus nu este obligat să efectueze diferite manevre pentru a evita o coliziune;
+C. nu, în astfel de situaţii depăşirea este interzisă.
+B
+False
+
+50
+De regulă, depăşirea vehiculelor se efectuează:
+A. pe partea dreaptă;
+B. pe partea dreaptă, dacă există bandă de refugiu;
+C. pe partea stanga.
+C
+False
+
+51
+Luminile de întâlnire se folosesc pe timpul zilei:
+A. pe autostradă, în afara localităţilor;
+B. pe autostradă, drum expres sau drum naţional european;
+C. pe drumurile forestiere.
+B
+False
+
+52
+În ce situaţie se reţine permisul de conducere?
+A. atunci când nu se respectă obligaţia de reducere a vitezei;
+B. atunci când nu se respectă normele referitoare la prioritatea de trecere a pietonilor;
+C. atunci când se încalcă normele legale referitoare la staţionare.
+B
+False
+
+53
+Când se folosesc triunghiurile reflectorizante?
+A. în cazul rîmânerii în pană, dacă scoaterea în afara părţii carosabile a autovehiculului nu este posibilă;
+B. în cazul staţionăriiîndelungate pe timp de noapte;
+C. în cazul staţionării, când vizibilitatea este redusă.
+A
+False
+
+54
+Ce obligaţii aveţi la semnalul galben intermitent al semaforului electric?
+A. opriţi, pentru că nu puteţi intra în intersecţie;
+B. reduceţi viteza şi vă continuaţi deplasarea cu atenţie, ocolind pietonii;
+C. reduceţi viteza şi circulaţi respectând regulile aplicabile în acea intersecţie.
+C
+False
+
+55
+Pe străzile cu sens unic este interzis:
+A. să întoarceţi autovehiculul;
+B. să viraţi la stânga sau la dreapta;
+C. să manevraţi înapoi autovehiculul.
+A
+False
+
+56
+În care dintre situaţii este interzisă depăşirea vehiculelor?
+A. când din sens opus se apropie alt vehicul;
+B. în apropierea vârfurilor de pantă, când vizibilitatea este redusă sub 50m;
+C. în staţiile de tramvai prevăzute cu refugiu pentru pietoni.
+B
+False
+
+57
+În care dintre următoarele situaţii conducătorul unui autovehicul este obligat să folosească luminile de întâlnire sau de drum?
+A. în cazul arterelor de circulaţie slab iluminate, când vizibilitatea este redusă, în mers, atât în localităţi, cât şi în afara acestora;
+B. în cazul staţionării pe timp de noapte pe partea carosabilă a drumurilor naţionale sau în cazul parcării autovehiculului în locuri special amenajate, dar neiluminate;
+C. pe timp de zi pe drumurile naţionale, în situaţiile în care traficul este supraaglomerat.
+A
+False
+
+58
+Cum procedează conducătorul de autovehicul la întâlnirea indicatorului „Oprire“?
+A. opreşte unde are o bună vizibilitate pentru a se asigura şi îşi continuă deplasarea, dacă pe drumul transversal nu circulă alte vehicule;
+B. reduce viteza, se asigură, după care intră în intersecţie;
+C. reduce viteza, după care traversează intersecţia.
+A
+False
+
+59
+Ce semnifică semnalul poliţistului aflat într-o intersecţie, cu braţul drept întins orizontal?
+A. oprire pentru vehiculele şi pietonii care vin din faţa acestuia;
+B. oprire pentru vehiculele şi pietonii care vin din spatele acestuia;
+C. oprire pentru vehiculele şi pietonii care vin din faţa şi din spatele acestuia.
+B
+False
+
+60
+Când deasupra fiecărei benzi de circulaţie se află în funcţiune câte un semafor, conducătorul trebuie:
+A. să respecte semnificaţia semnalului luminos al semaforului instalat deasupra benzii din stânga;
+B. să respecte semnificaţia semnalului luminos al semaforului instalat pe trotuar;
+C. să respecte semnificaţia semnalului luminos instalat deasupra benzii pe care se află.
+C
+False
+
+61
+Vă este permis să parcaţi autovehiculul pe drumurile publice:
+A. în locurile special amenajate şi semnalizate prin indicatoare şi marcaje rutiere;
+B. acolo unde nu există parcări amenajate;
+C. acolo unde circulaţia în ambele sensuri se desfăşoară fără dificultate.
+A
+False
+
+62
+Conducătorul unui autovehicul este obligat:
+A. să permită controlul stării tehnice a vehiculului, precum şi a bunurilor transportate, în condiţiile legii;
+B. să se prezinte la verificarea medicală periodică, potrivit legii;
+C. să transporte poliţişti, la cererea acestora.
+A
+False
+
+63
+Parcarea este permisă:
+A. numai în locurile special destinate, semnalizate prin indicatoare sau marcaje;
+B. pe orice drum public, unde staţionarea nu este interzisă, cu condiţia să nu se stânjenească circulaţia celorlalte vehicule;
+C. numai pe străzile cu o lăţime de cel puţin 6 m.
+A
+False
+
+64
+Eşti obligat să reduci viteza până la maximum 30km/h în localităţi, într-unul din cazurile:
+A. la întâlnirea indicatorului „Oprire“;
+B. la întâlnirea indicatorului „Intersecţie cu un drum fără prioritate“;
+C. la trecerea prin intersecţiile cu circulaţie nedirijată.
+C
+False
+
+65
+Ai obligaţia de a folosi lumina de întâlnire şi pe timp de zi, în următoarele situaţii:
+A. când din sens opus se apropie alte vehicule;
+B. când circuli pe autostrăzi, drumuri expres sau naţional europene;
+C. la traversarea localităţilor.
+B
+False
+
+66
+Autovehiculele nu pot circula pe drumurile publice atunci când:
+A. nu sunt asigurate pentru răspundere civilă în caz de pagube produse terţilor prin accidente de circulaţie;
+B. au certificatul de înmatriculare deteriorat sau acest document a fost pierdut;
+C. au o vechime mai mare de 30 de ani de la data fabricaţiei.
+A
+False
+
+67
+Conducerea pe drumul public de către o persoană având o imbibaţie de alcool de peste 0,8 g/l pur în sânge se pedepseşte cu:
+A. amendă contravenţională şi reţinerea permisului de conducere;
+B. amendă penală şi anularea permisului de conducere;
+C. închisoare şi anularea permisului de conducere.
+C
+False
+
+68
+Este interzisă oprirea voluntară:
+A. pe trecerile pentru pietoni sau la mai puţin de 25 m, înainte şi după acestea;
+B. la o distanţă mai mică de 100 m, înainte şi după trecerea la nivel cu calea ferată;
+C. la o distanţă mai mică de 50 m, înainte şi după staţiile mijloacelor de transport public.
+A
+False
+
+69
+În ce situaţie, pe timp de zi, conducătorii sunt obligaţi să folosească luminile de întâlnire?
+A. când tractează alte vehicule;
+B. când circulă pe şoselele naţionale;
+C. când este rămas în pană.
+A
+False
+
+70
+Ce obligaţii revin conducătorilor de vehicule la trecerea autovehiculelor cu regim de circulaţie prioritară, care au în funcţiune mijloacele speciale de avertizare luminoasă de culoare albastră şi pe cele de avertizare sonoră?
+A. să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau de bordura trotuarului, în sensul de deplasare;
+B. să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare;
+C. să scoată vehiculul în afara drumului, indiferent prin ce mijloace.
+B
+False
+
+71
+Ce obligaţii aveţi la întâlnirea indicatorului „Biciclişti“?
+A. să reduceţi viteza la maximum 30 km/h;
+B. să circulaţi cu atenţie şi, dacă este cazul, acordaţi prioritate de trecere bicicliştilor care circulă pe pista special destinată;
+C. nu aveţi nicio obligaţie, bicicliştii vă vor acorda prioritate.
+B
+False
+
+72
+Ce semnificaţie are marcajul longitudinal aplicat sub forma unei linii continue pe axul drumurilor publice?
+A. ajută conducătorii auto să se orienteze pe timp de noapte;
+B. nu permite încălcarea lui de către conducătorii de vehicule;
+C. permite depăşirea vehiculelor.
+B
+False
+
+73
+În care dintre situaţii conducătorul de autovehicule este obligat, pe timp de noapte, să schimbe lumina de drum cu cea de întâlnire?
+A. când drumul este neiluminat;
+B. când circulă în localitate, pe un drum cu mai multe benzi pe sens;
+C. în cazul în care din sens opus se apropie un autovehicul, de la o distanţă de cel puţin 200 m.
+C
+False
+
+74
+Sunteţi obligat să opriţi autovehiculul pe care îl conduceţi:
+A. la semnalul poliţistului care dirijează circulaţia;
+B. la semnalul poliţistului, dar numai dacă acesta corespunde semnalului de culoare roşie al semaforului;
+C. la semnalul pietonilor care traversează strada pe la colţul intersecţiei fără marcaje.
+A
+False
+
+75
+Luminile de poziţie pe timp de zi se folosesc atunci când:
+A. vehiculul este oprit pentru urcarea sau coborârea pasagerilor;
+B. vehiculul este avariat;
+C. vizibilitatea este redusă, autovehiculul fiind oprit pe partea carosabilă.
+C
+False
+
+76
+Cum procedează conducătorul de autovehicul când, la apropierea de o trecere la nivel cu calea ferată fără bariere, luminile roşii din dreptul indicatorului de atenţie în cruce se aprind şi se sting alternativ?
+A. reduce viteza şi opreşte numai în cazul apropierii trenului;
+B. opreşte vehiculul fără a depăşi indicatorul;
+C. reduce viteza şi, după ce se asigură, îşi continuă deplasarea.
+B
+False
+
+77
+În timp ce conduceţi un autoturism, aveţi voie să efectuaţi manevra de depăşire a unui autobuz oprit în staţie pentru urcarea şi coborârea călătorilor?
+A. da;
+B. da, numai dacă lăţimea drumului public este mai mare de 6 m;
+C. nu, în acest caz depăşirea este interzisă.
+A
+False
+
+78
+În care dintre situaţii este interzisă schimbarea direcţiei de mers spre stânga?
+A. când conducătorul de vehicul este încadrat pe rândul din stânga şi drumul are două rânduri pe sens;
+B. când drumul pe care urmează să se intre este semnalizat cu indicatorul „Circulaţia interzisă în ambele sensuri”;
+C. când strada pe care urmează să se intre este semnalizată cu indicatorul „Drum fără ieşire”.
+B
+False
+
+79
+Rotirea vioaie a braţului poliţistului semnifică:
+A. mărirea vitezei de deplasare sau grăbirea traversării drumului de către pietoni;
+B. oprirea temporară a circulaţiei;
+C. reducerea vitezei de deplasare.
+A
+False
+
+80
+Oprirea este interzisă:
+A. la o distanţă mai mică de 25 m de colţul intersecţiei;
+B. pe drumul cu sens unic;
+C. la o distanţă de 5 m în spatele ultimului vagon de tramvai oprit în staţia fără refugiu pentru pietoni.
+A
+False
+
+81
+Cum trebuie să procedeze conducătorul unui autovehicul la trecerea la nivel cu calea ferată, atunci când barierele sunt ridicate?
+A. să reducă viteza, fără a depăşi linia continuă pentru oprire;
+B. să oprească autovehiculul în locul unde vizibilitatea este maximă, fără a depăşi indicatorul de prioritate în cruce;
+C. să reducă viteza autovehiculului şi să traverseze cu atenţie, asigurându-se că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.
+C
+False
+
+82
+Interzicerea trecerii la nivel cu calea ferată curentă, prevăzută cu instalaţii de semnalizare automată fără bariere, se realizează prin:
+A. dispozitivele cu lumini intermitent-alternative roşii şi stingerea semnalizării reprezentată de lumina albă intermitentă;
+B. semnalele luminoase intermitente de culoare albă;
+C. dispozitivele optice cu lumini alternative roşii şi albe.
+A
+False
+
+83
+Prioritatea de trecere se acordă în următoarea situaţie:
+A. la întâlnirea indicatorului „Prioritate pentru circulaţia din sens invers&quot;;
+B. la întâlnirea indicatorului „Intersecţie cu un drum fără prioritate&quot;;
+C. la întâlnirea indicatorului „Sfârşitul drumului cu prioritate&quot;.
+A
+False
+
+84
+Reducerea vitezei este obligatorie:
+A. la trecerile pentru pietoni prevăzute cu indicatoare şi marcaje;
+B. în zona de acţiune a indicatorului „Copii“, între orele 7:00 si 22:00;
+C. la trecerea pe lângă troleibuzele sau autobuzele oprite în staţie.
+B
+False
+
+85
+În ce situaţie se reţine permisul de conducere?
+A. pentru neefectuarea examenului medical;
+B. atunci când s-a încălcat semnificaţia luminii de culoare galbenă a semaforului;
+C. pentru depăşirea cu mai mult de 50 km/h a vitezei maxime admise.
+C
+False
+
+86
+Este permisă trecerea peste marcajul longitudinal format dintr-o linie continua şi alta discontinua?
+A. da, atunci când conducatorul vehiculului urmează să efectueze o depăşire;
+B. da, dacă linia discontinuă este cea mai apropiată de vehicul în direcţia de mers;
+C. nu, chiar în cazul în care linia discontinuă este cea mai apropiată de vehicul.
+B
+False
+
+87
+Constituie infracţiune conducerea unui autovehicul sau tramvai, dacă:
+A. conducătorul este sub influenţa unor stupefiante sau a unor medicamente cu efecte similare acestora;
+B. conducătorul a consumat medicamente recomandate de medic;
+C. conducătorul nu a efectuat testul psihologic.
+A
+False
+
+88
+Cum se execută corect manevra de a vira la stânga, pentru două autovehicule care ajung simultan într-o intersecţie?
+A. îşi acordă reciproc prioritate;
+B. ocolesc centrul imaginar al intersecţiei;
+C. efectuează manevra prin stânga centrului intersecţiei, fără intersectarea traiectoriilor.
+C
+False
+
+89
+În care dintre situaţiile de mai jos este interzisă oprirea vehiculelor pe drumurile publice?
+A. în intersecţiile cu sens giratoriu;
+B. în zona de acţiune a indicatorului „Staţionarea interzisă“;
+C. pe arterele cu un singur sens de circulaţie.
+A
+False
+
+90
+Mersul înapoi este interzis:
+A. la mai puţin de 100 m de trecerile la nivel cu calea ferată;
+B. la ieşirea din curţi, garaje sau ganguri;
+C. pe străzile unde circulaţia se desfăşoară într-un singur sens.
+B
+False
+
+91
+Pe ce drumuri sunt permise oprirea şi staţionarea vehiculelor şi pe partea stângă, în sensul de mers?
+A. pe drumurile cu trafic redus;
+B. pe drumurile cu sens unic, dacă rămâne liberă cel puţin o bandă de circulaţie;
+C. pe orice drum.
+B
+False
+
+92
+Este permis mersul înapoi al unui autoturism pe o stradă pe care circulaţia se desfăşoară în sens unic?
+A. nu;
+B. da, dar numai pe o distanţă de cel mult 50m;
+C. da, numai pe o distanţă care să nu depaşească 100m.
+B
+False
+
+93
+Imobilizarea voluntară a unui vehicul se consideră oprire, dacă:
+A. durează cel mult 5 minute;
+B. vehiculul a fost oprit pentru îmbarcarea sau debarcarea unor persoane, fără ca prin aceasta să fie perturbată circulaţia;
+C. vehiculele de până la 3,5 tone execută operaţiunea de aprovizionare cu mărfuri alimentare.
+A
+False
+
+94
+Lumina galbenă intermitentă instalată în zona trecerilor pentru pietoni vă obligă la:
+A. reducerea vitezei, având grijă să feriţi pietonii care traversează;
+B. reducerea vitezei şi folosirea luminii farurilor, pentru avertizarea pietonilor care intenţionează să se angajeze în traversare;
+C. reducerea vitezei şi respectarea semnalizării şi a regulilor de circulaţie aplicabile în acea zonă.
+C
+False
+
+95
+Viteza de deplasare trebuie să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor:
+A. la întâlnirea indicatorului „Drum cu prioritate“;
+B. în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50m;
+C. atunci cand se circulă în aceeaşi direcţie cu autobuzele oprite în staţie, pe drumurile cu o singură bandă pe sens.
+B
+False
+
+96
+Semnalul galben intermitent al semaforului:
+A. anunţă apariţia semnalului roşu;
+B. obligă conducătorii vehiculelor să reducă viteza şi să circule respectând regulile de circulaţie aplicabile în acea intersecţie;
+C. interzice intrarea în intersecţie.
+B
+False
+
+97
+Ce obligaţii are conducătorul unui vehicul care intră pe o autostradă folosind banda de accelerare?
+A. să se asigure că intrarea pe autostradă nu este periculoasă;
+B. să ajungă la viteza maximă de 130 km/h şi să semnalizeze;
+C. să cedeze trecerea tuturor autovehiculelor care circulă pe prima bandă a autostrăzii şi să nu stânjenească în nici un fel circulaţia acestora.
+C
+False
+
+98
+Se interzice oprirea voluntară:
+A. în locurile în care este permisă depăşirea;
+B. la o distanţă mai mică de 30m, înainte şi după staţiile mijloacelor de transport public de persoane;
+C. în locul în care se împiedică vizibilitatea unui semnal luminos.
+C
+False
+
+99
+În ce situaţie vă este permis să opriţi vehiculul sau să staţionaţi pe partea stângă a sensului de mers?
+A. pe drumurile cu sens unic, dacă rămâne liberă cel puţin o bandă de circulaţie;
+B. pe drumurile secundare;
+C. pe drumurile cu cel puţin două benzi pe sens.
+A
+False
+
+100
+La intersecţia nedirijată dintre un drum naţional şi unul judeţean, comunal sau local, prioritatea de trecere se acordă:
+A. vehiculelor care circulă pe drumul judeţean, comunal sau local;
+B. vehiculelor care vin din dreapta;
+C. vehiculelor care circulă pe drumul naţional.
+C
+False
+
+101
+Dacă circulaţi pe un drum naţional european (E), vă este interzis:
+A. să folosiţi pe timpul zilei luminile de întâlnire;
+B. să opriţi pe partea carosabilă;
+C. să depăşiţi.
+B
+False
+
+102
+Sunteţi obligat să opriţi la semnalele date de:
+A. îndrumătorii de circulaţie ai Ministerului Apărării;
+B. conducătorii vehiculelor de ambulanţă;
+C. inspectorii primăriei.
+A
+False
+
+103
+Care dintre următoarele fapte constituie infracţiuni?
+A. nerespectarea semnalelor poliţiştilor la trecerea coloanelor oficiale;
+B. conducerea sub influenţa unor produse sau substanţe stupefiante sau a unor medicamente cu efecte similare;
+C. depăşirea limitei legale de viteză cu peste 50 km/h.
+B
+False
+
+104
+Care este viteza maximă cu care poate circula conducătorul unu autovehicul din categoria „B“, în afara localităţilor, pe un drum naţional european?
+A. 80 km/h;
+B. 90 km/h;
+C. 100 km/h.
+C
+False
+
+105
+Conducătorii de vehicule trebuie să respecte regulile de circulaţie, generale şi particulare, în următoarea ordine:
+A. semnalele, indicaţiile şi dispoziţiile poliţistului rutier; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară; semnalizarea temporară;
+B. semnalele, indicaţiile şi dispoziţiile poliţistului rutier; semnalizarea temporară; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară;
+C. semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară; semnalele, indicaţiile şi dispoziţiile poliţistului rutier; semnalizarea temporară.
+A
+False
+
+106
+În care dintre situaţii depăşirea este interzisă?
+A. în intersecţiile cu circulaţie nedirijată şi la trecerile pentru pietoni semnalizate;
+B. în intersecţii şi la o distanţă de 50 m de acestea;
+C. în zona de acţiune a indicatorului „Limitare de viteză“.
+A
+False
+
+107
+În ce situaţii conducatorii de vehicule sunt obligaţi să reducă viteza?
+A. la urcarea pantelor;
+B. la schimbarea direcţiei de mers prin viraje;
+C. la depăţirea tramvaiului oprit în staţiile fără refugiu pentru pietoni.
+B
+False
+
+108
+Când nu este permis să măriţi viteza de deplasare a autovehiculului?
+A. când circulaţi pe prima bandă;
+B. când un alt vehicul s-a angajat în depăşirea dvs.;
+C. în intersecţii.
+B
+False
+
+109
+Cu cât se prelungeşte perioada de suspendare a exercitării dreptului de a conduce, dacă testul de cunoaştere a regulilor de circulaţie nu a fost promovat?
+A. cu 30 de zile;
+B. cu 60 de zile;
+C. cu 90 de zile.
+A
+False
+
+110
+Se interzice oprirea voluntară:
+A. la mai puţin de 100 m de calea ferată industrială;
+B. pe trotuar;
+C. în zona de acţiune a indicatorului „Prioritate faţă de circulaţia din sens invers&quot;.
+C
+False
+
+111
+Ce măsuri trebuie să luaţi atunci când circulaţi în condiţii atmosferice ce împiedică mult vizibilitatea?
+A. să circulaţi pe distanţe scurte şi cu luminile de poziţie în funcţiune;
+B. să folosiţi luminile de poziţie şi să circulaţi cât mai aproape de marginea din dreapta a drumului;
+C. să folosiţi luminile de întâlnire.
+C
+False
+
+112
+Manevra de ocolire, prin schimbarea direcţiei de mers, a unui obstacol aflat pe sensul tău de circulaţie, urmată de revenirea pe acelaşi sens, constituie:
+A. ocolire;
+B. depăşire;
+C. situaţie de urgenţă.
+B
+False
+
+113
+Te afli într-o intersecţie cu sens giratoriu şi vrei să virezi pe prima stradă la dreapta. Ce obligaţii ai?
+A. să opreşti autovehiculul, să te asiguri, apoi să execuţi schimbarea direcţiei de mers spre dreapta;
+B. să ocoleşti sensul giratoriu, apoi să schimbi direcţia de mers spre dreapta;
+C. să semnalizezi intenţia de a executa manevra, să te angajezi cât mai aproape de marginea din dreapta, apoi să intri pe strada respectivă.
+C
+False
+
+114
+Este interzisă depăşirea:
+A. tuturor vehiculelor, la 100 m de trecerile la nivel cu calea ferată curentă;
+B. vehiculelor cu tracţiune animală, motocicletelor fără ataş, mopedelor şi bicicletelor, dacă vizibilitatea asupra drumului este asigurată pe o distanţă mai mare de 20 m, iar lăţimea drumului este de cel puţin 7 m;
+C. în intersecţiile cu circulaţie nedirijată.
+C
+False
+
+115
+Cum procedezi atunci când, deplasându-te cu autovehiculul pe un drum public, întâlneşti un agent de circulaţie orientat cu spatele către tine şi cu braţele întinse orizontal?
+A. opreşti autovehiculul;
+B. îţi continui drumul;
+C. reduci viteza.
+A
+False
+
+116
+Într-o intersecţie întâlneşti semnalul de culoare galbenă intermitentă. Cum vei proceda corect?
+A. măreşti viteza şi grăbeşti traversarea;
+B. reduci viteza şi respecţi semnificaţia semnalizării rutiere şi a regulilor de circulaţie aplicabile în acel loc;
+C. aştepţi semnalul de culoare verde.
+B
+False
+
+117
+Într-o zonă rezidenţială semnalizată ca atare:
+A. copiii nu se pot juca pe partea carosabilă;
+B. pietonii pot folosi toată lăţimea părţii carosabile;
+C. viteza maximă admisă este de 30 km/h.
+B
+False
+
+118
+Conducătorul unui autovehicul angajat într-un accident din care a rezultat moartea sau rănirea unei persoane poate părăsi locul faptei fără încuviinţarea poliţiei?
+A. da, dacă autovehiculul a blocat circulaţia;
+B. da, dacă accidentul nu s-a produs din vina sa;
+C. nu, întrucât fapta constituie infracţiune.
+C
+False
+
+119
+Dacă într-o intersecţie conducătorul de vehicul întâlneşte semnalul verde al semaforului, precum şi indicatorul „Cedează trecerea“, el este obligat:
+A. să respecte semnificaţia semnalului verde;
+B. să respecte semnificaţia indicatorului;
+C. să respecte semnificaţia semnalului verde, acordând prioritate de trecere vehiculelor care circulă pe drumul prioritar.
+A
+False
+
+120
+Ce obligaţii ai când urmează să fii depăşit?
+A. să nu măreşti viteza de mers;
+B. să reduci viteza de mers;
+C. să confirmi prin semnale că ai observat manevra.
+A
+False
+
+121
+Se interzice depăşirea:
+A. atunci când se încalcă marcajul continuu longitudinal;
+B. în zonele cu trafic intens;
+C. când se încalcă marcajul discontinuu longitudinal.
+A
+False
+
+122
+Dacă circuli în interiorul unei intersecţii cu sens giratoriu, acorzi prioritate:
+A. nicunui vehicul;
+B. vehiculelor care urmează să intre în intersecţie;
+C. autobuzelor si troleibuzelor.
+A
+False
+
+123
+Semnificaţia indicatoarelor de interzicere sau restricţie, în lipsa altor precizări, încetează:
+A. la 100 m de locul unde este instalat indicatorul;
+B. la 200 m de locul unde este instalat indicatorul;
+C. în prima intersecţie.
+C
+False
+
+124
+În care dintre situaţiile de mai jos este interzisă depăşirea vehiculelor?
+A. în zona de acţiune a indicatorului „Alte pericole“;
+B. la mai puţin de 50 m de o intersecţie;
+C. în curbe, unde vizibilitatea este redusă sub 50 m.
+C
+False
+
+125
+Cum se pedepseşte conducerea pe drumurile publice a unui autovehicul din categoria C, de către o persoană al cărei permis este valabil pentru categoria B?
+A. penal;
+B. contravenţional;
+C. amendă contravenţională şi reţinerea permisului de conducere.
+A
+False
+
+126
+Constituie infracţiune conducerea unui autovehicul de către o persoană având o îmbibaţie alcoolică de:
+A. sub 0,80 g/l alcool pur în sânge;
+B. sub 0,50 g/l alcool pur în sânge;
+C. peste 0,80 g/l alcool pur în sânge.
+C
+False
+
+127
+În ce situaţie este interzisă întoarcerea?
+A. în apropierea staţiilor de tramvai;
+B. când vizibilitatea este redusă sub 100m;
+C. în zona de acţiune a indicatorului „Prioritate pentru circulaţia din sens invers“.
+C
+False
+
+128
+În ce situaţie este interzisă întoarcerea?
+A. când vehiculul se află pe un pod, sub un pod, într-un tunel, pe un viaduct sau un pasaj denivelat;
+B. pe drumurile cu două benzi de circulaţie pe sens;
+C. la întâlnirea indicatorului „Limitare de viteză“.
+A
+False
+
+129
+Pentru care dintre faptele de mai jos se aplică măsura reţinerii permisului de conducere?
+A. pentru nerespectarea semnalelor, indicaţiilor şi dispoziţiilor poliţistului rutier aflat în exercitarea atribuţiilor de serviciu;
+B. pentru nerespectarea dispoziţiilor legale referitoare la oprire şi staţionare;
+C. pentru încălcarea normelor legale referitoare la semnalizarea vehiculelor.
+A
+False
+
+130
+Cum procedează conducătorul de autovehicul atunci când, apropiindu-se de o trecere la nivel cu calea ferată, prevăzută cu bariere ori semibariere, cele două lumini roşii funcţionează intermitent-alternativ?
+A. continuă deplasarea, dacă barierele nu sunt coborâte;
+B. opreşte, deoarece barierele sunt închise sau urmează să coboare;
+C. continuă deplasarea fără interdicţie, deoarece luminile semnalizează doar prezenţa unei treceri la nivel cu calea ferată.
+B
+False
+
+131
+Dacă la trecerea la nivel cu calea ferată constaţi că un vehicul este blocat pe calea ferată, cum vei proceda?
+A. îţi continui drumul, deoarece degajarea căii ferate se va face de către personalul calificat;
+B. opreşti şi anunşi telefonic poliţia despre acest incident;
+C. acorzi sprijin pentru scoaterea vehiculului de pe calea ferată sau, dacă nu este posibil, semnalizezi prezenţa acestuia.
+C
+False
+
+132
+Ce obligaţii aveţi la semnalul membrilor patrulelor şcolare de circulaţie, la trecerile pentru pietoni din apropierea unităţilor de învăţământ?
+A. să reduceţi viteza şi să circulaţi cu atenţie;
+B. să treceţi pe banda de lângă axul drumului;
+C. să opriţi.
+C
+False
+
+133
+Pe străzile cu sens unic, se poate manevra vehiculul cu spatele?
+A. nu, pe străzile cu sens unic această manevră este interzisă prin lege;
+B. da, dar nu mai mult de 100m;
+C. da, dar nu mai mult de 50m.
+C
+False
+
+134
+Ce obligaţii aveţi la întâlnirea indicatorului „Animale“?
+A. să reduceţi viteza numai la semnalul celor care însoţesc animale;
+B. circulaţi cu atenţie şi, dacă se impune, reduceţi viteza;
+C. nu aveţi nicio obligaţie, deoarece indicatorul se adresează persoanelor care însoţesc animale.
+B
+False
+
+135
+Cum veţi proceda corect dacă, aflându-vă în interiorul unei intersecţii cu circulaţie în sens giratoriu, observaţi că pe un drum lateral circulă o coloană cu regim de circulaţie prioritară?
+A. vă continuaţi drumul, deoarece aveţi prioritate de trecere în sensul giratoriu;
+B. opriţi şi acordaţi prioritate coloanei cu regim prioritar;
+C. viraţi la dreapta şi părăsiţi intersecţia.
+B
+False
+
+136
+Puteţi schimba poziţia autovehiculului, dacă acesta a fost implicat într-un accident din care a rezultat moartea sau vătămarea integrităţii corporale ori a sănătăţii unor persoane?
+A. da, cu încuviinţarea poliţiei, care cercetează accidentul;
+B. da, dacă persoana vătămată se poate deplasa singură;
+C. nu, până la sosirea ambulanţei.
+A
+False
+
+137
+Scoaterea pe partea laterală din dreapta, a bastonului reflectorizant de către poliţistul care însoţeşte o coloană oficială de autovehicule obligă conducătorii:
+A. să reducă imediat viteza şi să circule cât mai aproape de marginea drumului;
+B. să oprească cât mai aproape de marginea drumului, iar acolo unde este posibil, să scoată vehiculul în afara părţii carosabile;
+C. să reducă viteza şi să iasă în afara drumului imediat ce este posibil, prin viraj la dreapta.
+B
+False
+
+138
+Cum veţi proceda corect la întâlnirea indicatoarelor „Oprire“ şi „Trecere la nivel cu o cale ferată dublă fără bariere“?
+A. opriţi şi vă asiguraţi, la 1 m de calea ferată;
+B. reduceţi viteza şi traversaţi cu atenţie linia ferată;
+C. opriţi în locul în care există vizibilitate maximă asupra căii ferate, fără a depăşi indicatoarele menţionate sau marcajul pentru oprire.
+C
+False
+
+139
+Cu ce viteză veţi circula în condiţii de ceaţă, ploi torenţiale, ninsori abundente, dacă vizibilitatea este redusă sub 100 m?
+A. maxim 50 km/h în localităţi sau 60 km/h în afara localităţilor;
+B. reduceţi viteza până la limita evitării oricărui pericol;
+C. maxim 30 km/h în localităţi sau 50 km/h în afara localităţilor.
+C
+False
+
+140
+Conducătorul unui vehicul implicat într-un accident de circulaţie, din care au rezultat numai pagube materiale, este obligat să se supună recoltării probelor biologice, dacă aerul expirat, testat cu un aparat autorizat, arată o concentraţie:
+A. mai mică de 0,40 mg/l alcool pur;
+B. mai mare de 0,80 mg/l alcool pur;
+C. mai mare de 0,40 mg/l alcool pur.
+C
+False
+
+141
+Care sunt vehiculele care au prioritate în sensul giratoriu?
+A. toate vehiculele care au pătruns în sensul giratoriu, faţă de cele care urmează să pătrundă;
+B. toate autovehiculele care vin din faţă;
+C. toate vehiculele care vin din dreapta.
+A
+False
+
+142
+Cum procedaţi la apropierea de o intersecţie în care semnalul luminos ori un indicator de prioritate permite intrarea, dar în care riscaţi să rămâneţi imobilizat din cauza aglomerării circulaţiei?
+A. vă este interzisă intrarea în intersecţie;
+B. vă continuaţi deplasarea, deoarece aveţi prioritate;
+C. nu vă revine nicio obligaţie.
+A
+False
+
+143
+În care dintre situaţiile prezentate nu este permisă depaşirea?
+A. pe drumurile judeţene din interiorul comunelor;
+B. în zonele cu trafic intens;
+C. în intersecţiile nedirijate ale drumurilor.
+C
+False
+
+144
+Se poate efectua depăşirea unui vehicul într-o intersecţie?
+A. nu;
+B. da, numai dacă se execută depăşirea unui vehicul tras sau împins;
+C. da, numai dacă intersecţia este dirijată.
+C
+False
+
+145
+Pot fi depăşite autovehiculele pe partea dreaptă?
+A. nu, în nicio situaţie;
+B. da, dacă spaţiul lateral dintre vehicule permite acest lucru;
+C. da, în cazul vehiculelor care urmează să vireze la stânga, iar spaţiul rămas permite depăşirea prin dreapta.
+C
+False
+
+146
+Pe timpul nopţii, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligaţi să folosească luminile de întâlnire concomitent cu reducerea vitezei, de la cel puţin:
+A. 100 m;
+B. 150 m;
+C. 200 m.
+C
+False
+
+147
+Suspendarea exercitării dreptului de a conduce se aplică:
+A. când permisul de conducere are valabilitatea expirată;
+B. când titularul acestuia a săvârşit contravenţii care cumulează 15 puncte de penalizare;
+C. când titularul acestuia nu a respectat semnificaţia indicatorului „Ocolire“, instalat pe refugiul staţiilor de tramvai.
+B
+False
+
+148
+Care sunt sancţiunile ce se aplică în cazul depăşirii unei coloane de vehicule în aşteptare, dacă prin aceasta se intră pe sensul opus de circulaţie?
+A. suspendarea certificatului de înmatriculare;
+B. amendă contravenţională şi suspendarea exercitării dreptului de a conduce;
+C. amendă contravenţională.
+B
+False
+
+149
+Semnalul poliţistului rutier aflat într-un autovehicul al poliţiei, efectuat cu braţul, cu sau fără baston reflectorizant, scos pe partea laterală dreaptă a vehiculului, semnifică:
+A. oprire pentru conducătorii vehiculelor care circulă în spatele autovehiculului poliţiei;
+B. reducerea vitezei de către cei care circulă în spatele autovehiculului poliţiei;
+C. semnalul se adresează celor care circulă din sens opus.
+A
+False
+
+150
+Ce reprezintă distanţa de 50 m necesară pentru semnalizarea schimbării direcţiei de mers în localităţi?
+A. distanţa faţă de vehiculul care se deplasează în spatele dvs.;
+B. distanţa faţă de locul în care se termină executarea manevrei de depăşire;
+C. distanţa dintre locul în care se semnalizează intenţia de a depăşi şi locul în care se începe manevra.
+C
+False
+
+151
+Care dintre tipurile de semnalizare de mai jos vor fi respectate cu prioritate?
+A. semnalele şi indicaţiile poliţistului;
+B. semnalele speciale de avertizare, luminoase şi/sau sonore;
+C. marcajele.
+A
+False
+
+152
+Braţul drept, întins orizontal, al poliţistului indică „Oprire“ pentru:
+A. vehiculele şi pietonii care vin din faţă;
+B. vehiculele şi pietonii care vin din spate;
+C. vehiculele şi pietonii care vin din faţă şi din spate.
+B
+False
+
+153
+Dacă un vehicul coboara şi, din sens opus, un alt vehicul intenţionează să depăşească un obstacol, cine acordă prioritate de trecere?
+A. vehiculul care urcă, deoarece execută o depaşire interzisă;
+B. vehiculul care coboară;
+C. vehiculul care are posibilitatea să se retragă pe un refugiu.
+B
+False
+
+154
+În care dintre situaţiile de mai jos eşti obligat să nu depăşeşti viteza de 30 km/h?
+A. la trecerea prin intersecţiile cu circulaţie dirijată;
+B. în perimetrul pieţelor aglomerate;
+C. în interiorul localităţilor, la schimbarea direcţiei de mers prin viraje.
+C
+False
+
+155
+Aveţi posibilitatea de a circula pe drumurile publice cu autovehiculul avariat:
+A. cel mult 10 zile de la data constatării evenimentului;
+B. până la expirarea asigurării obligatorii de răspundere civilă auto;
+C. cel mult 30 zile de la data producerii avariei.
+C
+False
+
+156
+În ce situaţie se poate încălca marcajul longitudinal continuu al axului drumului?
+A. atunci când este format dintr-o singură linie;
+B. atunci când linia continuă este însoţită de una discontinuă, dispusă către partea conducătorului;
+C. atunci când drumul este în aliniament, iar vizibilitatea în faţă este asigurată.
+B
+False
+
+157
+Sunteţi obligat să nu depăşiţi viteza de 50 km/h în afara localităţilor, în următoarele situaţii:
+A. pe poduri;
+B. la întâlnirea indicatorului „Prioritate pentru circulaţia din sens invers“;
+C. în condiţii de ceaţă, ploi torenţiale sau ninsori abundente, când vizibilitatea este sub 100m.
+C
+False
+
+158
+Semnalul luminos intermitent de culoare albă, având cadenţa lentă, funcţionează:
+A. pe timpul cât semnalele luminoase de culoare roşie de la trecerea la nivel cu calea ferată sunt stinse;
+B. pe timpul cât semnalele luminoase ale semaforului defect sunt stinse;
+C. pe timpul cât barierele ori semibarierele sunt în curs de coborâre sau de ridicare.
+A
+False
+
+159
+Se consideră depăşire faptul că vehiculele de pe o bandă circulă mai repede decât vehiculele de pe celelalte benzi?
+A. nu;
+B. nu, dacă se circulă pe banda din stânga;
+C. da, dacă se circulă pe banda din dreapta.
+A
+False
+
+160
+Ce obligaţii ai la semnalele poliţisştilor de frontieră?
+A. să opreşti;
+B. să reduci viteza sub 10 km/h;
+C. să reduci viteza şi să circuli cu atenţie până eşti depăşit de coloană.
+A
+False
+
+161
+Dacă rămâneţi în pană într-un tunel:
+A. opriţi funcţionarea motorului;
+B. motorul trebuie să funcţioneze, pentru a putea folosi luminile de avarie;
+C. închideţi autovehiculul şi vă îndepărtaţi de acesta.
+A
+False
+
+162
+Cum procedaţi dacă, într-o intersecţie, poliţistul este orientat cu spatele către dvs. şi cu braţul stâng întins orizontal?
+A. viraţi la stânga;
+B. continuaţi drumul;
+C. reduceţi viteza autovehiculului şi opriţi în spatele acestuia.
+B
+False
+
+163
+Dacă autovehiculul pe care îl conduceţi rămâne imobilizat pe calea ferată, aveţi următoarea obligaţie:
+A. să scoateţi imediat pasagerii din vehicul şi să eliberaţi platforma căii ferate sau, când nu este posibil, să semnalizaţi prezenţa vehiculului cu orice mijloc adecvat;
+B. să anunţaţi poliţia;
+C. să porniţi autovehiculul prin orice mijloace.
+A
+False
+
+164
+Dacă aveţi cunoştinţă de producerea unui accident de circulaţie, în urma căruia a rezultat moartea sau vătămarea corporală a unei persoane, sunteţi obligat:
+A. legal, nu vă revine nicio obligaţie;
+B. opriţi, anunţaţi de îndată poliţia şi apelaţi numărul naţional unic pentru apeluri de urgenţă 112;
+C. vă informaţi asupra împrejurărilor care au determinat accidentul.
+B
+False
+
+165
+Care este regula priorităţii de trecere la intersecţia a două drumuri de aceeaşi categorie, cu circulaţie nedirijată?
+A. prioritatea de dreapta;
+B. prioritatea primului sosit;
+C. prioritatea de drum principal.
+A
+False
+
+166
+Întoarcerea este interzisă:
+A. pe drumurile cu circulaţie intensă;
+B. când există riscul ca marginile drumului să se îngusteze;
+C. când se circulă pe poduri.
+C
+False
+
+167
+Sunt exceptate de la obligaţia purtării centurii de siguranţă:
+A. instructorii auto în afara orelor de curs;
+B. femeile în stare vizibilă de graviditate;
+C. copii mai mici de 12 ani.
+B
+False
+
+168
+Mersul înapoi este interzis:
+A. când vizibilitatea în spate nu este asigurată;
+B. nu există prevedere legală în acest sens;
+C. la mai puţin de 50 m de staţiile de autobuz şi tramvai.
+A
+False
+
+169
+Ce obligaţii îi revin conducătorului de vehicul în momentul apropierii de o intersecţie, dacă semnalul verde se schimbă cu cel galben?
+A. să grăbească traversarea;
+B. să traverseze intersecţia cu viteză redusă;
+C. să oprească autovehiculul în faţa marcajului de oprire sau a marcajului pentru trecerea pietonilor ori în dreptul semaforului.
+C
+False
+
+170
+Întoarcerea autovehiculului este interzisă:
+A. pe marcajul pietonal;
+B. în locurile în care drumul este cu denivelări;
+C. pe drumurile in pantă.
+A
+False
+
+171
+În intersecţii au prioritate de trecere vehiculele care întâlnesc unul dintre indicatoarele:
+A. „Intersecţie cu un drum fără prioritate“;
+B. „Înainte“;
+C. „Circulaţie în ambele sensuri“.
+A
+False
+
+172
+Întoarcerea este interzisă:
+A. în rampă, dacă vizibilitatea este sub 100m;
+B. în dreptul unui garaj;
+C. la trecerile pentru pietoni.
+C
+False
+
+173
+Trecerea peste marcajul discontinuu este permisă:
+A. în orice situaţie, acesta având un caracter orientativ;
+B. atunci când un asemenea marcaj nu delimitează cele două sensuri de circulaţie;
+C. la schimbarea benzii de circulaţie, a direcţiei de mers sau la depăşire.
+C
+False
+
+174
+Cum trebuie să se încadreze conducătorul de autovehicul, dacă intenţionează să schimbe direcţia de mers spre stânga într-o intersecţie prin care circulă şi tramvaie, iar spaţiul dintre şina din dreapta şi bordura trotuarului permite deplasarea vehiculelor doar pe un singur rând?
+A. pe linia tramvaiului;
+B. pe singurul rând rămas la dispoziţie, lăsând liber traseul tramvaiului;
+C. în această situaţie nu se poate schimba direcţia de mers spre stânga.
+B
+False
+
+175
+Mersul înapoi este interzis:
+A. pe o distanţă mai mare de 50 m;
+B. legal, nu este prevăzută o anumită distanţă;
+C. pe o distanţă mai mare de 100 m.
+A
+False
+
+176
+La întâlnirea cărui indicator aveţi prioritate de trecere?
+A. „Circulaţie în ambele sensuri&quot;;
+B. „Prioritate faţă de circulaţia din sens invers&quot;;
+C. „Prioritate pentru circulaţia din sens invers&quot;.
+B
+False
+
+177
+Utilizarea frânei de serviciu este semnalizată cu:
+A. luminile de culoare portocalie;
+B. luminile de avarie din faţă şi din spate;
+C. luminile roşii din spate.
+C
+False
+
+178
+La intersecţiile fără marcaje, conducătorii auto care vor să circule pe direcţia înainte vor ocupa:
+A. rândul din stânga;
+B. rândul din dreapta;
+C. oricare dintre rânduri.
+C
+False
+
+179
+Este interzisă staţionarea unui autoturism pe un drum public cu o lăţime mai mică de 6 m?
+A. da;
+B. nu;
+C. legal, nu este prevăzut.
+A
+False
+
+180
+Ce obligaţii aveţi dacă sunteţi oprit regulamentar de către un poliţist rutier?
+A. să rămâneţi în vehicul, cu mâinile pe volan, respectând indicaţiile poliţistului;
+B. să coborâţi din vehicul pentru a prezenta permisul de conducere;
+C. să coborâţi din vehicul pentru a lua la cunoştinţă abaterea comisă.
+A
+False
+
+181
+Întoarcerea este interzisă:
+A. pe poduri şi sub poduri;
+B. pe drumurile naţionale;
+C. la mai puţin de 50 m de intrarea în sediile instituţiilor.
+A
+False
+
+182
+Cum procedează conducătorul de autovehicul la întâlnirea indicatorului “Cedează trecerea”?
+A. reduce viteza şi acordă prioritate numai autovehiculelor;
+B. reduce viteza, se asigură, iar dacă pe drumul prioritar circulă alte vehicule, le acordă prioritate;
+C. reduce viteza, se asigură şi acordă prioritate numai autovehiculelor care circulă din stânga sa.
+B
+False
+
+183
+Care este limita maximă de viteză admisă pentru autoturisme pe autostrăzi?
+A. 100 km/h:
+B. 120 km/h;
+C. 130 km/h.
+C
+False
+
+184
+La întâlnirea cărui indicator conducătorul auto nu are prioritate de trecere?
+A. „Prioritate pentru circulaţia din sens invers”;
+B. „Prioritate faţă de circulaţia din sens invers”;
+C. „Drum cu prioritate”.
+A
+False
+
+185
+La ce distanţă sunt instalate cele trei panouri suplimentare pentru avertizarea apropierii de o trecere la nivel cu calea ferată?
+A. la 300, 200 şi, respectiv, 100 m;
+B. la 90, 60 şi, respectiv, 30 m;
+C. la 150, 100 şi, respectiv, 50 m.
+C
+False
+
+186
+Ce semnificaţie are semnalul de culoare galbenă intermitent într-o intersecţie?
+A. reduci viteza şi respecţi regulile de circulaţie aplicabile în intersecţia respectivă;
+B. te avertizează că semaforul este defect;
+C. îţi este interzisă pătrunderea în intersecţie.
+A
+False
+
+187
+Semnificaţia unui indicator rutier, instalat deasupra unei benzi de circulaţie, este valabilă:
+A. numai pentru circulaţia rutieră care se desfăşoară în tunele;
+B. numai pentru banda deasupra căreia este instalat;
+C. pentru toată lăţimea părţii carosabile.
+B
+False
+
+188
+Este interzisă staţionarea în dreptul marcajului longitudinal continuu, aplicat între sensurile de circulaţie?
+A. nu;
+B. da, atunci când conducătorii celorlalte vehicule ar fi obligaţi astfel să treacă peste marcajul respectiv;
+C. legal, nu este prevăzut.
+B
+False
+
+189
+Se interzice întoarcerea vehiculului:
+A. pe drumurile supuse restricţiilor de viteză;
+B. pe drumurile cu o singură bandă pe sens;
+C. în intersecţiile în care este interzis virajul la stânga.
+C
+False
+
+190
+Marcajul aplicat pe marginea din dreapta a părţii carosabile, format dintr-o linie în zig-zag, semnifică:
+A. interzicerea staţionării;
+B. interzicerea opririi;
+C. alte pericole.
+A
+False
+
+191
+În care dintre situaţiile de mai jos este interzisă oprirea vehiculelor pe drumurile publice?
+A. pe partea carosabilă a drumurilor naţionale;
+B. la o distanţă mai mică de 25 m înainte şi după indicatorul staţiei pentru mijloacele de transport public de persoane;
+C. la mai puţin de 50 m de cel mai apropiat colţ al intersecţiei.
+B
+False
+
+192
+Conducatorul de autovehicule este obligat să se prezinte la verificarea medicală:
+A. dacă a fost bolnav o perioadă mai îndelungată;
+B. periodic, conform reglementărilor legale;
+C. dacă au trecut cel puţin 2 ani de la ultima verificare medicală periodică.
+B
+False
+
+193
+Marcajul longitudinal continuu, aplicat pe axul drumului, permite încălcarea lui:
+A. numai de către conducătorii de motociclete şi mopede;
+B. numai de către vehiculele cu gabarit depăşit;
+C. nu, în nicio situaţie.
+C
+False
+
+194
+Care sunt vehiculele care au prioritate de trecere într-o intersecţie dirijată?
+A. autocamioanele de mare tonaj;
+B. vehiculele cu numere de înmatriculare aparţinând M.A.I.;
+C. vehiculele aparţinând Serviciului de Ambulanţă, când au în funcţiune semnalele speciale luminoase şi sonore.
+C
+False
+
+195
+Dacă într-o intersecţie doreşti să circuli pe direcţia înainte, ce rând vei ocupa?
+A. rândul de lângă axul drumului, de la o distanţă de cel puţin 50m;
+B. rândul de lângă bordură, de la o distanţă de cel puţin 100m;
+C. oricare dintre rânduri, dar numai de la o distanţă de cel puţin 50m.
+C
+False
+
+196
+Când este permisă trecerea la nivel cu o cale ferată fără bariere, prevăzută cu semnalizare luminoasă, dacă tocmai a trecut un tren?
+A. după ce s-a stins lumina roşie intermitentă;
+B. după ce a trecut ultimul vagon;
+C. atunci când pleacă vehiculele aflate de cealaltă parte a căii ferate.
+A
+False
+
+197
+Suspendarea exercitării dreptului de a conduce se aplică în cazul:
+A. nerespectării interdicţiei de a deschide uşile autovehiculului în timpul mersului;
+B. utilizării detectoarelor antiradar;
+C. nerespectării regulilor de circulaţie la trecerea unei coloane oficiale.
+C
+False
+
+198
+Acorzi prioritate de trecere în următoarele situaţii:
+A. la întâlnirea indicatorului “Intersecţie cu un drum fără prioritate”;
+B. la întâlnirea indicatorului “Prioritate pentru circulaţia din sens invers”;
+C. la semnalul verde al semaforului electric, când schimbi direcţia de mers.
+B
+False
+
+199
+În care dintre situaţiile prezentate este interzisă depăşirea vehiculelor pe drumurile publice?
+A. la întâlnirea indicatorului „Circulaţie în ambele sensuri“;
+B. la o distanţă mai mică de 50 m de staţia de tramvai, când acesta este oprit;
+C. la trecerile pentru pietoni prevăzute cu indicatoare şi marcaje.
+C
+False
+
+200
+Nu au obligaţia de a purta centura de siguranţă:
+A. copii sub 12 ani sau cu înalţimea sub 150cm;
+B. persoanele în vârstă;
+C. persoanele care au certificat medical cu această recomandare.
+C
+False
+
+201
+De la ce distanţă trebuie să folosească un conducător de autovehicul mijloacele de avertizare sonoră, pentru a preveni pietonii şi ceilalţi conducători de vehicule?
+A. legea nu prevede o anumită distanţă;
+B. de la cel mult 30m de aceştia;
+C. ce la cel puţin 25m de aceştia.
+C
+False
+
+202
+Cum trebuie să procedeze conducătorul de autovehicul atunci când, într-o intersecţie, întâlneşte un poliţist orientat cu faţa spre el, care îi face semn să-şi continue deplasarea?
+A. opreşte până când poliţistul îşi schimbă poziţia;
+B. fiind un semnal în afara Regulamentului, opreşte şi aşteaptă revenirea la o poziţie care să-i permită continuarea drumului;
+C. se conformează semnalului poliţistului.
+C
+False
+
+203
+Care este rolul marcajelor rezonatoare?
+A. dublează marcajele convenţionale în zonele periculoase;
+B. avertizează conducătorii de autovehicule că depăşesc zona de carosabil marcată şi destinată sensului de deplasare;
+C. avertizează conducătorii de autovehicule că vor pătrunde într-o zonă supravegheată cu aparatură radar.
+B
+False
+
+204
+Cum veţi proceda corect dacă, la apropierea de o trecere la nivel cu calea ferată curentă fără bariere, luminile roşii şi semnalele sonore sunt în funcţiune?
+A. reduceţi viteza şi opriţi, dacă trenul se apropie;
+B. grăbiţi trecerea, dacă observaţi că trenul nu se apropie;
+C. reduceţi viteza şi opriţi, fără a trece de indicatoarele sau marcajul de oprire.
+C
+False
+
+205
+Care dintre următoarele obligaţii revin conducătorului de vehicul?
+A. să reducă viteza, atunci când trece pe lângă un poliţist de circulaţie aflat în serviciu pe drumul public;
+B. să menţină curate plăcuţele cu numărul de înmatriculare, pentru a fi vizibile;
+C. să circule cu o viteză inferioară celei prescrise de indicatorul „Viteză minimă obligatorie“.
+B
+False
+
+206
+Deţinătorul unui autovehicul poate monta un alt avertizor sonor decât cel omologat de autoritatea competentă?
+A. da;
+B. nu;
+C. legea nu prevede.
+B
+False
+
+207
+Cum procedezi când circuli pe un drum public şi întâlneşti indicatorul “Prioritate faţă de circulaţia din sens invers”?
+A. opreşti şi acorzi prioritate de trecere vehiculelor care se apropie din sens opus;
+B. continui deplasarea, pentru ca ai prioritate de trecere;
+C. opresti si acorzi prioritate numai vehiculelor cu gabarit depăşit care se apropie din sens opus.
+B
+False
+
+208
+Când circuli pe un drum naţional european îţi este interzisă:
+A. folosirea mijloacelor de avertizare sonoră;
+B. remorcarea altui autovehicul;
+C. staţionarea voluntară pe partea carosabilă.
+C
+False
+
+209
+Într-o zonă pietonală, dacă este permisă circulaţia, viteza maximă admisă este de:
+A. 20 km/h;
+B. 10 km/h;
+C. 5 km/h.
+C
+False
+
+210
+Când se folosesc luminile de avarie?
+A. la deplasarea în condiţii de vizibilitate redusă;
+B. atunci când autovehiculul este remorcat;
+C. atunci când staţionaţi voluntar pe partea carosabilă.
+B
+False
+
+211
+Cum trebuie să procedezi înainte de ate angaja într-o depăşire?
+A. semnalizezi şi te apropii cât mai mult de cel pe care intenţionezi să îl depăşeşti;
+B. avertizezi sonor şi optic conducătorul auto pe care intenţionezi să îl depăşeşti;
+C. te asiguri că vehiculul care circulă în faţa sau în spatele tău nu a iniţiat o astfel de manevră.
+C
+False
+
+212
+Precizaţi în care situaţie vehiculele enumerate mai jos au prioritate de trecere:
+A. vehiculele aflate în sensul giratoriu, faţă de cele care se pregătesc să intre în sensul giratoriu;
+B. autovehiculele din serviciile regulate de transport public, care se pun în mişcare din staţie;
+C. vehiculele care execută manevra de întoarcere.
+A
+False
+
+213
+Cât timp trebuie menţinută semnalizarea schimbării direcţiei de mers?
+A. 10 secunde de la începerea manevrei;
+B. pe întreaga durată a executării manevrei;
+C. legea nu prevede nimic cu privire la acest aspect.
+B
+False
+
+214
+Tramvaiele în mers se depăşesc, de regulă:
+A. pe partea stângă;
+B. pe partea dreaptă;
+C. pe ambele părţi;
+B
+False
+
+215
+Permisul de conducere se restituie, după expirarea perioadei de suspendare şi promovarea testului de cunoaştere a regulilor de circulaţie, dacă a fost reţinut pentru:
+A. neacordarea priorităţii de trecere vehiculelor care au acest drept, dacă prin aceasta s-a produs un accident de circulaţie soldat cu pagube materiale;
+B. nefolosirea în timpul mersului a centurii de siguranţă;
+C. utilizarea excesivă a ştergătoarelor de parbriz.
+A
+False
+
+216
+Ce obligaţie aveţi dacă întâlniţi într-o intersecţie indicatorul „Înainte sau la stânga“ şi semaforul se află pe culoarea verde?
+A. circulaţi înainte sau la stânga;
+B. circulaţi numai înainte;
+C. circulaţi în orice direcţie, deoarece semnalul verde vă permite acest lucru.
+A
+False
+
+217
+Purtarea centurii de siguranţă este obligatorie în timpul circulaţiei pe drumurile din localităţi?
+A. nu;
+B. da, numai de către conducătorul autovehiculului;
+C. da, de către cel de la volan şi de către pasagerii care ocupă locurile prevăzute cu asemenea dispozitive.
+C
+False
+
+218
+Depăşirea este interzisă:
+A. în staţiile de autobuz;
+B. in intersecţii cu circulaţia nedirijată;
+C. în intersecţii cu circulaţia dirijată.
+B
+False
+
+219
+Este permisă staţionarea vehiculelor în zona de acţiune a indicatorului „Drum îngustat“?
+A. da;
+B. nu;
+C. legea nu prevede nimic cu privire la acest aspect.
+B
+False
+
+220
+Se interzice montarea la autovehicul:
+A. a luminilor de altă culoare, altele decât cele omologate;
+B. a dispozitivelor de detectare a aparatelor radar;
+C. a luminilor de poziţie.
+A
+False
+
+221
+Repararea unui autovehicul cu urme de accident, fără autorizarea poliţiei, constituie:
+A. infracţiune şi se pedepseşte cu închisoare sau cu amendă;
+B. contravenţie şi se sancţionează cu amendă;
+C. abatere administrativă şi se sancţionează cu retragerea autorizaţiei de funcţionare.
+A
+False
+
+222
+La ce distanţă de trecerea la nivel cu calea ferată sunt instalate panourile suplimentare de avertizare?
+A. primul la 90 m, al doilea la 60 m şi al treilea la 30 m;
+B. primul la 200 m, al doilea la 150 m şi al treilea la 100 m;
+C. primul la 150 m, al doilea la 100 m şi al treilea la 50 m.
+C
+False
+
+223
+Cum veţi proceda corect dacă, la apropierea de o trecere la nivel cu o cale ferată prevăzută cu semibariere automate, semnalele sonore şi luminile roşii sunt în funcţiune?
+A. reduceţi viteza şi opriţi înaintea semibarierelor;
+B. ocoliţi semibariera şi vă continuaţi drumul, dacă trenul nu se apropie;
+C. măriţi viteza pentru a nu fi surprinşi de închiderea semibarierei.
+A
+False
+
+224
+În care dintre situaţiile următoare îţi este interzis să efectuezi depăşirea vehiculelor pe drumurile publice?
+A. pe drumurile cu o singură bandă de circulaţie pe sens;
+B. pe drumurile prevăzute cu marcaje transversale;
+C. pe drumurile publice ale căror sensuri de circulaţie sunt despărţite printr-o linie continuă, iar pentru depăşire este necesară încălcarea acestei linii.
+C
+False
+
+225
+În care dintre situaţii este interzisă oprirea?
+A. în curbe şi pe sectoarele de drum cu vizibilitate redusă sub 50 m;
+B. la mai puţin de 50 m de cel mai apropiat colţ al intersecţiei;
+C. în zona de acţiune a indicatorului „Staţionarea interzisă“.
+A
+False
+
+226
+Ce manevre sunt interzise pe străzile cu sens unic?
+A. schimbarea direcţiei de mers la stânga sau la dreapta;
+B. întoarcerea autovehiculului;
+C. mersul inapoi.
+B
+False
+
+227
+În ce situaţie poţi depăşi tramvaiele pe partea stângă?
+A. în nicio situaţie;
+B. când există două benzi pe sensul de mers;
+C. atunci când între şina din dreapta şi bordură nu există spaţiu suficient pentru depăşire.
+C
+False
+
+228
+Din ce direcţie trebuie să se asigure un conducător auto, înainte de a trece la efectuarea unei depăşiri?
+A. din faţă;
+B. din spate;
+C. atât din faţă, cât şi din spate.
+C
+False
+
+229
+La plecarea de pe loc cu autovehiculul, vă revin următoarele obligaţii:
+A. să evitaţi ambalarea excesivă a motorului;
+B. să evitaţi bruscarea comenzilor autovehiculului;
+C. să acordaţi prioritate de trecere vehiculelor care circulă pe drum, indiferent de direcţia de mers.
+C
+False
+
+230
+În cazul în care vehiculul pe care îl conduci rămâne blocat pe calea ferată, eşti obligat:
+A. să te îndepărtezi de vehicul;
+B. să scoţi imediat pasagerii din vehicul şi să eliberezi platforma căii ferate sau dacă nu este posibil, să semnalizezi prezenţa vehiculului cu orice mijloc adecvat;
+C. să părăseşti împreună cu ceilalţi pasageri platforma căii ferate.
+B
+False
+
+231
+Ce îi este interzis conducătorului de autovehicule pe timpul deplasării pe un drum public?
+A. să transporte în autovehicul mai multe persoane decât numărul de locuri înscrise în certificatul de înmatriculare sau înregistrare;
+B. să permită controlul stării tehnice a autovehiculului, precum şi al bunurilor transportate;
+C. să deschidă uşile autovehiculului atunci când este parcat.
+A
+False
+
+232
+Cum trebuie să procedezi atunci când intenţionezi să finalizezi o depăşire?
+A. te încadrezi cât se poate de repede pe dreapta, fără a-l stânjeni pe cel depăşit;
+B. după reîncadrare, semnalizezi cu luminile de avarie;
+C. claxonezi şi te angajezi pe partea dreaptă, direct în faţa vehiculului depăşit.
+A
+False
+
+233
+Cum procedaţi la semnalul poliţistului cu braţul ridicat vertical?
+A. opriţi, indiferent din ce direcţie vă apropiaţi, şi aşteptaţi următorul său semnal;
+B. reduceţi viteza şi circulaţi în direcţia permisă de poziţia braţului;
+C. reduceţi viteza şi îl ocoliţi.
+A
+False
+
+234
+Este interzisă staţionarea unui autoturism în zona marcajului longitudinal continuu?
+A. nu;
+B. da, în cazul în care conducătorii celorlalte vehicule ar fi determinaţi să treacă peste marcajul respectiv;
+C. legal, nu este prevăzut.
+B
+False
+
+235
+Trecerea cu autovehiculul la semnalul luminos de culoare roşie se sancţionează astfel:
+A. cu amendă penală;
+B. cu amendă contravenţională şi puncte de penalizare;
+C. cu amendă contravenţională şi suspendarea exercitării dreptului de a conduce autovehiculul.
+C
+False
+
+236
+În care dintre următoarele situaţii este interzisă oprirea:
+A. în intersecţiile cu sens giratoriu;
+B. pe drumurile cu sens unic;
+C. pe strazile cu o lăţime mai mică de 8m.
+A
+False
+
+237
+Unde trebuie să se deplaseze conducătorii de autovehicule angajaţi într-un accident de circulaţie, în urma căruia au rezultat pagube materiale, pentru a obţine actul de constatare?
+A. la cea mai apropiată unitate de poliţie competentă, în maximum 24 de ore;
+B. la serviciul judeţean de poliţie rutieră;
+C. la unitatea de poliţie în raza căreia domiciliază.
+A
+False
+
+238
+Imobilizarea unui vehicul de către poliţistul rutier se dispune:
+A. pentru lipsa triunghiurilor reflectorizante;
+B. pentru lipsa trusei medicale de prim ajutor;
+C. pentru refuzul de legitimare.
+C
+False
+
+239
+Cum se sancţionează neacordarea priorităţii de către conducătorii de autovehicule şi tramvaie pietonilor angajaţi în traversarea drumurilor publice, atunci când au acest drept?
+A. prin anularea permisului de conducere;
+B. prin amendă contravenţională şi suspendarea exercitării dreptului de a conduce autovehicule;
+C. prin amendă contravenţională şi puncte de penalizare.
+B
+False
+
+240
+Într-o intersecţie nedirijată, conducătorul unui vehicul este obligat să acorde prioritate unui autovehicul destinat stingerii incendiilor, care circulă din stânga, având în funcţiune semnalizarea specială luminoasă şi sonoră?
+A. nu, deoarece şi în acest caz se aplică regula priorităţii de dreapta;
+B. nu, deoarece autovehiculul destinat stingerii incendiilor nu face parte din categoria autovehiculelor cu regim prioritar;
+C. da.
+C
+False
+
+241
+Cum vei proceda corect atunci când efectuezi un viraj spre stânga sau spre dreapta şi intersectezi un biciclist care circulă pe o pistă pentru biciclete, semnalizată ca atare?
+A. acorzi prioritate de trecere biciclistului;
+B. nu acorzi prioritate de trecere biciclistului;
+C. adaptezi viteza, astfel încât să nu te intersectezi cu acesta în timpul manevrelor.
+A
+False
+
+242
+Exercitarea dreptului de a conduce se suspendă pe o perioadă de 30 de zile pentru:
+A. nerespectarea regulilor referitoare la remorcare;
+B. utilizarea excesivă a claxonului;
+C. depăşirea unei coloane de vehicule oprite la culoarea roşie a semaforului.
+C
+False
+
+243
+Oprirea voluntară a vehiculelor este interzisă:
+A. pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulaţia vehiculelor pe şine;
+B. la mai puţin de 50 m de trecerile pentru pietoni;
+C. la o distanţă mai mică de 150 m de trecerea la nivel cu calea ferată.
+A
+False
+
+244
+Oprirea voluntară este interzisă:
+A. în intersecţiile dirijate;
+B. pe drumurile cu prioritate;
+C. pe sectoarele de drum neiluminate.
+A
+False
+
+245
+Ce semnifică semnalul poliţistului rutier aflat într-o intersecţie, cu braţul stâng întins orizontal:
+A. oprire pentru vehiculele şi pietonii care vin din faţa acestuia;
+B. oprire pentru vehiculele şi pietonii care vin din spatele acestuia;
+C. oprire pentru vehiculele şi pietonii care vin din părţile laterale ale acestuia.
+A
+False
+
+246
+Ce vehicule pot fi depăşite pe un pod?
+A. numai vehiculele cu tracţiune animală;
+B. numai bicicletele si motocicletele fără ataş;
+C. vehiculele cu tracţiune animală, motocicletele fără ataş şi bicicletele.
+C
+False
+
+247
+În care dintre situaţiile prezentate mai jos nu este permisă oprirea voluntară a vehiculelor?
+A. la o distanţă mai mică de 100 m de trecerea la nivel cu calea ferată;
+B. pe pistele obligatorii pentru pietoni;
+C. pe bordura carosabilului.
+B
+False
+
+248
+Proprietarul unui autovehicul este obligat:
+A. să declare autorităţilor schimbarea domiciliului în cel mult 24 de ore;
+B. să declare organului fiscal valoarea poliţei de asigurare auto;
+C. să declare autorităţii emitente pierderea, furtul sau distrugerea certificatului de înmatriculare, în cel mult 48 de ore de la constatare.
+C
+False
+
+249
+Întoarcerea este interzisă:
+A. în curbe cu vizibilitate redusă;
+B. pe sectoarele de drum înaintea cărora este instalat indicatorul „Drum cu prioritate“;
+C. pe drumurile fără ieşire.
+A
+False
+
+250
+Ce obligaţii are conducătorul de vehicul la trecerea la nivel cu calea ferata curentă prevăzută cu bariere?
+A. să se asigure că nu este depăşit de alt vehicul şi să se angajeze în traversarea căii ferate;
+B. ziua să dea semnale sonore, iar noaptea să aprindă faza de drum intermitentă şi apoi să traverseze;
+C. să reducă viteza, să se asigure şi apoi să se angajeze în traversare.
+C
+False
+
+251
+Ce obligaţii revin conducătorilor de vehicule la trecerea autovehiculelor cu regim de circulaţie prioritară, care au în funcţiune mijloacele speciale de avertizare luminoasă de culoare albastră şi pe cele de avertizare sonoră?
+A. să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare şi să acorde prioritate de trecere;
+B. să mărească viteza pentru a nu incomoda circulaţia;
+C. să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau de bordura trotuarului, în sensul de deplasare.
+A
+False
+
+252
+Oprirea este interzisă:
+A. pe sectoarele de drum unde depăşirea este interzisă;
+B. în zona de acţiune a indicatorului „Staţionarea interzisă“;
+C. în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice.
+A
+False
+
+253
+Care dintre situaţiile următoare reprezintă o depăşire?
+A. trecerea unui vehicul prin dreptul altuia care circula din sens opus;
+B. trecerea înaintea altui vehicul aflat pe acelasi sens de circulaţie, prin schimbarea direcţiei de mers şi ieşirea de pe banda sau şirul iniţial în care te-ai aflat;
+C. circulaţia cu o viteză mai mare, pe lângă cei aflaţi pe alte benzi.
+B
+False
+
+254
+Este permisă depăşirea în intersecţie?
+A. da, numai pe partea dreaptă;
+B. da, dacă un poliţist dirijează circulaţia;
+C. da, numai dacă vehiculul depăşit semnalizează schimbarea direcţiei de mers spre stânga, iar intersecţia este nedirijată.
+B
+False
+
+255
+Conducătorul unui vehicul este obligat să acorde prioritate de trecere într-o intersecţie nedirijată dacă:
+A. pătrunde pe un drum judeţean, venind de pe un drum naţional;
+B. pătrunde pe un drum naţional, venind de pe un drum judeţean, comunal sau local;
+C. pătrunde pe un drum comunal sau local, venind de pe un drum judeţean.
+B
+False
+
+256
+Întoarcerea unui autovehicul este interzisă:
+A. la o distanţă mai mică de 50 m de staţia de autobuz, troleibuz sau tramvai;
+B. în rampă, unde vizibilitatea este sub 50 m;
+C. pe străzile pe care circulaţia se desfăşoară în ambele sensuri.
+B
+False
+
+257
+Se interzice mersul înapoi cu vehiculul:
+A. pe o distanţă de 30m;
+B. pe drumurile naţionale;
+C. la iesirea de pe proprietăţile alăturaţe drumurilor publice.
+C
+False
+
+258
+Când semaforul este însoţit de lumina intermitentă de culoare verde, sub forma unei săgeţi pe fond negru către dreapta, aveţi următoarea obligaţie:
+A. niciuna, indicatorul fiind de informare;
+B. niciuna, întrucât indicatorul nu vi se adresează;
+C. permite trecerea numai în direcţia indicată, oricare ar fi în acel moment semnalul în funcţiune al semaforului.
+C
+False
+
+259
+Cât timp trebuie menţinută semnalizarea schimbării direcţiei de mers?
+A. 10 secunde de la începerea manevrei;
+B. pe întreaga durată a executării manevrei;
+C. legea nu prevede nimic cu privire la acest aspect.
+B
+False
+
+260
+Suspendarea exercitării dreptului de a conduce se aplică atunci când:
+A. acumulezi 15 puncte de penalizare;
+B. conduci un vehicul avariat peste termenul de 30 de zile de la data constatării;
+C. pătrunzi într-o intersecţie şi circulaţia în interiorul acesteia este blocată.
+A
+False
+
+261
+Cu ce viteză maximă poţi circula în afara localităţilor, dacă rulezi cu un autoturism?
+A. 120 km/h pe autostrăzi şi 100 km/h pe drumurile naţionale europene;
+B. 110 km/h pe autostrăzi şi 90 km/h pe celelalte categorii de drumuri;
+C. 130 km/h pe autostrăzi, 100 km/h pe drumurile naţionale europene şi 90 km/h pe celelalte categorii de drumuri.
+C
+False
+
+262
+Poliţistul rutier poate dispune imobilizarea unui vehicul atunci când:
+A. vehiculul nu a fost radiat din circulaţie, în cazurile prevăzute de lege;
+B. vehiculul prezintă defecţiuni tehnice la sistemul de semnalizare;
+C. conducătorul auto nu respectă timpii legali de conducere şi de odihnă.
+C
+False
+
+263
+Care dintre conducătorii de vehicule, ce se apropie simultan de o intersecţie, are prioritate de trecere, în situaţia în care unul întâlneşte indicatorul „Oprire&quot;, iar celălalt indicatorul „Cedează trecerea&quot;?
+A. conducătorul care întâlneşte indicatorul „Cedează trecerea“;
+B. conducătorul care circulă din dreapta;
+C. conducătorul care întâlneşte indicatorul „Oprire“.
+B
+False
+
+264
+Care este momentul în care poţi începe depăşirea unui tramvai oprit într-o staţie fără refugiu?
+A. când călătorii au coborât din tramvai şi au părăsit partea carosabilă;
+B. când uşile tramvaiului au fost închise;
+C. când autovehiculul din faţă s-a pus în mişcare.
+B
+False
+
+265
+În care dintre locuri este interzisă oprirea?
+A. pe sectoarele de drum neiluminate;
+B. pe sectoarele de drum la începutul cărora se află indicatorul „Drum cu prioritate“;
+C. pe sectoarele de drum unde se află indicatorul „Drum îngustat“.
+C
+False
+
+266
+La semnalul nevăzătorilor care traversează strada sunteţi obligat:
+A. să reduceţi viteza autovehiculului şi să circulaţi cu atenţie;
+B. să opriţi autovehiculul;
+C. să reduceţi viteza autovehiculului şi să claxonaţi.
+B
+False
+
+267
+Precizaţi care vehicule sunt exceptate de la obligaţia acordării priorităţii de trecere:
+A. cele care se pun în mişcare de pe loc faţă de cele care circulă;
+B. autovehiculele din serviciile regulate de transport public, care se pun în mişcare din staţia prevăzută cu alveolă;
+C. cele care ies din curţi, ganguri sau garaje.
+B
+False
+
+268
+Ce le este interzis conducătorilor de autovehicule şi de tramvaie?
+A. să folosească telefoanele mobile în timpul mersului, fără să aibă sistem de tip „mâini libere“;
+B. să folosească luminile de avarie în transportul urban;
+C. să se angajeze în discuţii cu alţi pasageri.
+A
+False
+
+269
+Conducătorul de vehicul are obligaţia de a ceda trecerea la schimbarea direcţiei de mers spre stânga, în timp ce semnalul verde este în funcţiune?
+A. nu, deoarece semnalul verde îi conferă prioritate de trecere;
+B. nu, cu excepţia cazului în care, din sens opus, se apropie un mijloc de transport public;
+C. da, atât vehiculelor care circulă din sens opus, cât şi pietonilor care traversează strada pe care acesta urmează să intre, pe sensul său de mers.
+C
+False
+
+270
+În timpul deplasării, conducătorului de autovehicul îi este interzis:
+A. să fumeze;
+B. să aibă preocupări care i-ar putea distrage, într-o manieră periculoasă, atenţia;
+C. să acţioneze asupra comenzilor instalaţiei de sonorizare.
+B
+False
+
+271
+Conducătorului auto i se interzice:
+A. să arunce din vehicul obiecte, substanţe sau alte bunuri;
+B. să deschidă uşile, dacă vehiculul este oprit sau staţionat pe partea carosabilă;
+C. să folosească instalaţia de sonorizare cu care este echipat autoturismul.
+A
+False
+
+272
+Conducătorul unui autovehicul este obligat:
+A. să nu permită pasagerilor folosirea telefonului mobil în timpul mersului;
+B. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau înregistrare şi, după caz, atestatul profesional, precum şi celelalte documente prevăzute de legislaţia în vigoare;
+C. să verifice, la fiecare deplasare, presiunea din pneuri.
+B
+False
+
+273
+În care dintre următoarele situaţii vă este interzis să efectuaţi depăşirea?
+A. pe drumurile cu o singură bandă de circulaţie pe sens;
+B. la mai puţin de 150 m de trecerile la nivel cu calea ferată;
+C. în zona de acţiune a indicatorului „Depăşirea interzisă“.
+C
+False
+
+274
+Puteţi depăşi tramvaiul oprit într-o staţie fără refugiu pentru pietoni, pe o stradă cu sens unic?
+A. da, dar numai pe partea stângă;
+B. da, dar numai dacă nu există pietoni în staţia de tramvai;
+C. nu, deoarece depăşirea este interzisă.
+C
+False
+
+275
+Tramvaiul poate fi depăşit pe partea stângă?
+A. nu;
+B. da, în staţiile fără refugiu, pentru protejarea călătorilor care urcă sau coboară;
+C. da, atunci când între şina din dreapta şi bordură nu există spaţiu suficient pentru depăşire.
+C
+False
+
+276
+Nu au prioritate de trecere:
+A. autovehiculele din serviciile regulate de transport public, care se pun în mişcare din staţia prevăzută cu alveolă;
+B. vehiculele care urmează să intre într-o intersecţie cu sens giratoriu, faţă de vehiculele care circulă printr-o asemenea intersecţie;
+C. vehiculele care intră într-o zonă rezidenţială sau pietonală.
+B
+False
+
+277
+Cum sunt semnalizate benzile de circulaţie reversibilă, care vă permit să continuaţi deplasarea?
+A. cu dispozitive de culoare galbenă intermitentă;
+B. cu semnalul verde de forma unei săgeţi cu vârful în jos;
+C. cu semnul roşu în cruce.
+B
+False
+
+278
+Oprirea voluntară a unui vehicul este interzisă:
+A. pe drumurile cu un singur sens de circulaţie;
+B. pe drumurile cu o lăţime mai mică de 6 m;
+C. în locurile unde s-ar împiedica observarea unui indicator sau a unui semnal luminos.
+C
+False
+
+279
+Sunteţi obligat să folosiţi luminile de întâlnire în timpul zilei:
+A. pe toate categoriile de drumuri;
+B. pe drumurile judeţene, comunale şi locale;
+C. pe autostrăzi, drumuri expres şi naţionale europene.
+C
+False
+
+280
+Semnalul agenţilor căilor ferate, executat cu un fanion roşu, aflaţi la trecerea la nivel cu o cale ferată industrială din oraşe, vă obligă:
+A. să reduceţi viteza, să vă asiguraţi, iar dacă trenul este la mai mult de 50 m de pasaj, să treceţi cu atenţie;
+B. să opriţi;
+C. nu aveţi nicio obligaţie, deoarece agentul dirijează manevrele garniturii de tren.
+B
+False
+
+281
+Depăşirea vehiculelor pe drumurile publice este interzisă:
+A. pe sectorul de drum unde s-a format o coloană de autovehicule în aşteptare, dacă prin aceasta se intră pe sensul opus de circulaţie;
+B. în intersecţiile dirijate doar cu indicatoare rutiere;
+C. atunci când cel depăşit este remorcat şi are puse în funcţiune luminile de avarie.
+A
+False
+
+282
+Vă apropiaţi de o trecere peste calea ferată şi observaţi că se coboară semibariera. Cum procedaţi?
+A. acceleraţi şi treceţi cât mai repede peste calea ferată;
+B. opriţi în faţa semibarierei;
+C. dacă nu se apropie trenul, ocoliţi semibariera.
+B
+False
+
+283
+Dacă lumina roşie a semaforului este în funcţiune, iar poliţistul face semnal conducătorului să treacă, acesta trebuie:
+A. să aştepte lumina verde care îi permite trecerea;
+B. să respecte semnalul făcut de poliţist;
+C. să aştepte ca semnificaţia luminii semaforului să corespundă cu cea a semnalului poliţistului.
+B
+False
+
+284
+Ce obligaţii are conducătorul de autovehicul când este avertizat cu semnale speciale sonore şi luminoase ale unui autovehicul destinat stingerii incendiilor?
+A. să oprească imediat pe partea dreaptă a drumului;
+B. să reducă viteza şi să se apropie cât mai mult de marginea din dreapta drumului, până este depăşit;
+C. să circule cu viteză redusă.
+A
+False
+
+285
+Ce măsuri ia conducătorul de autovehicul, angajat într-un accident cu avarii uşoare?
+A. aşteaptă sosirea poliţistului din zonă;
+B. scoate autovehiculul în afara părţii carosabile şi anunţă poliţia în termen de 24 de ore;
+C. anunţă poliţia, fără a schimba poziţia autovehiculului.
+B
+False
+
+286
+Ce semnificaţie are, după coborârea braţelor, poziţia corpului unui poliţist care dirijează circulaţia, pentru participanţii la trafic care circulă din faţa şi spatele său?
+A. nicio semnificaţie;
+B. permisiunea de a circula;
+C. oprire.
+C
+False
+
+287
+Care sunt limitele maxime de viteză admise în afara localităţilor pentru autovehiculele din categoria B?
+A. 110 km/h pe autostrăzi, 90 km/h pe drumurile expres sau pe cele naţionale europene şi 80 km/h pe celelalte categorii de drumuri;
+B. 130 km/h pe autostrăzi, 100 km/h pe drumurile expres sau pe cele naţionale europene şi 90 km/h pe celelalte categorii de drumuri;
+C. 100 km/h pe autostrăzi, 80 km/h pe drumurile expres sau pe cele naţionale europene şi 70 km/h pe celelalte categorii de drumuri;
+B
+False
+
+288
+În care dintre următoarele situaţii este interzisă efectuarea depăşirii?
+A. la mai puţin de 50m de staţiile de tramvai, troleibuz, sau autobuz;
+B. când depăşirea urmează să se efectueze în vârfuri de rampă, iar vizibilitatea este redusă sub 50m;
+C. pe drumurile publice care au o lăţime mai mică de 6m.
+B
+False
+
+289
+Cum procedează conducătorul autovehiculului în situaţia în care vehiculul din faţa sa schimbă direcţia de mers spre stânga, iar pe partea dreaptă nu este loc suficient pentru depăşire?
+A. semnalizează şi execută depăşirea cu viteză redusă;
+B. încearcă depăşirea prin stânga;
+C. aşteaptă eliberarea benzii pentru a-şi continua deplasarea.
+C
+False
+
+290
+Cum veţi semnaliza faptul că autovehiculul cu care circulaţi a rămas în pană pe partea carosabilă?
+A. prin folosirea luminilor de avarie;
+B. prin instalarea triunghiurilor reflectorizante şi prin folosirea luminilor de avarie;
+C. prin purtarea vestei reflectorizante.
+B
+False
+
+291
+Conducătorul de autoturism care se află în spatele unui autobuz şi întâlneşte indicatorul „Oprire” trebuie:
+A. să continue deplasarea şi să traverseze o dată cu autobuzul, deoarece conducătorul acestuia a oprit şi s-a asigurat;
+B. să oprească şi să se asigure înainte de a traversa intersecţia, chiar dacă acest lucru a fost făcut şi de către conducătorul autobuzului;
+C. să continue deplasarea şi să traverseze intersecţia imediat în urma autobuzului, deoarece, în acest caz, nu se expune niciunui pericol.
+B
+False
+
+292
+Întoarcerea autovehiculelor este interzisă:
+A. pe drumurile publice cu o lăţime mai mica de 6m;
+B. în curbe şi alte locuri cu vizibilitate redusă sub 50m;
+C. pe drumurile cu circulaţie aglomerată.
+B
+False
+
+293
+Întoarcerea autovehiculelor este interzisă:
+A. pe marcajul pietonal;
+B. în zona pieţelor aglomerate;
+C. în zona de acţiune a indicatorului „Staţionarea interzisă“.
+A
+False
+
+294
+Mersul înapoi este interzis:
+A. când vizibilitatea în spate nu este asigurată;
+B. pe timp de noapte;
+C. pe timp de zi.
+A
+False
+
+295
+Ce obligaţii vă revin atunci când conduceţi un autovehicul pe timpul nopţii şi vă apropiaţi de un alt autovehicul care circulă în faţa dvs.?
+A. să reduceţi viteza şi să circulaţi cu atenţie sporită;
+B. să nu vă angajaţi în depăşirea acestuia;
+C. să folosiţi luminile de întâlnire de la o distanţă de cel puţin 100 m.
+C
+False
+
+296
+Ce obligaţii ai atunci când intri pe autostrada folosind banda de accelerare?
+A. să cedezi trecerea autovehiculelor care circulă pe prima bandă a autostrăzii şi să nu stânjeneşti în niciun fel circulaţia acestora;
+B. să semnalizezi stânga, pentru a-i preveni pe ceilalţi conducători să iţi acorde prioritate;
+C. să accelerezi şi să te înscrii pe a doua bandă de circulaţie.
+A
+False
+
+297
+Nu au prioritate de trecere conducătorii vehiculelor care întâlnesc indicatorul:
+A. “Prioritate pentru circulaţia din sens invers”;
+B. “Intersecţie cu un drum fără prioritate”;
+C. “Drum cu prioritate”.
+A
+False
+
+298
+În care dintre situaţii se poate schimba poziţia autovehiculului angajat într-un accident de circulaţie?
+A. după sesizarea poliţiei;
+B. după ce s-a acordat ajutor medical persoanelor rănite;
+C. dacă accidentul s-a soldat cu avarii, precum şi pentru degajarea răniţilor în vederea acordării primului ajutor.
+C
+False
+
+299
+Cum procedează conducătorul auto când iese cu autovehiculul dintr-o curte sau dintr-un garaj pe un drum public?
+A. acordă prioritate pietonilor şi vehiculelor aflate în mers;
+B. solicită să fie pilotat de o altă persoană;
+C. foloseşte avertizorul sonor ziua şi pe cel luminos, noaptea.
+A
+False
+
+300
+Pe drumul public cu cel mult două benzi pe sens şi cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule:
+A. pot folosi banda destinată tramvaiului, fără nici o restricţie;
+B. pot folosi banda destinată tramvaiului, cu obligaţia să lase liberă calea tramvaiului la apropierea acestuia;
+C. nu pot folosi banda destinată tramvaiului.
+B
+False
+
+301
+În care dintre situaţiile de mai jos este interzisă întoarcerea?
+A. în curbe cu vizibilitate redusă;
+B. la întâlnirea indicatorului „Drum cu prioritate“;
+C. la întâlnirea indicatorului „Drum îngustat“.
+C
+False
+
+302
+Într-o intersecţie unde circulaţia se desfăşoară în sens giratoriu, conducătorilor auto le este interzis:
+A. să reducă viteza, întrucât se creează pericolul de blocare;
+B. să oprească autovehiculele, în afara situaţiilor impuse de trafic;
+C. să întoarcă, prin ocolirea sensului giratoriu.
+B
+False
+
+303
+Ce obligaţii vă revin atunci când conducătorul unui autobuz aflat într-o staţie prevăzută cu alveolă intenţionează să se pună în mişcare?
+A. să circulaţi cu prudenţă, dar nu aveţi nicio obligaţie;
+B. să măriţi viteza, pentru a degaja traficul;
+C. să reduceţi viteza şi, la nevoie, să opriţi pentru a-i permite reintrarea în trafic.
+C
+False
+
+304
+Oprirea este interzisă:
+A. la mai puţin de 50 m de colţul intersecţiei;
+B. în locul în care se împiedică vizibilitatea unui semnal luminos;
+C. în curbe cu vizibilitatea sub 100 m.
+B
+False
+
+305
+Conducătorul unui autovehicul angajat într-un accident din care a rezultat moartea sau rănirea unei persoane poate pleca de la locul faptei?
+A. da, dacă nu este vinovat de accident;
+B. da, dacă victima a fost transportată la spital;
+C. da, cu încuviinţarea poliţistului rutier care cercetează cazul.
+C
+False
+
+306
+La trecerea pentru pietoni, conducătorul de autovehicule este obligat:
+A. să reducă viteza, chiar dacă nu sunt pietoni angajaţi în traversare;
+B. să acorde prioritate pietonilor angajaţi în traversare, aflaţi pe sensul său de mers;
+C. să circule pe partea dreaptă şi să oprească numai la semnalul pietonilor.
+B
+False
+
+307
+Care este limita maximă de viteză admisă pentru autoturisme în localităţi?
+A. 50 km/h:
+B. 60 km/h;
+C. 100 km/h.
+A
+False
+
+308
+În situaţia în care poliţistul se află cu faţa la un autovehicul care se apropie, având braţul drept întins orizontal, conducătorul auto trebuie:
+A. să oprească, deoarece semnalul i se adresează;
+B. să continue deplasarea, deoarece semnalul nu i se adresează;
+C. să schimbe direcţia de mers spre stânga.
+B
+False
+
+309
+Ce obligaţii aveţi dacă, circulând pe un drumul public cu mai multe benzi, banda pe care circulaţi se sfârşeşte şi trebuie să vă continuaţi deplasarea pe banda din stânga?
+A. să permiteţi trecerea vehiculelor care circulă pe banda din stânga;
+B. să semnalizaţi, pentru ca cei din spate să vă acorde prioritate;
+C. să măriţi viteza, pentru a nu-i stânjeni pe ceilalţi participanţi la trafic.
+A
+False
+
+310
+Care dintre faptele de mai jos constituie infracţiune şi se pedepseşte ca atare?
+A. conducerea pe drumul public a unui autovehicul neînmatriculat;
+B. conducerea pe drumul public a unui autovehicul fără certificat de înmatriculare;
+C. conducerea pe drumul public a unui autovehicul cu defecţiuni.
+A
+False
+
+311
+Cum trebuie să semnalizaţi intenţia de a depăşi alte vehicule, atunci când conduceţi autovehiculul noaptea, pe un drum neiluminat dintr-o localitate?
+A. cu luminile farurilor;
+B. prin folosirea luminii de drum sau a claxonului;
+C. cu luminile indicatoare de direcţie.
+C
+False
+
+312
+Cum se defineşte corect autovehiculul din categoria B?
+A. autovehiculul care nu depăşeşte 5.000 kg, al cărui număr de locuri pe scaune, în afara conducătorului, este mai mic de 8;
+B. autovehiculul care nu depăşeşte 3.500 kg, al cărui număr de locuri pe scaune, în afara conducătorului, nu este mai mare de 8;
+C. autovehiculul care nu depăşeşte 3.500 kg, al cărui număr de locuri pe scaune, în afara conducătorului, nu este mai mare de 5.
+B
+False
+
+313
+Ce obligaţii vă revin la executarea manevrei de trecere a vehiculului de pe o bandă pe alta?
+A. să semnalizaţi din timp şi să vă asiguraţi că puteţi efectua manevra fără a perturba circulaţia sau fără a pune în pericol siguranţa celorlalţi participanţi la trafic;
+B. să vă asiguraţi din spate;
+C. să vă asiguraţi din faţă şi din spate.
+A
+False
+
+314
+În ce situaţie se reţine permisul de conducere?
+A. în cazul încălcării obligaţiilor privind semnificaţia luminilor roşii la trecerea la nivel cu calea ferată prevăzută cu bariere;
+B. în cazul reparării autovehiculului fără autorizaţia poliţiei;
+C. atunci când autovehiculul nu este dotat cu oglinzi retrovizoare.
+A
+False
+
+315
+Care este limita maximă de viteză admisă pentru autoturisme pe drumurile expres sau naţionale europene?
+A. 90 km/h:
+B. 100 km/h;
+C. 130 km/h.
+B
+False
+
+316
+Este permisă depăşirea vehiculelor în intersecţii?
+A. nu;
+B. da, dacă intersecţia este dirijată;
+C. da, dar numai a bicicletelor şi a mopedelor.
+B
+False
+
+317
+Ce bandă trebuie să ocupi şi de la ce distanţă, pentru a putea executa virajul la stânga într-o intersecţie nedirijată:
+A. banda din stânga, de la o distanţă de cel puţin 50m;
+B. banda din mijloc, de la o distanţă de cel puţin 100m;
+C. banda de lângă bordură, de la o distanţă de cel puţin 50m.
+A
+False
+
+318
+Reducerea vitezei până la 30 km/h în localităţi şi până la 50 km/h în afara localităţilor este obligatorie:
+A. în dreptul staţiilor mijloacelor de transport public de persoane;
+B. în zona de acţine a indicatorului „Aeroport“;
+C. în zona de acţiune a indicatorului „Copii“, între orele 7:00-22:00.
+C
+False
+
+319
+Cum este definită depăşirea?
+A. trecerea unui vehicul pe lângă altul, când circulă în acelaşi sens, dar pe o bandă alăturată;
+B. manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe acelaşi sens de circulaţie, prin schimbarea direcţiei de mers şi ieşirea de pe banda de circulaţie sau din şirul de vehicule în care s-a aflat iniţial;
+C. trecerea unui vehicul prin dreptul altuia.
+B
+False
+
+320
+Deţinătorul unui autovehicul poate monta la autovehiculul său alte lumini decât cele omologate de autoritatea competentă?
+A. da, dacă luminile contribuie la sporirea vizibilităţii autovehiculului în trafic;
+B. da, dacă prin aceasta îşi asigură o vizibilitate mai bună în momentul conducerii pe timpul nopţii;
+C. nu.
+C
+False
+
+321
+La semnalul poliţistului având braţul stâng întins orizontal, orientat cu faţa către autovehiculul care se apropie, conducătorul auto trebuie:
+A. să reducă viteza;
+B. să oprească imediat;
+C. să continue deplasarea.
+B
+False
+
+322
+Cum veţi parca regulamentar într-o piaţă cu sens giratoriu?
+A. paralel cu bordura trotuarului şi cât mai aproape de aceasta;
+B. parţial pe trotuar;
+C. în acest loc nu este permisă parcarea.
+C
+False
+
+323
+La calea ferată curentă prevăzută cu bariere, atunci când semnalele sonore şi luminoase de culoare roşie sunt în funcţiune, sunteţi avertizat că:
+A. instalaţia de închidere şi deschidere a barierelor nu funcţionează normal;
+B. trenul se apropie, urmând ca barierele să se închidă automat;
+C. trebuie să traversaţi de urgenţă calea ferată.
+B
+False
+
+324
+În ce situaţii sunteţi obligat să reduceţi viteza?
+A. când circulaţi pe poduri, sub poduri sau în tuneluri;
+B. în timp ce sunteţi depăşit de un alt vehicul;
+C. la apropierea si trecerea autovehiculelor cu regim de circulaţie prioritară, care au în funcţiune mijloacele speciale de avertizare luminoasă de culoare albastră şi mijloacele de avertizare sonoră.
+C
+False
+
+325
+Braţul stâng, întins orizontal, al poliţistului semnifică oprire pentru:
+A. vehiculele care vin din faţă;
+B. vehiculele care vin din spate;
+C. vehiculele care vin din faţă şi din spate.
+A
+False
+
+326
+Conducătorul unui autoturism poate transporta obiecte al căror gabarit depăşeşte, împreună cu încărcătura, dimensiunile acestuia?
+A. da, dacă extremitatea obiectelor este semnalizată cu un steag roşu;
+B. nu;
+C. da, dacă obiectele depăşesc lăţimea autovehiculului.
+B
+False
+
+327
+Ce semnificaţie are marcajul longitudinal continuu de separare a sensurilor de circulaţie?
+A. orientează conducătorii de vehicule în condiţii de vizibilitate redusă;
+B. interzice încălcarea lui;
+C. interzice depăşirea pe sectorul pe care este aplicat.
+B
+False
+
+328
+Cine nu este obligat să poarte centura de siguranţă?
+A. pasagerii din taxiuri;
+B. persoanele suferinde;
+C. examinatorul, în timpul desfăşurării probelor practice ale examenului.
+C
+False
+
+329
+În care dintre următoarele situaţii poţi schimba poziţia autovehiculului, atunci când ai fost angajat într-un accident de circulaţie?
+A. după ce ai anunţat poliţia;
+B. după ce ai acordat primul ajutor victimelor;
+C. când accidentul nu a avut ca urmare victime omeneşti, ci doar avarii.
+C
+False
+
+330
+Cum este recomandat să procedaţi pentru a depăşi, în condiţii de siguranţă, un tramvai oprit într-o staţie cu refugiu?
+A. să avertizaţi sonor persoanele aflate în zona staţiei;
+B. să semnalizaţi din timp intenţia de depăşire a tramvaiului;
+C. să reduceţi viteza de deplasare.
+C
+False
+
+331
+La ieşirea din zonele rezidenţiale sau pietonale, sunteţi obligat să acordaţi prioritate:
+A. autovehiculelor;
+B. pietonilor de pe sensul opus de circulaţie;
+C. tuturor vehiculelor cu care vă intersectaţi.
+C
+False
+
+332
+Ce măsuri vor fi luate în cazul conducerii pe drumurile publice a unui autovehicul cu defecţiuni grave la mecanismul de direcţie?
+A. amendă contravenţională, reţinerea certificatului de înmatriculare, precum şi reţinerea permisului de conducere în vederea suspendării exercitării dreptului de a conduce autovehicule;
+B. amendă contravenţională;
+C. amendă contravenţională şi reţinerea certificatului de înmatriculare.
+A
+False
+
+333
+Cu ce viteză veţi circula când partea carosabilă este acoperită cu polei, gheaţă, zăpadă bătătorită, mâzgă sau piatră cubică umedă?
+A. viteza maximă nu poate fi mai mare de 20 km/h;
+B. viteza să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor;
+C. viteza va fi redusă în funcţie de condiţiile atmosferice.
+B
+False
+
+334
+Ce obligaţii îţi revin dacă auovehiculul cu care circuli a rămas în pană şi nu poate fi scos în afara părţii carosabile a drumului?
+A. semnalizezi cu luminile de culoare galbenă intermitentă;
+B. atragi atenţia celorlalţi participanţi la trafic prin semnale sonore;
+C. pui în funcţiune luminile de avarie şi instalezi triunghiurile reflectorizante.
+C
+False
+
+335
+Precizaţi când sunt scutiţi instructorii auto să poarte, în localităţi, centura de siguranţă:
+A. în timpul orelor de pregătire a cursanţilor;
+B. în permanenţă, când se află în autovehiculele cu inscripţia „Şcoală“;
+C. legal, nu este prevăzut.
+A
+False
+
+336
+Ce obligaţii ai înainte de efectuarea unei depăşiri?
+A. să te asiguri atât din faţă, cât şi din spate;
+B. să te asiguri din faţă şi să reduci corespunzător viteza;
+C. să semnalizezi din timp şi să te asiguri că nu deranjezi circulaţia sau că nu pui în pericol siguranta celorlalţi participanţi la trafic.
+C
+False
+
+337
+Ce obligaţii vă revin la staţionarea utovehiculului pe partea carosabila a unui drum public?
+A. pe timp de noapte să-i semnalizezi prezenţa cu luminile de poziţie;
+B. să-l asiguri cu frâna de ajutor, să scoţi cheia din contact şi să introduci maneta schimbătorului într-una dintre viteze sau în marşalier, apoi să încui uşa;
+C. să laşi o distanţă de cel puţin un metru faţă de celelalte vehicule.
+B
+False
+
+338
+Este permisă oprirea voluntară a autovehiculului în tuneluri?
+A. da;
+B. nu;
+C. numai dacă lungimea tunelului depăşeşte 1000 m.
+B
+False
+
+339
+Ce obligaţii ai la trecerea la nivel cu o cale ferată unde este prezent un agent de cale ferată?
+A. nicio obligaţie, deoarece agentul de cale ferată dirijează garniturile de tren;
+B. să respecţi semnalele acestuia;
+C. să reduci viteza şi să continui traversarea căii ferate.
+B
+False
+
+340
+Înscrisul TUBELESS pe o anvelopă, semnifică faptul că:
+A. anvelopa este cu profil de iarnă;
+B. anvelopa este cu profil de vară;
+C. anvelopa este de tipul „fără cameră de aer”.
+C
+False
+
+341
+Este interzis ca autovehiculele să fie echipate cu:
+A. dispozitive antiradar;
+B. sistem de navigaţie;
+C. sistem sonor antifurt.
+A
+False
+
+342
+Ce obligaţie revine conducătorului de vehicul care schimbă direcţia de mers la dreapta, la semnalul verde al semaforului, în timp ce pietonii sunt angajaţi la rândul lor în traversare?
+A. să semnalizeze schimbarea direcţiei de mers şi să acorde prioritate de trecere pietonilor angajaţi în traversarea străzii pe care conducatorul urmează să intre;
+B. să semnalizeze schimbarea direcţiei de mers şi să-şi continue deplasarea cu prudenţă, pietonii fiind obligaţi să-i cedeze trecerea;
+C. să semnalizeze schimbarea direcţiei de mers şi să păstreze o distanţă laterală suficientă faţă de bordura din dreapta.
+A
+False
+
+343
+Care este diferenţa între oprire şi staţionare?
+A. nici una întrucât ambele au aceleaşi reguli de aplicare;
+B. diferenţa constă în durata de imobilizare a vehiculului pe partea carosabilă a drumului public;
+C. diferenţa este determinată de modul de aşezare şi asigurare a autovehiculului pe partea carosabilă.
+B
+False
+
+344
+Ce conduită trebuie să adopte un conducator de autovehicul atunci când se apropie de o intersecție cu circulație nedirijată?
+A. să reducă viteza, dar numai dacă schimbă direcția de deplasare la dreapta;
+B. să conducă cu viteză redusă pentru a avea posibilitatea să acorde prioritate de trecere celor care au acest drept;
+C. să avertizeze pe ceilalți participanți la trafic, prin semnale sonore și luminoase că s-a angajat în traversarea intersecției și să acorde prioritate de trecere tuturor vehiculelor;
+B
+False
+
+345
+Punctele de penalizare se aplică pentru:
+A. nerespectarea semnificației indicatorului „atenție, copii”;
+B. nerespectarea semnificației indicatorului „drum cu denivelări”;
+C. nerespectarea semnificației indicatorului „oprire”.
+C
+False
+
+346
+Manevra de evitare prin schimbarea direcţiei de mers a unui obstacol aflat pe sensul tău de circulaţie, urmată de revenirea pe acelaşi sens, constituie:
+A. situaţie de urgenţă;
+B. depăşire;
+C. ocolire.
+B
+False
+
+347
+În cazul rănilor cu hemoragie, se va avea în vedere la început:
+A. pansarea rănii;
+B. curatarea şi pansarea rănii;
+C. oprirea hemoragiei.
+C
+False
+
+348
+Săvârşirea unei contravenţii atrage după sine:
+A. răspundere penală şi anularea permisului de conducere;
+B. amendă şi după caz, sancţiunea contravenţională complementară a reţinerii permisului de conducere sau a certificatului de înmatriculare;
+C. amendă penală şi după caz una din sancţiunile complementare.
+B
+False
+
+349
+Care sunt consecinţele fenomenului de acvaplanare?
+A. uzura rapidă a pneurilor;
+B. pierderea controlului direcţiei;
+C. împroşcarea cu criblură a celorlalţi participanţi la trafic.
+B
+False
+
+350
+Este permisă staţionarea autovehiculelor pe timpul nopţii pe partea carosabilă a unui drum comunal neiluminat?
+A. da, dacă se aprind luminile de poziţie sau de staţionare;
+B. nu, întrucât în toate cazurile se interzice pe timpul nopţii staţionarea pe partea carosabilă;
+C. da, dacă în afara luminilor de poziţie prezenţa autovehiculului este semnalizată şi cu ajutorul triunghiurilor reflectorizante.
+A
+False
+
+351
+Distanţa pe care trebuie să o păstraţi, faţă de autovehiculul care circulă înaintea dvs., o stabiliţi în funcţie de:
+A. abilitatea dvs. de a evita un obstacol apărut brusc;
+B. marca, categoria şi capacitatea cilindrică a autovehiculului din faţă;
+C. viteza de deplasare, condiţiile meteo şi de trafic.
+C
+False

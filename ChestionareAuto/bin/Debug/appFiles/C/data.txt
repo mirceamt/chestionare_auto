@@ -1,0 +1,4048 @@
+
+1
+Cum veţi proceda corect la întâlnirea indicatorului din imagine?
+A. veţi circula cu o viteză minimă de 30 km/h;
+B. veţi opri pe banda din dreapta, pentru a permite celorlalte vehicule să vă depăşească;
+C. veţi circula pe banda din dreapta, dacă viteza autocamionului nu este mai mare de 30 km/h.
+C
+True
+
+2
+Dacă într-o intersecţie conducătorul de autocamion întâlneşte semnalul verde al semaforului, precum şi indicatorul „Cedează trecerea“, el este obligat:
+A. să respecte semnificaţia semnalului verde;
+B. să respecte semnificaţia indicatorului;
+C. să respecte semnificaţia semnalului verde, acordând prioritate de trecere vehiculelor care circulă pe drumul prioritar.
+A
+False
+
+3
+Manevra de evitare, prin schimbarea direcţiei de mers, a unui obstacol aflat pe sensul dvs. de circulaţie, urmată de revenirea pe acelaşi sens, constituie:
+A. ocolire;
+B. depăşire;
+C. situaţie de urgenţă.
+B
+False
+
+4
+Care este viteza maximă admisă pentru un ansamblu format dintr-un autovehicul din categoria C şi o remorcă, în localităţi?
+A. 70 km/h;
+B. 50 km/h;
+C. 65 km/h.
+B
+False
+
+5
+Într-o intersecţie unde circulaţia se desfăşoară în sens giratoriu, conducătorilor de autocamioane le este interzis:
+A. să reducă viteza, întrucât se creează pericolul de blocare;
+B. să oprească autocamionul, în afara situaţiilor impuse de trafic;
+C. să întoarcă, prin ocolirea sensului giratoriu.
+B
+False
+
+6
+La intersecţiile fără marcaje, dacă intenţionaţi să circulaţi pe direcţia înainte, ocupaţi în mers:
+A. rândul din stânga;
+B. rândul din dreapta;
+C. oricare dintre rânduri.
+C
+False
+
+7
+Este corectă depăşirea prezentată în imaginea alăturată?
+A. nu, întrucât indicatorul interzice depăşirea;
+B. da, deoarece tractorul are o viteză de deplasare redusă;
+C. da, dacă din sens opus nu circulă niciun vehicul.
+A
+True
+
+8
+Pe autostrăzi, puteţi circula cu autocamionul cu o viteză maximă de:
+A. 80 km/h;
+B. 110 km/h;
+C. 130 km/h.
+B
+False
+
+9
+Care dintre indicatoarele alăturate interzice accesul autocamioanelor care transportă încărcături uşor inflamabile?
+A. indicatorul 1;
+B. indicatorul 2;
+C. indicatorul 3.
+A
+True
+
+10
+Cum veţi proceda dacă la intrarea într-o intersecţie semaforul este pe semnalul verde, dar aceasta este blocată din cauza aglomeraţiei?
+A. vă continuaţi deplasarea, deoarece semnalul verde vă permite acest lucru;
+B. claxonaţi şi găsiţi o modalitate de a avansa printre celelalte vehicule;
+C. opriţi şi aşteptaţi deblocarea, după care pătrundeţi în intersecţie pe semnalul verde al semaforului.
+C
+False
+
+11
+Care sunt vitezele maxime admise pentru autovehiculele din categoriile C, D şi subcategoria D1?
+A. 120 km/h pe autostrăzi, 90 km/h pe drumurile expres sau naţionale europene şi 60 km/h pe celelalte categorii de drumuri;
+B. 110 km/h pe autostrăzi şi 80 km/h pe celelalte categorii de drumuri;
+C. 110 km/h pe autostrăzi, 90 km/h pe drumurile expres sau naţionale europene şi 80 km/h pe celelalte categorii de drumuri.
+C
+False
+
+12
+Vă apropiaţi de o intersecţie fără indicatoare de circulaţie. Vizibilitatea în ambele direcţii este imposibilă, din cauza vehiculelor staţionate. Cum procedaţi?
+A. intraţi încet în intersecţie, cu atenţie mărită;
+B. traversaţi cât mai rapid intersecţia;
+C. semnalizaţi luminos şi intraţi în intersecţie.
+A
+False
+
+13
+Cum trebuie să conduceţi, astfel încât să reduceţi poluarea?
+A. porniţi motorul acţionând pedala de acceleraţie la un sfert din cursă şi aşteptaţi ca acesta să se încălzească, pentru a reduce ulterior consumul de carburant;
+B. porniţi motorul fără să acţionaţi pedala de acceleraţie şi demaraţi fără să staţionaţi aşteptând încălzirea motorului;
+C. apăsaţi până la capăt pedala de acceleraţie, porniţi motorul şi demaraţi cu o viteză cât mai mare.
+B
+False
+
+14
+Dacă în zona de preselecţie v-aţi încadrat pe banda pe care se află un marcaj pentru semnalizarea direcţiei de mers spre stânga, puteţi circula pe direcţia înainte?
+A. nu;
+B. da, dacă intersecţia este dirijată;
+C. da, dacă circulaţi cu atenţie.
+A
+False
+
+15
+Cum sunt semnalizate benzile de circulaţie reversibilă, care vă permit să continuaţi deplasarea?
+A. cu dispozitive de culoare galbenă intermitentă;
+B. cu semnalul verde de forma unei săgeţi cu vârful în jos;
+C. cu semnul roşu în cruce.
+B
+False
+
+16
+Ce se înţelege prin selectarea benzii de circulaţie în apropierea unei intersecţii?
+A. semnalizarea şi asigurarea la schimbarea direcţiei de mers;
+B. ocuparea din timp a benzii corespunzătoare direcţiei de mers, la apropierea de o intersecţie;
+C. reducerea vitezei şi semnalizarea schimbării poziţiei autocamionului.
+B
+False
+
+17
+Care dintre indicatoarele alăturate interzice conducătorilor de autocamioane să depăşească motociclete fără ataş?
+A. numai indicatorul 1;
+B. numai indicatorul 2;
+C. ambele indicatoare.
+A
+True
+
+18
+Indicatorul alăturat interzice:
+A. accesul autovehiculelor cu remorci, cu excepţia celor cu o semiremorcă sau cu o remorcă cu o osie;
+B. accesul tuturor autovehiculelor cu semiremorcă;
+C. accesul tuturor autovehiculelor care tractează remorci sau semiremorci.
+A
+True
+
+19
+Semaforul de avertizare constituit dintr-un corp de iluminat de culoare galbenă intermitentă vă informează în legătură cu:
+A. o intersecţie nedirijată;
+B. o trecere de pietoni;
+C. o avarie a sistemului de semafoare dintr-o intersecţie.
+B
+False
+
+20
+Viteza maximă admisă pe drumurile naţionale europene (E) din afara localităţilor, pentru autovehiculele din subcategoria C1, este de:
+A. 110 km/h;
+B. 100 km/h;
+C. 80 km/h.
+C
+False
+
+21
+Ce interzice indicatorul din imagine?
+A. accesul vehiculelor care transportă mărfuri periculoase;
+B. accesul vehiculelor care transportă containere;
+C. accesul vehiculelor cu remorcă.
+A
+True
+
+22
+Cum procedaţi, dacă masa autocamionului încărcat depăşeşte valoarea admisă?
+A. în aceste condiţii nu efectuaţi transportul;
+B. creşteţi presiunea din pneuri;
+C. rulaţi cu viteză redusă.
+A
+False
+
+23
+Dacă semaforul în funcţiune se află instalat de cealaltă parte a intersecţiei, conducătorul de autocamion:
+A. nu este obligat să respecte semnificaţia semnalelor luminoase, deoarece nu i se adresează;
+B. este obligat să respecte semnificaţia semnalelor luminoase, doar dacă semaforul este însoţit de un semn adiţional care indică direcţiile cărora li se adresează semnalele;
+C. este obligat să respecte semnificaţia semnalelor luminoase ale acestuia, dacă un alt semafor instalat la intrarea în intersecţie are în funcţiune un semnal similar.
+C
+False
+
+24
+În care dintre situaţiile de mai jos puteţi folosi banda de lângă axul drumului pe o autostradă?
+A. când efectuaţi depăşirea altor autovehicule, dacă celelalte benzi în direcţia de mers sunt ocupate;
+B. când conduceţi autocamionul cu viteza maximă admisă;
+C. când nu sunteţi precedat de alte autovehicule.
+A
+False
+
+25
+Ce simbolizează indicatorul din imagine?
+A. conducătorii de autocamioane vor circula numai pe direcţia înainte;
+B. indică traseul de urmat pentru conducătorii de autocamioane;
+C. indică locul de parcare pentru autocamioane.
+B
+True
+
+26
+Ce obligaţii îi revin conducătorului de autocamion în momentul apropierii de o intersecţie, dacă semnalul verde se schimbă cu cel galben?
+A. să grăbească traversarea;
+B. să traverseze intersecţia cu viteză redusă;
+C. să oprească autocamionul în faţa marcajului de oprire sau a marcajului pentru trecerea pietonilor ori în dreptul semaforului.
+C
+False
+
+27
+Când se folosesc luminile de avarie?
+A. când se circulă în coloană, cu viteză redusă;
+B. când autocamionul se deplasează foarte lent, din motive obiective;
+C. când se circulă pe un drum alunecos.
+B
+False
+
+28
+Ce obligaţii vă revin dacă sesizaţi că urmează să fiţi depăşit?
+A. să vă continuaţi deplasarea cât mai aproape de axul drumului;
+B. să puneţi în funcţiune semnalizatoarele cu lumină intermitentă din partea dreaptă;
+C. să nu măriţi viteza de deplasare.
+C
+False
+
+29
+Conducătorul de autocamion este obligat să circule cu o viteză care să nu depăşească 30 km/h în localităţi sau 50 km/h în afara acestora în următoarele situaţii:
+A. la întâlnirea autovehiculelor poliţiei;
+B. când vizibilitatea este sub 100 m în condiţii de ceaţă sau ninsori abundente;
+C. atunci când autovehiculul are sistemul de iluminare defect.
+B
+False
+
+30
+În rănile cu hemoragie se va avea în vedere, în faza iniţială:
+A. curăţarea şi pansarea rănii;
+B. pansarea rănii;
+C. oprirea hemoragiei.
+C
+False
+
+31
+Termenul „remorcă” desemnează:
+A. vehiculul fără motor, destinat a fi tractat de un autovehicul sau de un tractor;
+B. un autovehicul care este tractat de un alt autovehicul;
+C. dispozitivul ce se ataşeazã la partea din spate a unui vehicul, pentru a asigura remorcarea.
+A
+False
+
+32
+Într-o intersecţie sunteţi obligat:
+A. să acordaţi prioritate de trecere atunci când pietonii angajaţi regulamentar în traversare se află pe sensul dvs. de mers;
+B. să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi sau 50 km/h în afara acestora, dacă drumul are cel mult o bandă pe sens, iar pietonii aflaţi pe trotuar în apropierea părţii carosabile intenţionează să traverseze;
+C. să circulaţi cât mai aproape de bordura din partea dreaptă a trotuarului.
+AB
+False
+
+33
+Rulând cu pneurile având o presiune mai mare decât cea prevăzută de uzina constructoare, se produce:
+A. uzura anormală a benzii de rulare pe mijloc;
+B. supraîncălzirea pneului;
+C. creşterea aderenţei la partea carosabilă.
+A
+False
+
+34
+Ce obligaţii aveţi la întâlnirea acestui indicator?
+A. să echipaţi obligatoriu autovehiculul cu lanţuri;
+B. să folosiţi pneuri cu crampoane;
+C. să folosiţi lanţuri pentru zăpadă, dacă autovehiculul are masa mai mare de 3,5 t şi carosabilul este acoperit cu gheaţă sau zăpadă.
+C
+True
+
+35
+Oprirea hemoragiei se face prin legarea strânsă a braţului:
+A. în dreptul rănii;
+B. deasupra rănii;
+C. sub rană.
+B
+False
+
+36
+Slăbirea sau ruperea arcurilor supapelor determină:
+A. creşterea consumului de carburant şi scăderea puterii motorului;
+B. mişcarea mai uşoară a supapelor în ghidaje;
+C. încălzirea peste măsură a supapelor.
+A
+False
+
+37
+Cifra octanică reprezintă:
+A. capacitatea combustibilului de a rezista la autoaprindere, atunci când este supus la temperaturi şi presiuni ridicate;
+B. o mărime de individualizare a firmei care comercializează;
+C. un indicator de control pentru depistarea combustibililor falsificaţi.
+A
+False
+
+38
+Ce se realizează prin injecţia de benzină?
+A. dozarea optimă a amestecului carburant, în funcţie de sarcină, de turaţie, de temperatura lichidului de răcire, de avansul la aprindere şi de conţinutul gazelor de eşapare;
+B. pulverizarea benzinei de către jiclorul principal al carburatorului;
+C. reluarea ciclului de funcţionare a instalaţiei de alimentare cu benzină.
+A
+False
+
+39
+Cum veţi proceda dacă, apropiindu-vă de o intersecţie, observaţi aprinse simultan luminile de culoare roşie şi galbenă ale semaforului?
+A. reduceţi viteza şi vă continuaţi drumul, dacă intenţionaţi să viraţi la dreapta;
+B. circulaţi cu prudenţă, deoarece semaforul este defect;
+C. opriţi şi aşteptaţi culoarea verde a semaforului.
+C
+False
+
+40
+Depăşirea tramvaiului din imagine este regulamentară?
+A. nu, deoarece depăşirea tramvaiului în mers se face doar pe partea dreaptă;
+B. nu, deoarece depăşirea are loc în apropierea unei intersecţii;
+C. da, pentru că strada este cu sens unic şi, în acest caz, depăşirea pe partea stângă este permisă.
+C
+True
+
+41
+Zgomotul metalic ascuţit uniform, la accelerarea bruscă a motorului, se poate datora:
+A. ruperii bolţului pistonului;
+B. decalibrării clapetei de acceleraţie;
+C. defecţiunilor la pompa de injecţie.
+A
+False
+
+42
+Care dintre următoarele defecţiuni determină funcţionarea motoarelor cu aprindere prin compresie cu fum alb excesiv?
+A. arderea garniturii de chiulasă;
+B. resortul injectorului blocat;
+C. avansul la injecţie peste limita normală.
+A
+False
+
+43
+Cât timp trebuie menţinută semnalizarea schimbării direcţiei de mers?
+A. 10 secunde de la începerea manevrei;
+B. pe întreaga durată a executării manevrei;
+C. legea nu prevede nimic cu privire la acest aspect.
+B
+False
+
+44
+Limita maximă de viteză pe drumurile naţionale din afara localităţilor, pentru autovehiculele din categoria C este:
+A. 110 km/h;
+B. 80 km/h;
+C. 100 km/h.
+B
+False
+
+45
+În timp ce conduceţi un autocamion, întâlniţi indicatorul alăturat. Vă puteţi continua deplasarea în acest caz?
+A. da, dacă încărcătura nu depăşeşte masa înscrisă pe indicator;
+B. da, dacă autocamionul este gol, indiferent de greutatea lui;
+C. da, dacă masa autocamionului şi a încărcăturii nu depăşesc masa înscrisă pe indicator.
+C
+True
+
+46
+Cum puteţi folosi în condiţii optime capacitatea de frânare a motorului, atunci când coborâţi o pantă lungă şi înclinată?
+A. schimbaţi într-o treaptă superioară;
+B. schimbaţi la timp într-o treaptă inferioară;
+C. după schimbarea vitezei, aduceţi imediat maneta în „punctul mort“.
+B
+False
+
+47
+Care dintre următoarele defecţiuni generează un joc mare al volanului?
+A. unsoarea prea consistentă folosită la gresarea articulaţiilor;
+B. dereglarea convergenţei roţilor;
+C. uzura pronunţată a capetelor de bară.
+C
+False
+
+48
+În care dintre următoarele situaţii puteţi depăşi un autoturism în afara localităţilor?
+A. atunci când conducătorul autoturismului circulă cu o viteză sub limita maximă admisă pentru un autocamion;
+B. când circulaţi pe un drum public cu mai mult de două benzi pe sens;
+C. atunci când autoturismul are semnul distinctiv al conducătorului cu vechime în conducere mai mică de un an.
+A
+False
+
+49
+În timpul deplasării, conducătorului de autocamion îi este interzis:
+A. să fumeze;
+B. să aibă preocupări care i-ar putea distrage, într-o manieră periculoasă, atenţia;
+C. să acţioneze asupra comenzilor instalaţiei de sonorizare.
+B
+False
+
+50
+Conducătorul de autocamioane prevăzător are în vedere:
+A. să fie odihnit, iar autocamionul să corespundă din punct de vedere tehnic pentru circulaţia pe drumurile publice;
+B. să aibă asigurată presiunea normală la roata de rezervă;
+C. să observe înaintea altora locurile în care este amplasat aparatul RADAR.
+A
+False
+
+51
+Organele principale care compun sistemul de transmisie sunt:
+A. lanţul de distribuţie, pinioanele distribuţiei, axa cu came şi jantele;
+B. ambreiajul, cutia de viteze, arborii intermediari, diferenţialul şi planetarele;
+C. demarorul, arborele motor, cureaua de ventilator şi fuliile.
+B
+False
+
+52
+Ce obligaţii vă revin dacă, într-o intersecţie, viraţi la stânga pe semnalul verde al semaforului?
+A. nicio obligaţie;
+B. acordaţi prioritate de trecere mijloacelor de transport public de persoane;
+C. acordaţi prioritate de trecere atât vehiculelor care circulă din sens opus, cât şi pietonilor aflaţi în traversare pe sensul dumneavoastră de mers pe culoarea verde.
+C
+False
+
+53
+Mecanismul de distribuţie asigură:
+A. transmiterea uniformă a puterii motorului la roţile autovehiculului;
+B. deschiderea şi închiderea supapelor, la momente bine precizate, pentru evacuarea gazelor arse şi umplerea cilindrilor cu amestec carburant;
+C. distribuţia către fiecare cilindru a curentului de joasă tensiune, necesar aprinderii amestecului carburant.
+B
+False
+
+54
+Cum trebuie să procedaţi atunci când un autobuz şcolar opreşte cu luminile de avarie aprinse?
+A. luminile intermitente de avertizare ale autobuzelor şcolare vă obligă să opriţi;
+B. circulaţi cu atenţie sporită;
+C. nu aveţi nicio obligaţie.
+B
+False
+
+55
+Pompa de înaltă presiune din componenţa sistemului de direcţie cu servomecanism hidraulic este antrenată de:
+A. arborele cotit al motorului;
+B. axul secundar al cutiei de viteze;
+C. axa cu came.
+A
+False
+
+56
+Ce înseamnă masa totală maximă autorizată a autocamionului pe care îl conduceţi?
+A. masa maximă a încărcăturii care poate fi transportată;
+B. masa proprie a autocamionului;
+C. masa maximă a unui vehicul încărcat.
+C
+False
+
+57
+Care este rolul bateriei de acumulatori?
+A. transformă curentul de joasă tensiune în curent de înaltă tensiune;
+B. alimentează consumatorii cu energie electrică în raport de necesităţi;
+C. transformă energia chimică în energie mecanică.
+B
+False
+
+58
+În care dintre situaţii oprirea este interzisă?
+A. în zona de acţiune a indicatorului care interzice depăşirea;
+B. pe străzile unde circulaţia se desfăşoară în sens unic;
+C. în dreptul altui vehicul care se află oprit, dacă prin aceasta se stânjeneşte circulaţia a două vehicule venind din sensuri opuse.
+AC
+False
+
+59
+Luminile de avarie se folosesc în următoarea situaţie:
+A. când sunteţi dezorientat în privinţa traseului de urmat;
+B. când autocamionul este imobilizat involuntar pe partea carosabilă sau în timp ce sunteţi remorcat;
+C. când luminile de drum s-au defectat.
+B
+False
+
+60
+Criteriul de alegere a motorinei pentru motoarele Diesel îl constituie:
+A. culoarea şi consistenţa;
+B. cifra octanică (CO);
+C. cifra cetanică (CC).
+C
+False
+
+61
+Slăbirea curelei de antrenare a ventilatorului şi a pompei de apă determină:
+A. micşorarea presiunii uleiului în carter;
+B. deteriorarea curelei prin patinare;
+C. supraîncălzirea motorului.
+BC
+False
+
+62
+În care dintre situaţii nu este permisă depăşirea?
+A. pe un drum în rampă, în apropierea vârfului, când vizibilitatea este redusă sub 50 m;
+B. când un autobuz se află oprit în staţie;
+C. în zonele cu trafic intens.
+A
+False
+
+63
+În ce condiţii vă puteţi continua deplasarea, la întâlnirea indicatorului alăturat?
+A. dacă gabaritul în lungime al camionului pe care îl conduceţi nu depăşeşte 2,30 m;
+B. dacă gabaritul în lăţime al camionului nu depăşeşte 2,30 m;
+C. dacă gabaritul în înălţime nu depăşeşte 2,30 m.
+B
+True
+
+64
+La cererea poliţistului rutier, împreună cu reprezentantul autorităţilor abilitate, conducătorul unui autocamion este obligat:
+A. să prezinte documentele de călătorie;
+B. să-l transporte la prima localitate;
+C. să permită controlul stării tehnice a autocamionului, precum şi al bunurilor transportate.
+C
+False
+
+65
+Cum este definită depăşirea?
+A. trecerea unui vehicul pe lângă altul, când circulă în acelaşi sens, dar pe o bandă alăturată;
+B. manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe acelaşi sens de circulaţie, prin schimbarea direcţiei de mers şi ieşirea de pe banda de circulaţie sau din şirul de vehicule în care s-a aflat iniţial;
+C. trecerea unui vehicul prin dreptul altuia.
+B
+False
+
+66
+Conduceţi, într-o localitate, un autocamion cu care transportaţi încărcături periculoase. Cu ce viteză maximă veţi circula?
+A. cu 30 km/h;
+B. cu 40 km/h;
+C. cu 50 km/h.
+B
+False
+
+67
+Ce simptome ale stopului cardiac prezintă o persoană, victimă a unui accident de circulaţie?
+A. leziuni profunde în zona toracelui;
+B. lipsa pulsului;
+C. apariţia hemoragiei pe gură.
+B
+False
+
+68
+Limita maximă de viteză pe drumurile judeţene situate în afara localităţilor, pentru autovehiculele din categoria C, este următoarea:
+A. 100 km/h;
+B. 80 km/h;
+C. 60 km/h.
+B
+False
+
+69
+Ce rol are sistemul de transmisie?
+A. transmite, modifică şi distribuie momentul forţei de la motor la roţile motoare;
+B. transmite lichidul de la pompe de receptori;
+C. distribuie uniform presiunea la toţi cilindrii de frână.
+A
+False
+
+70
+Roţile directoare ale autovehiculelor cu tracţiune pe spate sunt, de regulă:
+A. divergente sau paralele;
+B. convergente sau paralele;
+C. divergente.
+B
+False
+
+71
+Cum se semnalizează mersul înapoi?
+A. folosind claxonul din dotare;
+B. cu luminile intermitente de culoare galbenă;
+C. cu luminile speciale destinate acestei manevre.
+C
+False
+
+72
+Pilotarea şoferilor de autovehicule la mersul înapoi se efectuează în următoarea situaţie:
+A. când vizibilitatea în spate este obstrucţionată;
+B. când manevra se execută în curbe cu vizibilitate redusă;
+C. când manevra se execută în vârfuri de rampă, la mai puţin de 100 m.
+A
+False
+
+73
+În ce condiţii puteţi manevra înapoi un autovehicul de mare tonaj, când vizibilitatea în spate este împiedicatã?
+A. dacă manevraţi autovehiculul cu o viteză sub 10 km/oră şi claxonaţi;
+B. dacă sunteţi pilotat de către o altă persoană din exteriorul autovehiculului;
+C. dacă manevraţi autovehiculul cu uşa cabinei deschisă, pentru a vă putea asigura mai uşor.
+B
+False
+
+74
+Cum trebuie scoase dintr-un autovehicul persoanele rănite?
+A. prin ridicare;
+B. prin tragere;
+C. prin împingere.
+A
+False
+
+75
+Încălzirea puternică a bobinei de inducţie se poate datora:
+A. defecţiunilor înfăşurării secundare;
+B. bateriei de acumulatori;
+C. exploatării motorului la turaţii mari.
+A
+False
+
+76
+Unde se formează amestecul carburant la motoarele cu aprindere prin compresie?
+A. în galeria de admisie;
+B. în cilindrii motorului;
+C. în pompa de injecţie.
+B
+False
+
+77
+Uzura pronunţată a părţii exterioare a benzii de rulare a pneurilor directoare este cauzată de:
+A. unghiul de convergenţă prea mare;
+B. unghiul de divergenţă prea mare;
+C. folosirea pneurilor antiderapante.
+A
+False
+
+78
+Care este semnificaţia indicatorului din imagine?
+A. direcţie obligatorie pentru vehiculele de transport marfă;
+B. direcţie obligatorie pentru vehiculele care transportă mărfuri periculoase;
+C. direcţie obligatorie pentru autovehicule, cu excepţia celor care transportă mărfuri periculoase.
+B
+True
+
+79
+Oprirea voluntară a autocamioanelor este interzisă:
+A. pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulaţia vehiculelor pe şine;
+B. la mai puţin de 50 m de trecerile pentru pietoni;
+C. la o distanţă mai mică de 150 m de trecerea la nivel cu calea ferată.
+A
+False
+
+80
+Cum vă comportaţi atunci când circulaţi cu autocamionul pe timp de noapte, pe o porţiune de drum liberă, şi daţi semne de oboseală?
+A. beţi o cafea rece;
+B. faceţi pauze corespunzătoare pentru odihnă;
+C. măriţi volumul radioului.
+B
+False
+
+81
+La apropierea de o cale ferată industrială:
+A. conducătorii de autocamioane vor da dovadă de prudenţă sporită;
+B. conducătorii de autocamioane nu au nicio obligaţie, dacă nu există un agent de cale ferată;
+C. se va respecta semnificaţia semaforului electric.
+A
+False
+
+82
+În afara localităţii, pe un drum judeţean, un ansamblu format dintr-un autovehicul din categoria C şi o remorcă de peste 750 kg poate circula cu o viteză maximă de:
+A. 60 km/h;
+B. 70 km/h;
+C. 40 km/h.
+B
+False
+
+83
+Care dintre indicatoarele alăturate interzice conducătorilor de autocamioane ce transportă marfă să depăşească autoturisme?
+A. numai indicatorul 1;
+B. numai indicatorul 2;
+C. ambele indicatoare.
+C
+True
+
+84
+Circuitul de joasă tensiune al motoarelor cu aprindere prin scânteie cuprinde:
+A. contactul aprinderii, înfăşurarea primară a bobinei de inducţie, ruptorul şi condensatorul;
+B. bateria de acumulatori şi conductorii electrici aferenţi;
+C. luminile de întâlnire, de drum şi de poziţie.
+A
+False
+
+85
+În ce situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi sau 50 km/h în afara acestora?
+A. în zonele unde sunt interzise oprirea şi staţionarea;
+B. pe drumurile publice cu sens unic;
+C. la schimbarea direcţiei de mers prin viraje.
+C
+False
+
+86
+Apariţia unor bătăi sau zgomote la viraje sau la schimbarea bruscă a vitezei de rulare se datorează:
+A. defecţiunilor la mecanismul de direcţie;
+B. înţepenirii sateliţilor diferenţialului pe axe;
+C. încărcării neuniforme a autovehiculului.
+B
+False
+
+87
+Care dintre următoarele cauze determină sulfatarea plăcilor bateriei de acumulatori?
+A. scurtcircuitarea acumulatorului în interiorul elementelor;
+B. prezenţa impurităţilor în electrolit;
+C. nivelul scăzut al electrolitului sub partea superioară a plăcilor.
+A
+False
+
+88
+Ce se înţelege prin turaţia motorului?
+A. numărul de rotaţii transmis roţilor motoare;
+B. numărul de rotaţii efectuate de arborele cotit într-un minut;
+C. numărul de rotaţii efectuate de ventilatorul radiatorului într-un minut.
+B
+False
+
+89
+Care dintre următoarele cauze determină manevrarea greoaie a volanului?
+A. uzura excesivă a rulmenţilor roţilor directoare;
+B. dezechilibrarea roţilor directoare;
+C. griparea pivoţilor fuzetelor.
+C
+False
+
+90
+În cazul rulării cu un pneu umflat sub presiunea indicată de constructor, uzura neuniformă a benzii de rulare se produce:
+A. pe margini;
+B. pe mijloc;
+C. pe toată lăţimea.
+A
+False
+
+91
+Când se folosesc luminile de avarie?
+A. când autocamionul a rămas în pană sau a fost avariat, fiind imobilizat pe carosabil;
+B. când autocamionul se deplasează foarte lent şi constituie un pericol pentru ceilalţi participanţi la trafic;
+C. când se blochează circulaţia pe sensul de mers.
+ABC
+False
+
+92
+Care dintre următorii factori reprezintă baza conduitei preventive?
+A. cunoaşterea normelor de circulaţie şi a regulilor de conducere a autocamionului;
+B. capacitatea de a fi politicos şi disciplinat în traficul rutier;
+C. încadrarea în baremurile legale privind sănătatea.
+AB
+False
+
+93
+Ciclul de funcţionare a motorului cu ardere internă în patru timpi se realizează:
+A. într-o rotaţie completă a arborelui motor;
+B. în două rotaţii complete ale arborelui motor;
+C. în patru rotaţii complete ale arborelui motor.
+B
+False
+
+94
+Suspendarea exercitării dreptului de a conduce se aplică în cazul:
+A. nerespectării interdicţiei de a deschide uşile autovehiculului în timpul mersului;
+B. utilizării detectoarelor radar;
+C. nerespectării regulilor de circulaţie la trecerea unei coloane oficiale.
+C
+False
+
+95
+Indicatorul interzice:
+A. accesul autovehiculelor destinate transportului de mărfuri;
+B. accesul tuturor autovehiculelor;
+C. accesul maşinilor destinate transporturilor speciale (produse periculoase, autoutilaje speciale).
+A
+True
+
+96
+Care este viteza cu care trebuie să vă deplasaţi pe un drum public umed sau acoperit cu mâzgă sau zăpadă?
+A. viteza prevăzută de Regulament pentru categoria de drum pe care circulaţi în acel moment;
+B. viteza care să vă confere siguranţa că puteţi opri şi evita orice eveniment rutier, fără a intra în derapaj;
+C. în această situaţie nu trebuie să circulaţi cu mai mult de 20 km/h.
+B
+False
+
+97
+Intrarea în acţiune a frânelor cu întârziere se poate datora:
+A. turaţiei mici a motorului;
+B. turaţiei excesive a motorului;
+C. uzurii grupului saboţi-tamburi-discuri.
+C
+False
+
+98
+Instalaţia de pornire a motorului este alcătuită din:
+A. demarorul, contactul de pornire cu cheie, conductoarele de legătură şi bateria de acumulatori;
+B. mecanismul bielă-manivelă, carburatorul şi rezervorul de combustibil;
+C. roţile motoare, punţile, ambreiajul şi racul fixat pe arborele motor.
+A
+False
+
+99
+Cum este definit transportul rutier?
+A. orice deplasare efectuată, în totalitate sau parţial, în gol sau cu sarcină, pe drumurile deschise circulaţiei publice, de un vehicul utilizat pentru transportul de persoane sau de marfă;
+B. orice deplasare efectuată pe drumurile judeţene, naţionale sau naţional europene;
+C. transportul efectuat cu autovehicule ale căror caracteristici sunt specifice atât în ceea ce priveşte forma caroseriei, cât şi puterea motorului.
+AC
+False
+
+100
+Indicatorul vă interzice accesul dacă:
+A. masa autocamionului depăşeşte valoarea recomandată;
+B. masa pe osia simplă depăşeşte valoarea precizată;
+C. masa pe osia dublă depăşeşte valoarea recomandată.
+B
+True
+
+101
+Unde trebuie să se deplaseze conducătorii de autocamioane angajaţi într-un accident de circulaţie, în urma căruia au rezultat pagube materiale, pentru a obţine actul de constatare?
+A. la cea mai apropiată unitate de poliţie competentă, în maximum 24 de ore;
+B. la serviciul judeţean de poliţie rutieră;
+C. la unitatea de poliţie în raza căreia domiciliază.
+A
+False
+
+102
+Vă este permis să folosiţi telefonul mobil atunci când conduceţi un autocamion?
+A. da, pentru a ţine legătura cu serviciul de dispecerat;
+B. da, întrucât acesta nu influenţează funcţionarea aparaturii radar;
+C. nu, cu excepţia celor prevăzute cu dispozitive de tip „mâini-libere”.
+C
+False
+
+103
+Patinarea ambreiajului se manifestă prin:
+A. zgomote sacadate în partea din faţă a motorului;
+B. miros specific de garnitură arsă şi mărirea lentă a vitezei la accelerare;
+C. producerea unei fluierături în timpul frânării.
+B
+False
+
+104
+Atunci când intenţionaţi să circulaţi cu autocamionul spre stânga, într-o intersecţie fără marcaje, aflată în afara localităţii, ce rând trebuie să ocupaţi şi de la ce distanţă?
+A. rândul din stânga, de la cel puţin 50 m;
+B. rândul din stânga, de la cel puţin 200 m;
+C. rândul din dreapta, de la cel puţin 100 m.
+A
+False
+
+105
+Pătrunderea lichidului de răcire în baia de ulei a motorului este indicată de:
+A. apariţia unei spume de culoare gălbuie pe joja de nivel a uleiului;
+B. funcţionarea neregulată a motorului;
+C. diminuarea nivelului apei în radiator.
+A
+False
+
+106
+Conducătorul autocamionului din imaginea alăturată execută corect depăşirea tramvaiului care se apropie de staţie?
+A. nu, deoarece în staţie nu există refugiu pentru pietoni;
+B. da, deoarece distanţa dintre tramvai şi bordură permite acest lucru, iar tramvaiul nu a oprit în staţie;
+C. nu, în această situaţie tramvaiele se depăşesc pe partea stângă.
+B
+True
+
+107
+Indicatorul alăturat vă interzice să pătrundeţi cu autocamionul pe segmentul de drum la începutul căruia este instalat, dacă:
+A. masa acestuia depăşeşte 6,5 t;
+B. masa pe osia dublă depăşeşte 6,5 t;
+C. masa pe osia simplă depăşeşte 6,5 t.
+C
+True
+
+108
+Autovehiculele din categoria C pot circula în localităţi cu o viteză maximă de:
+A. 40 km/h;
+B. 50 km/h;
+C. 60 km/h.
+B
+False
+
+109
+Conducătorul unui autocamion este obligat:
+A. să nu conducă după ce a consumat medicamente care sunt contraindicate;
+B. să se prezinte la termen, la unitatea de poliţie care l-a citat, pentru soluţionarea oricărei probleme legate de calitatea sa de conducător;
+C. să anunţe imediat cea mai apropiată unitate de poliţie, dacă s-a îmbolnăvit.
+B
+False
+
+110
+Dacă motorul nu are putere suficientă, acest fapt se poate datora:
+A. sistemului de direcţie;
+B. sistemului de răcire;
+C. instalaţiei de aprindere.
+C
+False
+
+111
+Materialele sau produsele transportate, care se pot împrăştia în timpul mersului, trebuie să fie:
+A. însoţite de cel puţin 2 persoane care să le supravegheze pe tot parcursul drumului;
+B. încărcate până la înălţimea obloanelor;
+C. acoperite cu o prelată.
+C
+False
+
+112
+Care dintre cauzele enumerate mai jos provoacă la viraj şocuri în volanul unui sistem de direcţie cu servomecanism hidraulic?
+A. pătrunderea aerului în instalaţia hidraulică;
+B. gresajul defectuos al articulaţiilor;
+C. geometria roţilor dereglată.
+A
+False
+
+113
+Care dintre următoarele cauze determină încălzirea anormală a tamburilor sistemului de frânare cu comandă hidraulică?
+A. uzura exagerată a garniturilor de ferodou;
+B. distanţa prea mare între saboţi şi tamburi;
+C. arcul de readucere a saboţilor este slab sau rupt.
+C
+False
+
+114
+Cum trebuie să procedaţi atunci când intenţionaţi să finalizaţi o depăşire?
+A. vă încadraţi cât se poate de repede pe dreapta, fără a-l stânjeni pe cel depăşit;
+B. după reîncadrare, semnalizaţi cu luminile de avarie;
+C. claxonaţi şi vă angajaţi pe partea dreaptă, direct în faţa vehiculului depăşit.
+A
+False
+
+115
+La intersecţia nedirijată dintre un drum comunal şi unul local, prioritatea de trecere se acordă:
+A. vehiculelor care circulă pe drumul comunal;
+B. vehiculelor care circulă pe drumul local;
+C. vehiculelor care vin din dreapta.
+A
+False
+
+116
+Este permisă parcarea camionului pe trotuar?
+A. da, dacă trotuarul este suficient de larg şi nu este stânjenită circulaţia pietonilor;
+B. da, dacă camionul are masa maximă mai mică de 7 tone;
+C. nu, deoarece manevra nu este regulamentară.
+C
+False
+
+117
+Dacă autocamionul rămas în pană nu poate fi scos de pe carosabil, la ce distanţă de acesta veţi instala triunghiurile reflectorizante?
+A. la cel puţin 30 m;
+B. la cel mult 100 m;
+C. legal, nu este prevăzută distanţa.
+A
+False
+
+118
+Ce le este interzis conducătorilor de autocamioane?
+A. să folosească telefoanele mobile în timpul mersului, fără să aibă sistem de tip „mâini libere“;
+B. să folosească luminile de avarie în localităţi;
+C. să se angajeze în discuţii cu alţi pasageri.
+A
+False
+
+119
+Lăţimea maximă admisă pentru toate vehiculele, cu excepţia celor frigorifice având caroserie izotermă, este:
+A. 2,00 m;
+B. 2,40 m;
+C. 2,55 m.
+C
+False
+
+120
+Cum trebuie să procedaţi când circulaţi pe timp de noapte şi din sens opus se apropie un alt autovehicul?
+A. să reduceţi viteza;
+B. să folosiţi luminile de întâlnire de la cel puţin 200 m;
+C. să vă angajaţi cât mai aproape de marginea din dreapta a drumului.
+AB
+False
+
+121
+Ce rând trebuie să ocupaţi şi de la ce distanţă, pentru a putea executa virajul la stânga într-o intersecţie nedirijată?
+A. rândul din stânga, de la o distanţă de cel puţin 50 m;
+B. rândul din mijloc, de la o distanţă de cel puţin 100 m;
+C. rândul de lângă bordură, de la o distanţă de cel puţin 50 m.
+A
+False
+
+122
+Sunteţi obligat să semnalizaţi orice schimbare a direcţiei de mers?
+A. numai dacă sunt vehicule care vă urmează;
+B. numai în localităţi;
+C. da.
+C
+False
+
+123
+În care dintre situaţiile de mai jos este interzisă întoarcerea unui camion?
+A. în zona de acţiune a indicatorului „Drum îngustat“;
+B. în curbe cu vizibilitatea redusă sub 50 m;
+C. la 100 m de staţiile de tramvai.
+AB
+False
+
+124
+Care dintre următoarele obligaţii vă revin la întâlnirea indicatorului alăturat, în timp ce conduceţi un autocamion?
+A. să acordaţi prioritate de trecere numai autocamioanelor şi autobuzelor care se apropie din sens invers;
+B. să acordaţi prioritate de trecere tuturor vehiculelor care se apropie din sens invers;
+C. să circulaţi cu atenţie sporită, fiind un sector de drum îngustat intens circulat de autocamioane şi autobuze.
+B
+True
+
+125
+Sunteţi obligat să înmânaţi poliţistului rutier, la cererea acestuia, documentele referitoare la bunurile transportate?
+A. da;
+B. nu, acestea sunt controlate doar de către organele Gărzii Financiare;
+C. nu, acestea se verifică doar de către Serviciul de Investigare a Fraudelor.
+A
+False
+
+126
+Surplusul de motorină de la injectoare este refulat:
+A. în rezervor;
+B. în pompa de injecţie;
+C. în pompa de alimentare.
+A
+False
+
+127
+Furca de debreiere acţionează pe:
+A. discul de ambreiaj;
+B. rulmentul de presiune;
+C. placa de presiune.
+B
+False
+
+128
+Indicatorii de apreciere a stării sistemului de ungere sunt:
+A. consumul de ulei;
+B. uşurinţa cu care se deplasează vehiculul;
+C. presiunea uleiului.
+AC
+False
+
+129
+Conducătorul de autocamion este obligat să circule cu o viteză care să nu depăşească 30 km/h în localităţi, în următoarele situaţii:
+A. în zona de acţiune a indicatorului de avertizare „Copii“, în intervalul orar 07.00 - 22.00;
+B. pe poduri;
+C. la trecerea prin dreptul staţiilor de tramvai.
+A
+False
+
+130
+Pentru a schimba direcţia, tractorul din imagine trebuie să cedeze trecerea autocamionului?
+A. nu, pentru că tractorul circulă pe un drum prioritar;
+B. da, pentru că regulamentul îl obligă;
+C. da, pentru că circulă cu viteză mai mică.
+B
+True
+
+131
+Este obligatorie dotarea autovehiculelor cu trusă medicală de prim ajutor?
+A. da, numai la autovehiculele cu o greutate mai mare de 3,5 t;
+B. nu, fiind doar o recomandare legală;
+C. da, pentru toate autovehiculele care circulă pe drumurile publice.
+C
+False
+
+132
+Vă aflaţi la volanul unui autocamion şi întâlniţi indicatorul alăturat. În această situaţie puteţi folosi:
+A. o viteză care să nu depăşească 50 km/h;
+B. o viteză cuprinsă între 30-50 km/h;
+C. o viteză care să nu depăşească 30 km/h.
+C
+True
+
+133
+În ce condiţii vă este interzis să circulaţi cu un autovehicul având masa sau gabaritul depăşit?
+A. când vizibilitatea este redusă;
+B. când partea carosabilă este acoperită cu polei, gheaţă sau zăpadă;
+C. când nu deţineţi certificat ADR corespunzãtor.
+AB
+False
+
+134
+Conducătorului de autocamion i se interzice:
+A. să arunce din vehicul obiecte, substanţe sau alte bunuri;
+B. să deschidă uşile, dacă vehiculul este oprit sau staţionat pe partea carosabilă;
+C. să folosească instalaţia de sonorizare cu care este echipat vehiculul.
+A
+False
+
+135
+Care dintre indicatoarele alăturate interzice accesul autocamioanelor a căror masă maximă autorizată depăşeşte 7 t?
+A. numai indicatorul 1;
+B. ambele indicatoare;
+C. niciunul.
+A
+True
+
+136
+Avertizarea sonoră se foloseşte:
+A. ori de câte ori este necesar, pentru evitarea unui pericol imediat;
+B. la trecerea pe lângă biciclişti;
+C. în localitţi, la apropierea de o trecere pentru pietoni.
+A
+False
+
+137
+Indicatorul alăturat vă interzice să pătrundeţi cu autocamionul pe segmentul de drum la începutul căruia este instalat, dacă:
+A. transportaţi substanţe explozive sau uşor inflamabile;
+B. transportaţi substanţe uşor inflamabile sau produse chimice;
+C. transportaţi substanţe explozive sau mase plastice.
+A
+True
+
+138
+Puteţi efectua virajul spre stânga, atunci când conduceţi un autocamion în apropierea unei intersecţii, în care întâlniţi semnalul de culoare verde al semaforului, precum şi indicatorul „Înainte sau la dreapta“?
+A. indicatorul trebuie respectat numai în cazul în care semaforul nu funcţionează, deci puteţi efectua virajul spre stânga;
+B. nu puteţi executa virajul;
+C. trebuie să aşteptaţi schimbarea culorii semaforului.
+B
+False
+
+139
+Vă aflaţi la volanul unui autocamion şi întâlniţi indicatorul alăturat. Cum veţi proceda?
+A. nu veţi depăşi autovehiculele care circulă în faţa dumneavoastră;
+B. puteţi depăşi numai autocamioanele;
+C. puteţi depăşi numai autoturismele.
+A
+True
+
+140
+Cum trebuie să procedeze conducătorul de autocamioane atunci când circulă pe un drum cu trei sau mai multe benzi pe sens?
+A. să circule pe banda situată lângă acostament;
+B. să nu circule pe liniile de tramvai;
+C. să circule pe banda a doua, respectiv a treia, cu o viteză mai mică de 100 km/h.
+A
+False
+
+141
+Circulaţia pe banda rezervată transportului public de persoane, semnalizată ca atare, este permisă:
+A. vehiculelor care efectuează transport public de persoane şi autovehiculelor cu regim de circulaţie prioritar, atunci când se deplasează în acţiuni de intervenţie sau în misiuni care au caracter de urgenţă;
+B. numai vehiculelor care efectuează transport public de persoane;
+C. tuturor vehiculelor, dacă nu incomodează circulaţia vehiculelor prioritare.
+A
+False
+
+142
+Indicatorul alăturat limitează:
+A. înălţimea încărcăturii de la platforma vehiculului;
+B. înălţimea vehiculului;
+C. înălţimea totală a vehiculului, inclusiv încărcătura.
+C
+True
+
+143
+Schimbarea direcţiei de mers spre stânga, într-o intersecţie neprevăzută cu marcaje de ghidare, se face:
+A. prin ocolirea centrului imaginar al intersecţiei;
+B. prin stânga centrului imaginar al intersecţiei, fără a intersecta traiectoria celor care se deplasează din sens opus şi care virează la stânga;
+C. la libera înţelegere cu cei care se deplasează din sens opus.
+B
+False
+
+144
+Prin „raport de compresie“ se înţelege:
+A. raportul dintre volumul tuturor cilindrilor şi volumul pistoanelor;
+B. raportul dintre volumul camerei de ardere şi volumul cilindrului;
+C. raportul dintre volumul cilindrului şi volumul camerei de ardere.
+C
+False
+
+145
+Circuitul de înaltă presiune al instalaţiei de alimentare a motoarelor Diesel are în componenţă:
+A. pompa de alimentare, injectoarele şi conductele de legătură;
+B. pompa de injecţie, injectoarele şi conductele de legătură;
+C. pompa de alimentare, pompa de injecţie şi filtrele.
+B
+False
+
+146
+Se consideră contravenţie:
+A. conducerea unui vehicul dotat cu tahograf fără a utiliza diagrame tahograf;
+B. utilizarea tahografului fără avizul poliţiei rutiere;
+C. conducerea unui vehicul dotat cu tahograf digital fără a utiliza cartela tahografică.
+AC
+False
+
+147
+În timpul mersului, autovehiculul tinde să devieze spre dreapta. Care este cauza?
+A. jocurile din articulaţii depăşesc limitele admise;
+B. presiunea în pneul din dreapta faţă este prea mică;
+C. presiunea în pneul din stânga faţă este prea mică.
+B
+False
+
+148
+Conducătorul unui autocamion este obligat:
+A. să permită controlul stării tehnice a autocamionului, precum şi al bunurilor transportate, în condiţiile legii;
+B. să se prezinte la verificarea medicală periodică, potrivit legii;
+C. să transporte poliţişti, la cererea acestora.
+AB
+False
+
+149
+Indicatorul alăturat permite accesul:
+A. autocamioanelor;
+B. motocicletelor fără ataş;
+C. bicicletelor.
+C
+True
+
+150
+Cele mai importante caracteristici ale bujiilor sunt:
+A. grosimea izolatorului ceramic şi culoarea acestuia;
+B. dimensiunea filetului şi valoarea termică;
+C. termenul de garanţie şi constanţa scânteii.
+B
+False
+
+151
+La depăşirea căror vehicule trebuie să păstraţi o distanţă laterală mai mare?
+A. la depăşirea autobuzelor;
+B. la depăşirea bicicletelor;
+C. la depăşirea camioanelor.
+B
+False
+
+152
+La intersecţiile fără marcaje, conducătorii de autocamioane care vor să circule pe direcţia înainte vor ocupa:
+A. rândul din stânga;
+B. rândul din dreapta;
+C. oricare dintre rânduri.
+C
+False
+
+153
+Cum trebuie să procedaţi atunci când intraţi, pe timp de zi, într-un tunel iluminat necorespunzător?
+A. claxonaţi;
+B. aprindeţi luminile de întâlnire;
+C. aprindeţi lumina intermitentă de avertizare.
+B
+False
+
+154
+Pe autostradă, vă este interzis:
+A. să remorcaţi un vehicul rămas în pană până la prima ieşire de pe autostradă;
+B. să opriţi pe banda de urgenţă, în cazul unei defecţiuni tehnice;
+C. să efectuaţi manevre de întoarcere sau de mers înapoi.
+C
+False
+
+155
+La schimbarea direcţiei de mers spre stânga, la semnalul verde al semaforului, conducătorul de autocamion este obligat să acorde prioritate:
+A. numai vehiculelor care vin din sens opus;
+B. vehiculelor care circulă din sens opus şi pietonilor care traversează regulamentar strada pe care acesta urmează să intre, aflaţi pe sensul său de mers;
+C. numai pietonilor care sunt angajaţi în traversarea străzii.
+B
+False
+
+156
+Parcarea este permisă:
+A. numai în locurile special destinate, semnalizate prin indicatoare sau marcaje;
+B. pe orice drum public, unde staţionarea nu este interzisă, cu condiţia să nu se stânjenească circulaţia celorlalte vehicule;
+C. numai pe străzile cu o lăţime de cel puţin 6 m.
+A
+False
+
+157
+Camionul din imagine a oprit regulamentar?
+A. nu, deoarece lăţimea drumului este mai mică de 6 m;
+B. nu, deoarece se află în zona de acţiune a indicatorului „Oprirea interzisă“;
+C. da, deoarece semnul adiţional indică sfârşitul zonei unde oprirea este interzisă.
+B
+True
+
+158
+Imobilizarea unui braţ fracturat se face:
+A. în dreptul osului fracturat;
+B. cuprinzând osul fracturat şi articulaţia superioară;
+C. cuprinzând osul fracturat şi cele două articulaţii, respectiv cea superioară şi inferioară.
+C
+False
+
+159
+Care dintre următorii factori influenţează spaţiul de frânare a autocamionului?
+A. greutatea autovehiculului, uzura pneurilor şi timpul de reacţie al conducătorului auto;
+B. viteza de deplasare, aderenţa pneurilor la sol şi timpul de reacţie al conducătorului auto;
+C. diametrul roţilor, viteza autovehiculului şi numărul de roţi.
+AB
+False
+
+160
+Conducând un camion cu marfă, ce interdicţie aveţi la întâlnirea indicatorului din imagine?
+A. să depăşiţi autovehicule;
+B. să depăşiţi motociclete, bicicletele şi ciclomotoare;
+C. să depăşiţi vehicule staţionate.
+A
+True
+
+161
+Substanţele antiseptice se folosesc pentru:
+A. dezinfectarea rănilor;
+B. calmarea durerilor;
+C. oprirea hemoragiei.
+A
+False
+
+162
+Indicatorul interzice accesul:
+A. autovehiculelor şi vehiculelor cu tracţiune animală;
+B. motocicletelor, autoturismelor şi vehiculelor cu tracţiune animală;
+C. autoturismelor şi vehiculelor cu tracţiune animală.
+A
+True
+
+163
+Care dintre unghiurile direcţiei face ca, după virare, roţile directoare să revină în poziţia iniţială?
+A. unghiul de convergenţă;
+B. unghiul de cădere;
+C. unghiul de fugă.
+C
+False
+
+164
+La întâlnirea unui vehicul cu un ansamblu de vehicule pe un drum public îngust, unde trecerea din sensuri opuse este imposibilă sau periculoasă, va manevra cu spatele:
+A. ansamblul de vehicule;
+B. vehiculul;
+C. la libera înţelegere.
+B
+False
+
+165
+Când aveţi obligaţia de a folosi luminile de întâlnire ale autocamionului pe care îl conduceţi?
+A. de la lăsarea serii şi până în zorii zilei, precum ţi ziua când plouă torenţial, ninge abundent sau este ceaţă densă, ori în alte condiţii meteorologice ce reduc vizibilitatea pe drum;
+B. când parcaţi autocamionul în locuri special amenajate, dar neiluminate în mod corespunzător;
+C. la întâlnirea cortegiilor.
+A
+False
+
+166
+Autovehiculul sau ansamblul de vehicule care, cu sau fără încărcătură, are o lăţime între 3,2 m şi 4,5 m inclusiv sau o lungime mai mare de 25 m, poate circula pe drumul public:
+A. numai însoţit de un autovehicul antemergător;
+B. fără nicio măsură de siguranţă, dar cu atenţie şi cu viteză redusă;
+C. cu menţionarea traseului de urmat în foaia de parcurs.
+A
+False
+
+167
+Care este deosebirea dintre oprire şi staţionare?
+A. niciuna;
+B. deosebirea constă în durata de imobilizare a autocamionului;
+C. deosebirea constă în modul de aşezare şi asigurare a autocamionului pe drum.
+B
+False
+
+168
+Vă aflaţi într-o intersecţie semaforizată şi opriţi brusc, deoarece semnalul verde se schimbă în galben. Conducătorul unui alt autovehicul, care circulă foarte aproape, vă loveşte în spate. Cine a greşit?
+A. dumneavoastră, pentru că aţi oprit brusc;
+B. conducătorul autovehiculului din spate, care nu a păstrat distanţa de siguranţă în mers;
+C. ambii conducători.
+B
+False
+
+169
+Masa maximă admisă pe osia simplă nemotoare, pe un drum european, este:
+A. 10 t;
+B. 15 t;
+C. 20 t.
+A
+False
+
+170
+Care este semnificaţia indicatorului din imagine?
+A. accesul interzis remorcilor având o masă totală mai mare de 22 t;
+B. accesul interzis vehiculelor având o masă pe osia triplă mai mare de 22 t;
+C. accesul interzis vehiculelor echipate cu mai mult de două osii.
+B
+True
+
+171
+Luminile de poziţie se folosesc, pe timp de zi, atunci când autocamionul este oprit în afara localităţilor:
+A. pentru urcarea sau coborârea pasagerilor;
+B. din cauza unor avarii;
+C. pentru că vizibilitatea este redusă.
+C
+False
+
+172
+Când deasupra fiecărei benzi de circulaţie se află în funcţiune câte un semafor, conducătorul de autocamion trebuie:
+A. să respecte semnificaţia semnalului luminos al semaforului instalat deasupra benzii din stânga;
+B. să respecte semnificaţia semnalului luminos al semaforului instalat pe trotuar;
+C. să respecte semnificaţia semnalului luminos instalat deasupra benzii pe care se află.
+C
+False
+
+173
+Cum trebuie să procedeze conducătorul unui autocamion la trecerea la nivel cu calea ferată, atunci când barierele sunt ridicate?
+A. să reducă viteza, fără a depăşi linia continuă pentru oprire;
+B. să oprească autocamionul în locul unde vizibilitatea este maximă, fără a depăşi indicatorul de prioritate în cruce;
+C. să reducă viteza autocamionului şi să traverseze cu atenţie, asigurându-se că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.
+C
+False
+
+174
+Bicicliştii şi conducptorii de vehicule cu tracţiune animală sunt obligaţi să acorde întotdeauna prioritate?
+A. da, deoarece viteza de deplasare este mică;
+B. da, dacă circulă pe drumuri judeţene sau comunale;
+C. nu, dacă semnalizarea rutieră nu prevede acest lucru.
+C
+False
+
+175
+La ieşirea din zonele rezidenţiale sau pietonale, sunteţi obligat să acordaţi prioritate:
+A. nici unui vehicul;
+B. pietonilor de pe sensul opus de circulaţie;
+C. tuturor vehiculelor cu care vă intersectaţi.
+C
+False
+
+176
+Semnalele date dintr-un autovehicul al poliţiei, ce însoţeşte o coloană oficială, prin folosirea avertizoarelor sonore şi luminoase, obligă la:
+A. intrarea pe prima stradă în dreapta;
+B. oprirea de îndată pe partea dreaptă a drumului, cât mai aproape de trotuar sau de acostament ori, dacă este posibil, în afara părţii carosabile;
+C. reducerea vitezei şi deplasarea pe lângă bordură sau acostament.
+B
+False
+
+177
+Ce măsuri trebuie să ia conducătorul de autocamion care constată că un autoturism s-a răsturnat în afara drumului şi există persoane accidentate?
+A. opreşte, anunţă poliţia şi, dacă este cazul, transportă răniţii la cea mai apropiată unitate sanitară;
+B. nu are nicio obligaţie;
+C. ajută la repunerea autovehiculului pe roţi.
+A
+False
+
+178
+Conducătorii autovehiculelor cu masa totală maximă autorizată mai mare de 7,5 t sau cu gabarite depăşite ori care transportă produse sau substanţe periculoase trebuie să aibă vârsta minimă de:
+A. 18 ani împliniţi;
+B. 21 ani împliniţi;
+C. 24 ani împliniţi.
+B
+False
+
+179
+Care dintre vehiculele prezentate în imagine au prioritate de trecere?
+A. autocamionul şi autoturismul;
+B. motocicleta şi autoturismul;
+C. motocicleta şi autocamionul.
+A
+True
+
+180
+Poate fi redusă capacitatea de conducere auto după consumul unei cantităţi relativ mici de alcool?
+A. nu, dacă se consumă şi o ceaşcă de cafea;
+B. chiar şi cantităţile mici de alcool pot reduce capacitatea de conducere;
+C. nu, cantităţile mici nu dăunează.
+B
+False
+
+181
+Ce obligaţii aveţi când efectuaţi manevra de mers înapoi, iar vizibilitatea în spate este obstrucţionată?
+A. să fiţi dirijat de cel puţin o persoană din afara vehiculului;
+B. să folosiţi claxonul şi luminile intermitente de culoare galbenă;
+C. manevra este interzisă.
+A
+False
+
+182
+Dacă la trecerea la nivel cu calea ferată constataţi că un vehicul este imobilizat pe calea ferată, cum veţi proceda?
+A. vă continuaţi drumul, deoarece degajarea căii ferate se va face de către personalul calificat;
+B. opriţi şi anunţaţi telefonic poliţia despre acest incident;
+C. acordaţi sprijin pentru scoaterea vehiculului de pe calea ferată sau, dacă nu este posibil, semnalaţi prezenţa acestuia.
+C
+False
+
+183
+Autocamionul staţionat noaptea pe partea carosabilă a unui drum public neiluminat se semnalizează prin:
+A. plasarea, în partea din spate, a unui triunghi reflectorizant;
+B. aprinderea luminilor de avarie;
+C. aprinderea luminilor de poziţie sau de staţionare.
+C
+False
+
+184
+Dacă circulaţi în pantă şi din sens opus un alt camion intenţionează să depăşească un obstacol, acordă prioritate de trecere:
+A. vehiculul care urcă, deoarece execută o depăşire interzisă;
+B. dvs.;
+C. vehiculul care are posibilitatea să se retragă pe un refugiu.
+B
+False
+
+185
+Pe ce drumuri sunt permise oprirea şi staţionarea autocamioanelor şi pe partea stângă, în sensul de mers?
+A. pe drumurile cu trafic redus;
+B. pe drumurile cu sens unic, dacă rămâne liberă cel puţin o bandă de circulaţie;
+C. pe orice drum.
+B
+False
+
+186
+Circulaţi în spatele unui autobuz şi vă apropiaţi de o intersecţie semnalizată cu indicatorul „Oprire“. Cum veţi proceda în această situaţie pentru a traversa în siguranţă intersecţia?
+A. vă continuaţi deplasarea, traversând intersecţia odată cu autobuzul, în cazul în care conducătorul acestuia a oprit şi s-a asigurat că prin intersecşie nu circulă alte vehicule;
+B. vă opriţi în dreptul indicatorului, după care vă continuaţi drumul întrucât, dacă a trecut autobuzul, nu sunt pericole;
+C. vă opriţi în locul în care aveţi vizibilitate maximă şi vă asiguraţi, chiar dacă în acelaşi mod a procedat şi conducătorul autobuzului.
+C
+False
+
+187
+Când se face distribuirea mărfurilor alimentare, transportate cu autovehicule având o masă maximă autorizată mai mare de 3,5 t, la unităţile comerciale?
+A. la orice oră din zi sau noapte, respectându-se semnalizarea rutieră existentă;
+B. în timpul zilei, fără nicio restricţie;
+C. pe timpul nopţii, conform unor programe sau intervale orare stabilite de către autorităţile competente.
+C
+False
+
+188
+Factorii principali care ajută un conducător de autocamioane să piloteze preventiv sunt:
+A. atitudinea pozitivă în trafic, calmul, cunoştinţele dobândite şi politeţea;
+B. iscusinţa şi priceperea de a-şi impune calităţile fizice dobândite;
+C. mijloacele de semnalizare rutieră şi agenţii de poliţie rutieră.
+A
+False
+
+189
+De la ce distanţă trebuie să folosească un conducător de autocamion mijloacele de avertizare sonoră, pentru a preveni pietonii şi pe ceilalţi conducători de vehicule?
+A. legea nu prevede o anumită distanţă;
+B. de la cel mult 30 m de aceştia;
+C. de la cel puţin 25 m de aceştia.
+C
+False
+
+190
+Gravitatea unei hemoragii se apreciază în funcţie de:
+A. cantitatea sângelui pierdut;
+B. culoarea sângelui scurs;
+C. fluiditatea sângelui scurs.
+A
+False
+
+191
+Indicatorul din imagine semnifică:
+A. presemnalizarea unei rute ocolitoare pentru camioane;
+B. accesul autocamioanelor este interzis;
+C. o intersecţie cu un drum pentru autoturisme la 200 m.
+A
+True
+
+192
+Ce autovehicule au prioritate de trecere pe un drum îngust, în rampă?
+A. autovehiculele cu gabarit depăşit, faţă de celelalte vehicule, indiferent dacă urcă sau coboară;
+B. autovehiculele care urcă, faţă de cele care coboară;
+C. autovehiculele care întâlnesc indicatorul „Prioritate pentru circulaţia din sens invers“.
+A
+False
+
+193
+În care dintre situaţiile de mai jos este interzisă oprirea autocamioanelor pe drumurile publice?
+A. în intersecţiile cu sens giratoriu;
+B. în zona de acţiune a indicatorului „Staţionarea interzisă“;
+C. pe arterele cu un singur sens de circulaţie.
+A
+False
+
+194
+Pe un drum cu prioritate, conducătorul de autocamion întâlneşte în intersecţie marcajul de trecere pentru pietoni. Este obligat să acorde prioritate?
+A. da, pietonilor angajaţi în traversarea drumului pe trecerea semnalizată şi aflaţi pe sensul lui de mers;
+B. nu, deoarece circulă pe un drum prioritar;
+C. da, atât pietonilor, cât şi vehiculelor care se apropie din sens opus şi care schimbă direcţia de mers spre stânga.
+A
+False
+
+195
+Care dintre următoarele obligaţii revin conducătorului de autocamion?
+A. să reducă viteza, atunci când trece pe lângă un poliţist de circulaţie aflat în serviciu pe drumul public;
+B. să menţină curate plăcuţele cu numărul de înmatriculare, pentru a fi vizibile;
+C. să circule cu o viteză inferioară celei prescrise de indicatorul „Viteză minimă obligatorie“.
+B
+False
+
+196
+Ce substanţe au efect asemănător cu cel al alcoolului şi pot reduce capacitatea de concentrare a unui conducător auto?
+A. condimentele foarte iuţi;
+B. medicamentele sau substanţele psihoactive;
+C. cofeina.
+B
+False
+
+197
+În faţa dvs. circulă un tractor cu două remorci, pe ultima fiind scris „FĂRĂ SEMNALIZARE“. Intenţionaţi să-l depăşiţi înainte de intrarea într-o intersecţie. Cum procedaţi?
+A. aşteptaţi să treceţi de respectiva intersecţie, chiar dacă pierdeţi din timpul planificat al călătoriei;
+B. vă angajaţi în depăşire, întrucât autocamionul dvs. vă permite să rulaţi, în mod legal, cu o viteză mai mare;
+C. semnalizaţi efectuarea depăşirii şi acceleraţi, pentru ca manevra să dureze cât mai puţin.
+A
+False
+
+198
+Dacă într-o intersecţie tramvaiul execută virajul la stânga şi se intersectează cu direcţia pe care circulaţi din sens opus, cine nu are prioritate?
+A. tramvaiul;
+B. dumneavoastră, deoarece circulaţi cu viteză redusă;
+C. dumneavoastră, deoarece vă intersectaţi cu tramvaiul aflat în mers.
+A
+False
+
+199
+În ce situaţie se reţine permisul de conducere?
+A. atunci când nu se respectă obligaţia de reducere a vitezei;
+B. atunci când nu se respectă normele referitoare la prioritatea de trecere a pietonilor;
+C. atunci când se încalcă normele legale referitoare la staţionare.
+B
+False
+
+200
+Ce obligaţii aveţi atunci când intraţi pe autostradă folosind banda de accelerare?
+A. să cedaţi trecerea autovehiculelor care circulă pe prima bandă a autostrăzii şi să nu stânjeniţi în niciun fel circulaţia acestora;
+B. să semnalizaţi stânga, pentru a-i preveni pe ceilalţi conducători să vă acorde prioritate;
+C. să opriţi şi să vă asiguraţi din faţă şi din spate.
+A
+False
+
+201
+Ce măsuri trebuie să luaţi atunci când circulaţi în condiţii atmosferice ce împiedică mult vizibilitatea?
+A. să circulaţi pe distanţe scurte şi cu luminile de poziţie în funcţiune;
+B. să folosiţi luminile de poziţie şi să circulaţi cât mai aproape de marginea din dreapta a drumului;
+C. să folosiţi luminile de întâlnire.
+C
+False
+
+202
+Ce autovehicul din imagine trebuie să cedeze trecerea?
+A. tractorul;
+B. autocamionul, deoarece are viteza mai mare;
+C. autocamionul, pentru că schimbă direcţia de mers.
+A
+True
+
+203
+Sunteţi obligat să folosiţi luminile de întâlnire în timpul zilei:
+A. pe toate categoriile de drumuri;
+B. pe drumurile judeţene, comunale şi locale;
+C. pe autostrăzi, drumuri expres şi naţionale europene.
+C
+False
+
+204
+Neacordarea priorităţii înseamnă:
+A. nerespectarea semnificaţiei semnalizării rutiere de obligare sau de avertizare;
+B. nerespectarea dispoziţiilor legale privind asigurarea şi semnalizarea în intersecţii;
+C. obligarea celor care au prioritate de trecere de a-şi modifica brusc direcţia sau viteza de deplasare ori să oprească.
+C
+False
+
+205
+Puteţi lăsa noaptea, pe un drum public, remorca autocamionului pe care îl conduceţi?
+A. nu, întrucât în acest caz staţionarea este interzisă;
+B. da, deoarece remorca nu face parte din categoria autovehiculelor;
+C. da, dacă luminile de poziţie sunt aprinse.
+A
+False
+
+206
+Ce obligaţie are conducătorul unui autocamion imobilizat într-un pasaj subteran?
+A. să oprească motorul şi să pună în funcţiune luminile de avarie;
+B. să tracteze autocamionul până la ieşirea din pasajul subteran;
+C. să anunţe imediat pompierii în legătură cu locul în care se află.
+A
+False
+
+207
+Este interzisă staţionarea în dreptul marcajului longitudinal continuu, aplicat între sensurile de circulaţie?
+A. nu;
+B. da, atunci când conducătorii celorlalte vehicule ar fi obligaţi astfel să treacă peste marcajul respectiv;
+C. legal, nu este prevăzut.
+B
+False
+
+208
+Ce interdicţie au conducătorii de autocamioane atunci când circulă pe drumuri acoperite de zăpadă, gheaţă sau polei?
+A. să nu circule pe sectoarele respective de drum fără autorizaţie de la administraţia drumurilor;
+B. să circule cu un autocamion a cărui masă totală maximă este mai mare de 3,5 tone, fără a avea montate pe roţi lanţuri sau alte echipamente antiderapante omologate;
+C. să efectueze depăşiri.
+B
+False
+
+209
+Cele mai sensibile la fenomenele de balans şi de răsturnare sunt vehiculele destinate transportului:
+A. lichidelor;
+B. mărfurilor perisabile;
+C. cerealelor.
+A
+False
+
+210
+Toate autovehiculele sau ansamblurile de vehicule trebuie să aibă posibilitatea de a întoarce într-un cerc cu raza:
+A. exterioară de 10,50 m şi interioară de 8,00 m;
+B. exterioară de 12,50 m şi interioară de 5,30 m;
+C. exterioară de 8,00 m şi interioară de 4,30 m.
+B
+False
+
+211
+Cum procedaţi în situaţia în care observaţi în faţa dvs. o minge care se rostogoleşte?
+A. continuaţi să circulaţi cu aceeaşi viteză, întrucât trecerea peste minge nu este periculoasă pentru autocamion;
+B. avertizaţi sonor, reduceţi viteza şi circulaţi cu maximă atenţie, întrucât este foarte posibil să apară un copil după minge;
+C. viraţi brusc în direcţia opusă de rostogolire a mingii.
+B
+False
+
+212
+Vă deplasaţi pe şosea într-o coloană. Cum vă comportaţi?
+A. depăşiţi coloana, pe cât posibil printr-o singură manevră;
+B. păstraţi o distanţă corespunzătoare faţă de cel care circulă în faţă şi sunteţi atent la ceilalţi participanţi la trafic;
+C. circulaţi foarte aproape de vehiculul din faţă, pentru a nu rămâne în urmă.
+B
+False
+
+213
+Imobilizarea unei fracturi fără atele se face cu:
+A. o folie de material plastic;
+B. eşarfe şi triunghiuri de pânză;
+C. carton rigid.
+B
+False
+
+214
+Atunci când victimei unui accident de circulaţie i s-au oprit bătăile inimii (stop cardiac), masajul cardiac se execută:
+A. prin apăsarea ritmică cu podul palmelor suprapuse a toracelui victimei, în dreptul inimii;
+B. prin lovirea cu palmele a obrajilor victimei;
+C. prin încrucişarea ritmică a braţelor victimei simultan cu respiraţia artificială.
+A
+False
+
+215
+În care dintre următoarele situaţii este interzisă oprirea?
+A. pe sectoarele de drum neiluminate;
+B. la o distanţă mai mică de 5 m faţă de ultimul vagon al unui tramvai;
+C. pe drumurile naţionale europene.
+C
+False
+
+216
+Vă este permis să parcaţi autocamionul pe drumurile publice:
+A. în locurile special amenajate şi semnalizate prin indicatoare şi marcaje rutiere;
+B. acolo unde nu există parcări amenajate;
+C. acolo unde circulaţia în ambele sensuri se desfăşoară fără dificultate.
+A
+False
+
+217
+În care dintre situaţii este intezis să circulaţi pe drumurile publice?
+A. atunci când certificatul de înmatriculare este deteriorat;
+B. atunci când autocamionul nu este asigurat de răspundere civilă, în caz de pagube materiale produse terţilor prin accidente de circulaţie, conform legii;
+C. atunci când conducătorul auto nu a plătit taxa de folosire a drumurilor publice.
+B
+False
+
+218
+Dacă viraţi la dreapta şi vă intersectaţi cu un biciclist care circulă pe o pistă pentru biciclete, cine trebuie să acorde prioritate de trecere?
+A. biciclistul, pentru că autocamionul are un gabarit mult prea mare;
+B. biciclistul, pentru că circulă pe un segment de drum secundar;
+C. conducătorul autocamionului.
+C
+False
+
+219
+Imobilizarea unui vehicul de către poliţistul rutier se dispune:
+A. pentru lipsa triunghiurilor reflectorizante;
+B. pentru lipsa trusei medicale de prim ajutor;
+C. pentru refuzul de legitimare.
+C
+False
+
+220
+Conducătorul autocamionului din imagine a executat regulamentar oprirea?
+A. nu, pentru că pe acest sector de drum este interzisă oprirea;
+B. nu, pentru că pe drumurile naţionale europene circulaţia camioanelor este interzisă;
+C. da, dacă autoturismul şi motocicleta au loc suficient să treacă unul pe lângă celălalt.
+A
+True
+
+221
+Pe autostrăzi, autovehiculul care, cu sau fără încărcătură, depăşeşte lăţimea de 3,2 m, trebuie să fie:
+A. dotat cu dispozitive speciale de semnalizare luminoasă şi sonoră;
+B. urmat de un autovehicul de însoţire;
+C. însoţit de cel puţin două echipaje de poliţie rutieră.
+B
+False
+
+222
+Puteţi circula în continuare la întâlnirea indicatorului?
+A. da, dacă lungimea autocamionului sau a ansamblului de vehicule nu depăşeşte valoarea precizată;
+B. da, dacă lungimea remorcii, incluzând-o şi pe cea a proţapului, nu depăşeşte valoarea recomandată;
+C. da, dacă distanţa dintre osii nu depăşeşte 10 m.
+A
+True
+
+223
+Cum trebuie să procedeze conducătorul unui autocamion dacă i-a fost prescris un tratament medicamentos?
+A. să se asigure că administrarea acestuia nu-i va afecta capacitatea de a conduce;
+B. să nu îşi administreze medicamentele înainte de a se urca la volan;
+C. să se informeze care este doza minimă care poate fi administrată pe perioada cât se află la volan.
+A
+False
+
+224
+Ce obligaţii are conducătorul unui autocamion care circulă în zona de frontieră?
+A. să oprească imediat autocamionul la semnalele regulamentare ale poliţiştilor de frontieră aflaţi în zona de competenţă;
+B. să reducă viteza sub limita legală;
+C. să circule cu faza de întâlnire în funcţiune, deoarece se află în zona de frontieră.
+A
+False
+
+225
+Oprirea este interzisă:
+A. la o distanţă mai mică de 25 m de colţul intersecţiei;
+B. pe drumul cu sens unic;
+C. la o distanţă de 5 m în spatele ultimului vagon de tramvai oprit în staţia fără refugiu pentru pietoni.
+A
+False
+
+226
+În ce situaţie nu vă este permisă oprirea unui camion?
+A. în curbe şi pe sectoarele de drum cu vizibilitate redusă sub 50 m;
+B. pe drumurile publice unde circulă troleibuze şi tramvaie;
+C. la mai puţin de 50 m de colţul unei intersecţii.
+A
+False
+
+227
+Sunteţi obligat să folosiţi lumina de întâlnire când conduceţi autocamionul pe autostrăzi?
+A. da, inclusiv în timpul zilei;
+B. nu, întrucât autostrada este iluminată;
+C. această obligaţie revine numai conducătorilor de motociclete şi autoturisme.
+A
+False
+
+228
+Cum veţi proceda noaptea, când vizibilitatea este redusă din cauza ceţii, din punct de vedere al circulaţiei preventive?
+A. circulaţi cât mai aproape de axa drumului;
+B. circulaţi cât mai aproape de marginea din dreapta a drumului public;
+C. păstraţi o distanţă egală între axa drumului şi marginea din dreapta a părţii carosabile, rulând cu o viteză care să asigure oprirea într-un spaţiu mai mic decât cel de vizibilitate.
+C
+False
+
+229
+Ce trebuie să aveţi în vedere în cazul în care vă apropiaţi de o şcoală şi observaţi că elevii părăsesc clădirea?
+A. legea nu prevede obligaţii;
+B. elevii pot fi neatenţi şi pot apărea brusc în faţa maşinii;
+C. elevii vor traversa numai pe trecerea de pietoni.
+B
+False
+
+230
+La un accidentat cu corpi străini în interiorul plăgilor, procedura corectă este:
+A. extragerea corpilor străini din plăgi;
+B. spălarea corpilor străini cu apă curată;
+C. corpii străini nu se extrag din plăgi, întrucât se pot produce complicaţii.
+C
+False
+
+231
+Masa totală maximă admisă pentru un tren rutier cu patru osii, compus dintr-un vehicul motor cu două osii şi o remorcă cu două osii, pe drumuri asfaltate, este:
+A. 36 t;
+B. 40 t;
+C. 46 t.
+A
+False
+
+232
+În cazul în care există mai multe persoane accidentate este important să se stabilească priorităţile?
+A. da, primul ajutor se acordă cu prioritate persoanei celei mai grav accidentate;
+B. nu, nu are importanţă ordinea în care se acordă primul ajutor;
+C. se începe acordarea primului ajutor de la victima cea mai apropiată de salvator.
+A
+False
+
+233
+În ce situaţii este interzisă depăşirea unei biciclete?
+A. în zona de acţiune a indicatorului „Depăşirea autovehiculelor, cu excepţia motocicletelor fără ataş, interzisă“;
+B. pe trecerea pentru pietoni, semnalizată cu indicator şi cu marcaj;
+C. la mai puţin de 100 m de trecerea la nivel cu calea ferată.
+B
+False
+
+234
+Bandajele se folosesc:
+A. pentru susţinerea părţilor lezate;
+B. pentru acoperirea şi pentru susţinerea rănilor, precum şi pentru oprirea hemoragiilor;
+C. pentru imobilizarea fracturilor.
+B
+False
+
+235
+Conducătorul auto acţionează asupra aparatului tahograf cu scopul:
+A. de a lua legătura cu dispeceratul;
+B. de a înregistra corect şi distinct perioadele de conducere;
+C. de a mări sau micşora efectul sonor.
+B
+False
+
+236
+Este permisă staţionarea în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice?
+A. legal, nu este prevăzut;
+B. da, dar numai a autocamioanelor având o masă totală maximă autorizată de până la 7,5 t;
+C. nu, deoarece staţionarea în astfel de locuri este interzisă.
+C
+False
+
+237
+Rateurile în galeriile de admisie şi evacuare se produc din cauza:
+A. motorului rece;
+B. jocului prea mic între culbutori şi supape;
+C. motorului prea cald.
+B
+False
+
+238
+Ce obligaţii revin conducătorilor de autocamioane la trecerea autovehiculelor cu regim de circulaţie prioritară, care au în funcţiune mijloacele speciale de avertizare luminoasă de culoare albastră şi pe cele de avertizare sonoră?
+A. să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare şi să acorde prioritate de trecere;
+B. să mărească viteza pentru a nu incomoda circulaţia;
+C. să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau de bordura trotuarului, în sensul de deplasare.
+A
+False
+
+239
+Ce îi este interzis conducătorului de autocamion pe timpul deplasării pe un drum public?
+A. să transporte în autocamion mai multe persoane decât numărul de locuri înscrise în certificatul de înmatriculare sau înregistrare;
+B. să permită controlul stării tehnice a autocamionului, precum şi al bunurilor transportate;
+C. să deschidă uşile autocamionului atunci când este parcat.
+A
+False
+
+240
+Cum trebuie să se încadreze conducătorul de autocamion, dacă intenţionează să schimbe direcţia de mers spre stânga într-o intersecţie prin care circulă şi tramvaie, iar spaţiul dintre şina din dreapta şi bordura trotuarului permite deplasarea vehiculelor doar pe un singur rând?
+A. pe linia tramvaiului;
+B. pe singurul rând rămas la dispoziţie, lăsând liber traseul tramvaiului;
+C. în această situaţie nu se poate schimba direcţia de mers spre stânga.
+B
+False
+
+241
+Conducătorul unui autocamion este obligat să oprească:
+A. la apropierea de o intersecţie;
+B. la semnalul nevăzătorilor care traversează strada;
+C. la semnalul conducătorului coloanei de pietoni.
+B
+False
+
+242
+Care dintre acţiunile de mai jos sunt obligatorii în timpul ce efectuaţi o depăşire:
+A. să semnalizaţi şi să vă asiguraţi că puteţi reveni în rândul iniţial, fără să puneţi în pericol vehiculul depăşit;
+B. să păstraţi în timpul depăşirii o distanţă laterală suficientă faţă de vehiculul depăşit;
+C. să reintraţi cât mai repede pe partea dreaptă.
+AB
+False
+
+243
+La traversarea unei treceri la nivel cu calea ferată fără bariere, conducătorii de autocamioane sunt obligaţi:
+A. să reducă viteza şi să se asigure, apoi să traverseze cu atenţie;
+B. să oprească sau, dacă nu se impune, să reducă doar viteza şi, după ce s-au asigurat, să traverseze calea ferată;
+C. să oprească, fără a depăşi indicatorul de avertizare în cruce, şi să traverseze numai după ce s-au asigurat că nu există niciun pericol.
+C
+False
+
+244
+Ce măsuri ia conducătorul de autocamion, angajat într-un accident cu avarii uşoare?
+A. aşteaptă sosirea poliţistului din zonă;
+B. scoate autocamionul în afara părţii carosabile, după care anunţă poliţia în 24 de ore;
+C. anunţă poliţia, fără a schimba poziţia autocamionului.
+B
+False
+
+245
+Atunci când executaţi intervenţii la un vehicul cu masa totală maximă autorizată mai mare de 3,5 t, aflat pe partea carosabilă a drumului public, sunteţi obligat să purtaţi:
+A. centura de siguranţă, adaptată intervenţiei respective;
+B. echipament de protecţie-avertizare fluorescent-reflectorizant;
+C. dispozitive de retenţie, prinse de caroseria autovehiculului.
+B
+False
+
+246
+Ce se înţelege prin „semiremorcă”?
+A. remorca a cărei masă maximă autorizată nu depăşeşte 750 kg;
+B. remorca a cărei masă totală maximă autorizată este preluată în parte de către un autovehicul sau de către un tractor;
+C. remorca basculabilă, destinată doar transporturilor de mărfuri neambalate.
+B
+False
+
+247
+La frânare, autocamionul derapează. Cum reacţionaţi corect?
+A. frânaţi la maximum;
+B. nu acţionaţi frâna şi rotiţi volanul în sens invers derapării;
+C. opriţi motorul.
+B
+False
+
+248
+Certificatul de înmatriculare se reţine atunci când:
+A. vehiculul nu are efectuată inspecţia tehnică;
+B. sunt aplicate abţibilduri pe parbriz;
+C. există defecţiuni la sistemul de climatizare.
+A
+False
+
+249
+Care dintre indicatoarele alăturate interzice accesul autocamioanelor cu remorcă, a căror lungime totală este mai mare de 10 m?
+A. numai indicatorul 1;
+B. ambele indicatoare;
+C. niciunul.
+A
+True
+
+250
+Cum este recomandat să procedaţi pentru a depăşi, în condiţii de siguranţă, un tramvai oprit într-o staţie cu refugiu?
+A. să avertizaţi sonor persoanele aflate în zona staţiei;
+B. să semnalizaţi din timp intenţia de depăşire a tramvaiului;
+C. să reduceţi viteza de deplasare.
+C
+False
+
+251
+În ce situaţie vă este permis să opriţi autocamionul sau să staţionaţi pe partea stângã a sensului de mers?
+A. pe drumurile cu sens unic, dacă rămâne liberă cel puţin o bandă de circulaţie;
+B. pe drumurile secundare;
+C. pe drumurile cu cel puţin două benzi pe sens.
+A
+False
+
+252
+Care este periodicitatea inspecţiilor tehnice periodice, pentru autocamioanele cu o masă totală maximă autorizată mai mare de 3500 kg?
+A. din 3 în 3 ani;
+B. din 2 în 2 ani;
+C. anual.
+C
+False
+
+253
+Tensiunea nervoasă şi oboseala conducătorului de autocamioane pot fi reduse dacă:
+A. rulaţi cu o viteză ponderată, în condiţii de siguranţă, menţinând un ritm de mers constant;
+B. circulaţi cu aceeaşi viteză atât în localităţi, cât şi în afara acestora;
+C. folosiţi medicamente calmante sau energizante care nu sunt interzise conducătorilor auto.
+A
+False
+
+254
+Ce obligaţii are conducătorul de autocamioane când circulă pe un drum public?
+A. să circule numai dacă verificarea medicală lunară este efectuată;
+B. să circule numai pe sectoarele de drum pe care îi este permis accesul şi să respecte normele referitoare la masele totale maxime autorizate admise de autoritatea competentă;
+C. să se informeze din timp, la administratorii de drum, în legătură cu eventualele limite maxime şi minime de viteză.
+B
+False
+
+255
+Circulaţi cu un autocamion cu remorcă pe o şosea cu o singură bandă pentru fiecare direcţie şi vă apropiaţi de o curbă la stânga, foarte strânsă şi fără vizibilitate. Cum trebuie să adaptaţi modul de conducere?
+A. reduceţi viteza înaintea curbei, din cauza pericolului mărit de derapare a remorcii;
+B. reduceţi viteza, circulaţi pe mijlocul benzii şi acceleraţi uşor când ajungeţi în vârful curbei;
+C. menţineţi viteza, iar în curbă frânaţi.
+A
+False
+
+256
+Prin „remorcă uşoară” se înţelege:
+A. vehiculul fără motor, care se deplasează pe drumul public prin inerţie;
+B. remorca a cărei greutate este reglată în funcţie de greutatea vehiculului tractor;
+C. remorca a cărei masă totală maximă autorizată nu depăşeşte 750 kg.
+C
+False
+
+257
+Căile respiratorii pot fi astupate prin:
+A. aşezarea pe spate a victimei;
+B. aşezarea pe o parte a victimei;
+C. intrarea unor corpi străini pe căile respiratorii.
+C
+False
+
+258
+Cum constataţi, în timpul mersului, fără a vă pune în pericol, dacă pe şosea este polei?
+A. frânaţi puternic;
+B. circulaţi cu viteză redusă şi frânaţi uşor, ca să verificaţi cum reacţionează autocamionul;
+C. circulaţi pe axul central al drumului.
+B
+False
+
+259
+Trusa pentru primul ajutor medical trebuie să conţină, în principal:
+A. foarfece cu vârfuri boante, dispozitiv intermediar pentru respiraţie „gură la gură“, comprese sterile, feşe, pansamente, mănuşi de unică folosinţă din latex, folie de supravieţuire izotermă, broşură de prim ajutor autorizată de Ministerul Sănătăţii Publice;
+B. role de leucoplast, plasturi, alcool medicinal, dispozitive pentru suspendarea membrelor accidentate şi adresele personalului medical care sunt de serviciu la camerele de gardă;
+C. butelie cu oxigen tehnic, un furtun de legătură şi un manometru care să reziste la o presiune de cel puţin 6 atmosfere, o mască din pansament steril şi dispozitive pentru curăţarea rănilor.
+A
+False
+
+260
+Intenţionaţi să remorcaţi un autoturism cu servodirecţie rămas în pană de motor. Ce trebuie să aveţi în vedere?
+A. blocaţi direcţia;
+B. manevrarea volanului autoturismului tractat solicită un efort fizic mai mare, de aceea veţi efectua tractarea cu atenţie;
+C. nu aveţi voie să-l remorcaţi în această situaţie.
+B
+False
+
+261
+Ce măsuri de prim ajutor se vor lua în cazul traumatismelor coloanei vertebrale, dacă accidentatul are căile respiratorii libere?
+A. mutaţi accidentatul pe scaunele din spate;
+B. încercaţi să întoarceţi accidentatul, dacă se află într-o poziţie arcuită;
+C. nu mişcaţi accidentatul din poziţia în care l-aţi găsit până la sosirea serviciilor mobile de urgenţă, cu excepţia cazurilor în care există un pericol de foc sau de asfixie, asigurându-i doar funcţiile vitale.
+C
+False
+
+262
+Este permisă oprirea în dreptul staţiei de tramvai prevăzută cu refugiu pentru pietoni?
+A. da, când tramvaiul nu se află în staţie;
+B. da, deoarece în astfel de staţii este permisă depăşirea;
+C. nu, deoarece se interzice prin lege.
+C
+False
+
+263
+În cazul unui accidentat care nu respiră, pulsul este verificat:
+A. sub mandibulă;
+B. lângă ureche;
+C. pe partea laterală a epiglotei (Mărul lui Adam), în scobitura dintre trahee şi muşchii gâtului.
+C
+False
+
+264
+Ce obligaţii au conducătorii auto angajaţi de către operatorii de transport rutier?
+A. să respecte regulile privind încărcarea, repartizarea încărcăturii, asigurarea şi fixarea mărfurilor transportate;
+B. să acopere încărcătura cu prelate etanşe şi impermeabile;
+C. să repartizeze încărcătura şi să fixeze marfa sub supravegherea unei persoane specializate.
+A
+False
+
+265
+Turometrul vă indică:
+A. viteza de deplasare a autocamionului;
+B. numărul de rotaţii/minut ale arborelui motor;
+C. temperatura lichidului din sistemul de răcire.
+B
+False
+
+266
+Ce parte componentă a transmisiei dă posibilitatea roţilor motoare ale aceleiaşi punţi să parcurgă, în viraje, drumuri de lungimi diferite?
+A. cutia de viteze;
+B. diferenţialul;
+C. arborii planetari.
+B
+False
+
+267
+Oprirea voluntară a unui autocamion este interzisă:
+A. pe drumurile cu un singur sens de circulaţie;
+B. pe drumurile cu o lăţime mai mică de 6 m;
+C. în locurile unde s-ar împiedica observarea unui indicator sau a unui semnal luminos.
+C
+False
+
+268
+Pentru a conduce ecologic un autovehicul, se recomandă:
+A. utilizarea climatizării numai în cazul traseelor scurte;
+B. utilizarea climatizării numai pe timp de noapte;
+C. utilizarea climatizării numai în situaţiile absolut necesare.
+C
+False
+
+269
+Când circulaţi pe un drum naţional european vă este interzisă:
+A. folosirea mijloacelor de averizare sonoră;
+B. remorcarea altui autovehicul;
+C. staţionarea voluntară pe partea carosabilă.
+C
+False
+
+270
+Când este obligat conducătorul unui autocamion să oprească?
+A. la semnalul conducătorului grupurilor organizate;
+B. la semnalul patrulelor şcolare de circulaţie la trecerile pentru pietoni din apropierea unităţilor şcolare;
+C. când se apropie de o intersecţie sau când este semnalizat cu farurile de un alt participant la trafic.
+B
+False
+
+271
+Ce trebuie să aveţi în vedere atunci când intenţionaţi să treceţi de un autobuz oprit într-o staţie?
+A. aprindeţi luminile intermitente de avertizare şi circulaţi mai departe cu atenţie;
+B. treceţi cu atenţie la o distanţă corespunzătoare, pentru că din faţa autobuzului ar putea să apară în mod neaşteptat pietoni;
+C. circulaţi mai departe fără ezitare.
+B
+False
+
+272
+În cazul persoanelor accidentate, care prezintă fracturi de coloană, este recomandabil să se folosească:
+A. orice mijloc de transport, dacă se deplasează în direcţia unei unităţi sanitare;
+B. mijloacele de transport cu platformă, respectiv furgonete, camioane, chiar dacă au viteze de deplasare mai mici;
+C. autoturismele, întrucât asigură confort şi rapiditate în deplasare.
+B
+False
+
+273
+Până la transportarea victimei la spital, poziţia de aşteptare poate fi:
+A. o poziţie cât mai comodă;
+B. o poziţie care să permită o bună respiraţie;
+C. o poziţie comodă pentru transport.
+B
+False
+
+274
+Conducătorii auto angajaţi ai operatorilor de transport rutier, care efectuează operaţiuni de transport, au obligaţia:
+A. de a purta echipament de protecţie pentru prevenirea accidentelor de muncă;
+B. de a nu circula în trafic fără a avea asupra lor fişa de protecţie a muncii;
+C. de a respecta regulile privind prevenirea accidentelor de muncă în circulaţia rutieră.
+C
+False
+
+275
+O încărcătură compusă din mărfuri de acelaşi fel trebuie să fie aşezată:
+A. simetric în raport cu axa longitudinală a autocamionului;
+B. în partea din spate a cabinei conducătorului auto;
+C. simetric în raport cu axa transversală a autocamionului.
+A
+False
+
+276
+Ce măsuri se recomandă atunci când urmează să străbateţi o porţiune de drum public acoperită cu piatră cubică?
+A. să folosiţi numai frâna de ajutor pentru a evita derapajul;
+B. să reduceţi din timp viteza, evitând bruscarea comenzilor;
+C. să circulaţi cât mai aproape de axul drumului, pentru a evita lovirea acostamentului.
+B
+False
+
+277
+Cum procedaţi în cazul în care o persoană în vârstă traversează neregulamentar drumul public, în faţa dvs.?
+A. semnalizaţi cu claxonul şi cu luminile, pentru a împiedica persoana respectivă să traverseze;
+B. reduceţi din timp viteza şi luaţi toate măsurile de evitare a lovirii persoanei care traversează;
+C. legal nu aveţi nicio obligaţie, iar în caz de accident, pietonul imprudent va răspunde, inclusiv pentru eventualele avarii produse.
+B
+False
+
+278
+Ce măsuri se iau în cazul accidentării foarte grave a unei persoane, într-un accident de circulaţie?
+A. transportul imediat la cea mai apropiată unitate sanitară, cu orice mijloc de transport posibil;
+B. transportul imediat până la prima localitate şi anunţarea ambulanţei;
+C. acordarea primului ajutor, până la sosirea ambulanţei.
+C
+False
+
+279
+Cum se procedează cu accidentatul readus la viaţă prin resuscitare cardio-respiratorie?
+A. se va transporta la domiciliu sau la locul de muncă;
+B. se va transporta întotdeauna la o unitate medicală specializată;
+C. se va aştepta sosirea poliţiei rutiere.
+B
+False
+
+280
+Indicatorul alăturat arată că:
+A. circulaţia este deviată pe primul drum la dreapta;
+B. primul drum la dreapta este întrerupt;
+C. drumul are o bandă destinată circulaţiei vehiculelor ce nu pot circula cu viteza înscrisă pe indicator.
+C
+True
+
+281
+Ce documente trebuie să se afle la bordul vehiculelor care efectuează transport rutier public de mărfuri?
+A. o copie după Registrul operatorilor de transport rutier;
+B. o copie conformă a licenţei de transport, documentul de transport, precum şi celelalte documente specifice tipului de transport efectuat;
+C. documentele care atestă termenul de valabilitate a mărfurilor transportate.
+B
+False
+
+282
+În care dintre situaţiile de mai jos este interzisă oprirea autocamioanelor pe drumurile publice?
+A. pe partea carosabilă a drumurilor naţionale;
+B. la o distanţă mai mică de 25 m înainte şi după indicatorul staţiei pentru mijloacele de transport public de persoane;
+C. la mai puţin de 50 m de cel mai apropiat colţ al intersecţiei.
+B
+False
+
+283
+Ce măsuri vor fi luate în cazul conducerii pe drumurile publice a unui autovehicul cu defecţiuni grave la mecanismul de direcţie?
+A. amendă contravenţională, reţinerea certificatului de înmatriculare, precum şi reţinerea permisului de conducere în vederea suspendării exercitării dreptului de a conduce autovehicule;
+B. amendă contravenţională;
+C. amendă contravenţională şi reţinerea certificatului de înmatriculare.
+A
+False
+
+284
+Poate staţiona noaptea, pe un drum public, remorca unui autocamion?
+A. nu;
+B. da, dacă drumul este iluminat;
+C. da, dacă aceasta este semnalizată cu triunghiuri reflectorizante.
+A
+False
+
+285
+Limitarea deplasărilor mărfurilor care pot determina instabilitatea autocamionului se poate realiza prin folosirea:
+A. paleţilor;
+B. chingilor, lanţurilor, calelor şi a cablurilor;
+C. rolcontainerelor.
+B
+False
+
+286
+Ce obligaţii aveţi la ieşirea dintr-un şantier şi intrarea pe o arteră rutieră?
+A. nicio obligaţie;
+B. să curăţaţi anvelopele autocamionului;
+C. să anunţaţi serviciul de urgenţă 112.
+B
+False
+
+287
+Ieşiţi cu autocamionul de pe un drum agricol şi intenţionaţi să viraţi la dreapta, ieşind în şosea. Din stânga se apropie un alt vehicul. Cine dă prioritate?
+A. nu este permisă intrarea pe şosea;
+B. autovehiculul care circulă pe şosea, deoarece dvs. circulaţi din dreapta acestuia;
+C. dvs.
+C
+False
+
+288
+Ce trebuie să aveţi în vedere la scoaterea persoanelor accidentate din autovehicul?
+A. ca operaţiunea să se desfăşoare rapid şi fără să provoace alte traumatisme;
+B. să nu se agraveze leziunile;
+C. să nu se îndepărteze indiciile care ar putea ajuta la explicarea modului în care s-a produs accidentul.
+B
+False
+
+289
+Din sens opus, un vehicul depăşeşte un altul şi nu poate reveni pe banda sa. Cum vă comportaţi corect?
+A. circulaţi mai departe cu viteză mărită;
+B. reduceţi viteza şi vă angajaţi mult spre dreapta;
+C. avertizaţi cu farurile vehiculele care circulă din sens opus.
+B
+False
+
+290
+Cum se acordă primul ajutor în cazul plăgilor tăiate?
+A. acoperiţi rana şi opriţi sângerarea, apoi transportaţi rănitul la medic sau la spital;
+B. opriţi sângerarea prin coaserea plăgii;
+C. transportaţi rănitul la medic, fără să faceţi nimic altceva.
+A
+False
+
+291
+În cazul unui accidentat cu hemoragie masivă, acţionaţi astfel:
+A. aşezaţi persoana pe abdomen şi îi daţi să bea cât mai multe lichide;
+B. aşezaţi persoana pe un scaun în poziţia şezând şi vorbiţi cu ea;
+C. aşezaţi persoana pe spate, cu picioarele ridicate, imobilizaţi eventualele fracturi, nu îi daţi să bea lichide şi o protejaţi contra frigului.
+C
+False
+
+292
+Când gura unui rănit rămâne încleştată, respiraţia artificială se poate face:
+A. prin gura închisă a victimei;
+B. prin nările victimei;
+C. în acest caz nu se mai face respiraţie artificială.
+B
+False
+
+293
+Ce trebuie să aibă în vedere prima intervenţie, la faţa locului, pentru salvarea victimei?
+A. spălarea rănilor vizibile;
+B. degajarea căilor respiratorii şi asigurarea funcţiei respiratorii;
+C. igienizarea şi pansarea rănilor.
+B
+False
+
+294
+Conducătorul auto poate petrece perioada zilnică de odihnă în vehicul?
+A. da, dacă scaunul şoferului este rabatabil;
+B. da, cu condiţia ca vehiculul să fie echipat cu cabină de dormit şi să fie în staţionare;
+C. nu, în nicio situaţie.
+B
+False
+
+295
+Cutia de viteze se poate încălzi excesiv, în timpul funcţionării, atunci când:
+A. conţine o cantitate insuficientă de ulei sau calitatea acestuia este necorespunzătoare;
+B. concentraţia de impurităţi metalice, rezultate din uzura pieselor în mişcare, este mare;
+C. autovehiculul a circulat excesiv cu frâna de mână neeliberată la timp.
+A
+False
+
+296
+Amestecul carburant foarte bogat provoacă rateuri în:
+A. galeria de evacuare sau în toba de eşapament;
+B. galeria de admisie;
+C. carburator sau în pompa de benzină.
+A
+False
+
+297
+Ce obligaţii îi revin conducătorului de autocamion care a accidentat un pieton ce a traversat strada printr-un loc nepermis?
+A. să se prezinte de urgenţă la cea mai apropiată unitate de poliţie;
+B. întrucât nu este vinovat de accident, poate părăsi locul faptei;
+C. în lipsa altor mijloace de transport, să-l transporte el însuşi la cea mai apropiată unitate sanitară, apoi să se întoarcă la locul accidentului.
+C
+False
+
+298
+La autocamionul care tractează o remorcă, semnul distinctiv pentru conducătorul cu o vechime mai mică de un an de la data obţinerii permisului de conducere se aplică:
+A. în partea din spate, lângă numărul de înmatriculare;
+B. la mijlocul parbrizului şi a lunetei;
+C. pe partea din dreapta jos a parbrizului şi, pe caroseria remorcii, în partea din spate stânga sus.
+C
+False
+
+299
+Ce trebuie să conţină biletul care se prinde lângă garoul aplicat unei persoane rănite?
+A. datele de stare civilă ale persoanei;
+B. poziţia în care a fost găsită victima;
+C. ora şi minutul aplicării garoului.
+C
+False
+
+300
+În cazul unei fracturi de claviculă (umărul se află într-o poziţie atârnândă, uşor înainte şi în jos), se procedează astfel:
+A. se aşază braţul într-o eşarfă;
+B. se aduce umărul în poziţie normală;
+C. se lasă braţul liber.
+A
+False
+
+301
+Care este durata maximă de conducere continuă?
+A. 2 ore şi 30 de minute, urmate de o pauză de cel puţin 45 de minute;
+B. 3 ore şi 30 de minute, urmate de o pauză de cel puţin 45 de minute;
+C. 4 ore şi 30 de minute, urmate de o pauză de cel puţin 45 de minute.
+C
+False
+
+302
+Cum procedaţi în situaţia în care, după resuscitarea cardio-respiratorie, accidentatul îşi recapătă pulsul?
+A. încetaţi compresiile exterioare ale pieptului;
+B. continuaţi compresiile exterioare ale pieptului;
+C. aplicaţi un bandaj toracic.
+A
+False
+
+303
+Răcirea exagerată a motorului în timpul funcţionării se poate datora:
+A. blocării termostatului în poziţia „închis”;
+B. blocării termostatului în poziţia „deschis”;
+C. folosirii unui lichid antigel recomandat pentru temperaturi sub - 30 grade C.
+B
+False
+
+304
+Sunteţi depăşit de un autovehicul care a apreciat greşit distanţa şi viteza cu care se apropie din sens opus un alt vehicul. Cum trebuie să procedaţi pentru a evita un accident rutier?
+A. măriţi viteza de deplasare, pentru a-l determina pe cel ce vă depăşeşte să renunţe la manevră;
+B. claxonaţi şi îi faceţi semn cu braţul să nu mai depăşească;
+C. reduceţi imediat viteza şi circulaţi cât mai aproape de marginea din dreapta a părţii carosabile, pentru a-i permite efectuarea depăşirii şi reintrarea pe sensul normal de mers.
+C
+False
+
+305
+Stopul respirator, în cazul persoanelor accidentate, poate fi determinat de:
+A. multiple fracturi ale membrelor;
+B. pierderea intensă de sânge;
+C. astuparea căilor respiratorii.
+C
+False
+
+306
+„Perioada de odihnă săptămânală normală“ reprezintă:
+A. perioada de odihnă de cel puţin 24 de ore consecutive;
+B. orice perioadă de odihnă de cel puţin 45 de ore consecutive;
+C. perioada de odihnă de cel puţin 3 zile consecutive.
+B
+False
+
+307
+Care dintre cauzele de mai jos provoacă oscilaţia roţilor directoare la viteză redusă?
+A. griparea articulaţiilor mecanismului;
+B. jocul prea mare între componentele casetei de direcţie;
+C. griparea pivotului de fuzetă.
+B
+False
+
+308
+Ce categorii de vehicule au obligaţia de a folosi în timpul zilei luminile de întâlnire?
+A. autovehiculele care tractează alte vehicule sau care transportă produse periculoase;
+B. autovehiculele ce se deplasează cu viteză mare;
+C. autovehiculele pentru transport public de persoane.
+A
+False
+
+309
+Înălţimea maximă admisă pentru toate vehiculele este:
+A. 3,50 m;
+B. 4,00 m;
+C. 4,50 m.
+B
+False
+
+310
+Încărcătura unui autocamion trebuie să fie aşezată astfel încât:
+A. să nu provoace zgomote care să jeneze conducătorul şi pe participanţii la trafic, să nu sperie animalele, să nu producă praf sau mirosuri pestilenţiale;
+B. să folosească la maximum spaţiul de deasupra roţilor din spate;
+C. să nu atragă curiozitatea participanţilor la trafic.
+A
+False
+
+311
+Când sunteţi obligat să opriţi autocamionul?
+A. la semnalele îndrumătorilor de circulaţie ai Ministerului Apărării;
+B. la semnalele conducătorilor de vehicule care virează la dreapta;
+C. la semnalele conducătorilor vehiculelor care circulă din sens invers.
+A
+False
+
+312
+Ce tip de hemoragie este mai periculoasă?
+A. cea care determină o sângerare lentă şi continuă;
+B. cea care determină o pierdere rapidă a sângelui;
+C. orice mică sângerare vizibilă.
+B
+False
+
+313
+În spatele unui autocamion s-a format o coloană de autoturisme. Care dintre acestea trebuie să se angajeze primul în depăşire, în spiritul conduitei preventive?
+A. ultimul autovehicul din coloană;
+B. primul autovehicul de după autocamion;
+C. autovehiculul care circulă la mijlocul coloanei.
+B
+False
+
+314
+Pentru a vă da seama dacă pompa de benzină funcţionează, trebuie să:
+A. desfaceţi conducta de alimentare a carburatorului, acţionaţi manual pompa şi, dacă apare un jet de benzină, înseamnă că această piesă este funcţională;
+B. demontaţi pompa şi suflaţi aer pe conducta de admisie, iar dacă jetul de aer se opreşte aici, piesa este în stare de funcţionare;
+C. atingeţi corpul pompei de benzină şi, dacă acesta este mai rece decât blocul motor, înseamnă că piesa este corespunzătoare.
+A
+False
+
+315
+Cum se recunoaşte o fractură deschisă la membre?
+A. zona fracturată este tumefiată;
+B. pielea este străpunsă în zona fracturii;
+C. accidentatul nu se poate mişca.
+B
+False
+
+316
+Piesele cele mai solicitate în timpul funcţionării transmisiei sunt:
+A. planetarele;
+B. diferenţialul;
+C. ambreiajul.
+C
+False
+
+317
+Care dintre următoarele cauze provoacă manipularea greoaie a volanului, în situaţia în care acesta este acţionat rapid, la un sistem de direcţie cu servomecanism hidraulic?
+A. pompa nu debitează ulei în cantitate suficientă;
+B. existenţa unor jocuri prea strânse în angrenaj;
+C. dereglarea geometriei direcţiei.
+A
+False
+
+318
+Cum se opresc hemoragiile la trunchi şi cap?
+A. prin orice mijloace;
+B. prin aplicarea unui garou de cauciuc;
+C. prin aplicarea compreselor sterile şi a pansamentelor compresive.
+C
+False
+
+319
+Se consideră contravenţie:
+A. nerespectarea prevederilor în vigoare, privind utilizarea unei cartele tahografice defecte sau expirate;
+B. utilizarea DVD-urilor sau a altor aparate electronice;
+C. nerespectarea prevederilor privind utilizarea unor diagrame tahografice murdare sau deteriorate.
+AC
+False
+
+320
+Uleiurile pentru motoarele cu aprindere prin compresie sunt simbolizate cu litera:
+A. D;
+B. C;
+C. U.
+B
+False
+
+321
+Instalaţia de aprindere este formată din:
+A. sursa de curent, bobina de inducţie, ruptorul-distribuitor, fişele şi bujiile;
+B. sursa de curent, lămpile pentru farurile luminilor de drum şi semnalizatoarele;
+C. conductorii electrici, întrerupătoarele şi releele de comandă.
+A
+False
+
+322
+Autovehiculul sau ansamblul de vehicule care, prin construcţie sau datorită încărcăturii transportate, depăşeşte masa totală de 80 t şi/sau lungimea de 40 m, sau în situaţia în care lăţimea sau înălţimea acestuia depăşesc 5 m, poate circula pe drumul public:
+A. fără nicio restricţie sau aprobare, însă cu o viteză de până la 50 km/h;
+B. numai în baza autorizaţiei speciale emise de administratorul drumului şi cu avizul poliţiei rutiere;
+C. numai însoţiţi de echipaje de poliţie rutieră, precum şi de persoane care cunosc bine caracteristicile încărcăturii transportate.
+B
+False
+
+323
+Cum se defineşte „pauza“, potrivit reglementărilor care stabilesc perioadele de conducere şi de odihnă ale conducătorilor auto?
+A. perioada în care conducătorul auto poate efectua numai lucrări de întreţinere şi reparaţii, fără a conduce autovehiculul;
+B. orice perioadă în timpul căreia conducătorul nu are dreptul să conducă sau să efectueze alte sarcini, al cărei scop unic este odihna;
+C. perioada în care conducătorul auto alimentează autovehiculul cu combustibil, asigură gresarea şi întreţinerea acestuia, precum şi completarea documentelor de transport obligatorii.
+B
+False
+
+324
+Care este rulajul la care se recomandă controlul bujiilor şi reglarea distanţei dintre electrozi?
+A. 10000 km;
+B. 15000 km;
+C. 5000 km.
+C
+False
+
+325
+Uleiurile pentru motoarele cu aprindere prin scânteie sunt simbolizate cu litera:
+A. B;
+B. V;
+C. S.
+C
+False
+
+326
+Ce înţelegeţi prin termenul de „tractor rutier”?
+A. vehiculul cu roţi sau cu şenile care se deplasează numai ocazional pe drumurile publice;
+B. tractorul pe roţi, cu cel puţin două axe, utilizat pentru tractarea unor remorci folosite pentru transportul de bunuri şi care se deplasează, de regulă, pe drumul public;
+C. vehiculul cu masă sau dimensiuni de gabarit depăşite, datorită dimensiunilor mărfurilor transportate.
+B
+False
+
+327
+Imobilizarea membrului inferior fracturat al unei victime într-un accident de circulaţie se face:
+A. prin bandajarea strânsă a locului fracturii;
+B. prin folosirea atelelor;
+C. prin folosirea pansamentului compresiv.
+B
+False
+
+328
+Pentru a limita riscul de răsturnare, coletele grele trebuie încărcate şi aşezate:
+A. în partea laterală, dreaptă sau stângă, a caroseriei;
+B. în partea superioară a caroseriei;
+C. în partea inferioară a caroseriei.
+C
+False
+
+329
+În cazul unui accident de circulaţie cu victime şi cu deformarea accentuată a caroseriei sau a blocării uşilor, ocupanţii vehiculelor pot fi imobilizaţi. Cum se acţionează în astfel de situaţii?
+A. se extrag victimele rapid şi ferm;
+B. se apelează la serviciile specializate ale unităţilor de pompieri, care intervin cu utilaje de descarcerare;
+C. se cere ajutorul celor din jur şi se scot rapid victimele dintre fiarele contorsionate.
+B
+False
+
+330
+Se consideră contravenţie:
+A. oprirea autovehiculului în afara locurilor specificate în cartela tahografică;
+B. nerespectarea prevederilor privind deţinerea, de către un conducător auto, a mai mult de o cartelă tahografică validă;
+C. fumatul în autovehiculele dotate cu tahograf.
+B
+False
+
+331
+O hemoragie produsă la unul dintre membrele unei persoane rănite se va opri prin:
+A. dezinfectarea rănii, pansarea şi aplicarea atelelor;
+B. ridicarea membrului accidentat în poziţie verticală;
+C. acţiunea compresivă asupra vasului lezat sau aplicarea garoului.
+C
+False
+
+332
+Cum acţionaţi în cazul unui accidentat a cărui inimă s-a oprit (nu mai are puls)?
+A. plecaţi, întrucât nu se mai poate face nimic;
+B. începeţi compresia artificială a inimii şi respiraţia artificială;
+C. mişcaţi energic accidentatul, pentru a-şi reveni.
+B
+False
+
+333
+Ce indică mersul neregulat al motorului la ralanti, cu rateuri în eşapament şi pornire dificilă, în special iarna?
+A. prezenţa calaminei pe supapa de evacuare;
+B. slăbirea tampoanelor de fixare a motorului pe şasiu;
+C. toba de eşapament este perforată.
+A
+False
+
+334
+Care este principalul factor de risc pe care trebuie să-l aveţi în vedere la conducerea autocamionului prin tunele rutiere?
+A. viteza redusă de deplasare şi mersul în coloană;
+B. dificultăţi în adaptarea vederii la intrarea şi la ieşirea din asemenea pasaje;
+C. posibilitatea existenţei unor denivelări ale părţii carosabile.
+B
+False
+
+335
+Masa totală maximă admisă a remorcii cu două osii, pe un drum european, este:
+A. 3,5 t;
+B. 7,5 t;
+C. 17 t.
+C
+False
+
+336
+Aveţi posibilitatea de a efectua transportul de mărfuri cu autovehicule şi remorci care circulă în baza autorizaţiei pentru probe?
+A. da, fără nicio restricţie;
+B. nu;
+C. da, cu aprobarea poliţiei rutiere.
+B
+False
+
+337
+„Perioada de odihnă zilnică redusă“ se referă la:
+A. perioada de somn de minimum 6 ore;
+B. orice perioadă de odihnă de cel puţin 9 ore, dar care să nu depăşească 11 ore;
+C. intervalul neîntrerupt de cel puţin 11 ore de odihnă.
+B
+False
+
+338
+Dezinfecţia plăgilor ce necesită a fi pansate se face cu:
+A. apă oxigenată sau iod;
+B. ser fiziologic;
+C. apă potabilă.
+A
+False
+
+339
+Căile respiratorii pot fi deblocate:
+A. numai în unităţi medicale, folosindu-se instrumente speciale;
+B. la locul accidentului, prin intervenţii specifice;
+C. indiferent unde, dacă victima suportă această intervenţie.
+B
+False
+
+340
+În cazul unei entorse a gleznei, procedaţi astfel:
+A. interziceţi victimei să se sprijine pe glezna respectivă;
+B. ridicaţi piciorul afectat, aplicaţi un bandaj elastic strâns, apoi, dacă se poate, aplicaţi gheaţă prin bandaj;
+C. nu interveniţi şi aşteptaţi ca victima să fie transportată la spital.
+B
+False
+
+341
+Care este rulajul la care se recomandă schimbarea bujiilor, pentru a evita riscul unor căderi funcţionale şi de consum ale motorului?
+A. după fiecare 5000 km;
+B. după 15000-18000 km;
+C. după 30000-35000 km.
+B
+False
+
+342
+Amestecul carburant foarte sărac provoacă rateuri în:
+A. galeria de admisie;
+B. galeria de evacuare;
+C. toba de eşapament.
+A
+False
+
+343
+Cum trebuie să procedaţi pentru a vă păstra starea de vigilenţă pe tot parcursul deplasării?
+A. conduceţi cât mai încordat, cu faţa cât mai aproape de parbriz, pentru a vedea tot ce se întâmplă pe drumul public, în faţa dvs.;
+B. vă concentraţi atenţia, dar adoptaţi o atitudine relaxată la volan, având control asupra efectuării tuturor manevrelor de care depinde siguranţa călătoriei;
+C. vă găsiţi o preocupare mai plăcută, cum ar fi manevrarea aparaturii radio-video, întreţinerea unor discuţii cu pasagerii sau folosirea telefonului mobil.
+B
+False
+
+344
+Ce se înţelege prin conducere ecologică a unui autovehicul?
+A. obligaţia de a folosi în permanenţă carburant biodegradabil;
+B. deplasări urbane cu bicicleta, pe jos sau cu alte mijloace care nu poluează atmosfera;
+C. un ansamblu de măsuri comportamentale, de control sau de verificare a vehiculului, prin care se realizează o importantă economie de energie şi protecţia mediului.
+C
+False
+
+345
+Distanţa faţă de autovehiculul care circulă în faţă trebuie stabilită în funcţie de:
+A. priceperea dvs. în evitarea obstacolelor apărute brusc;
+B. viteza de deplasare, aderenţa la carosabil şi timpul dvs. de reacţie;
+C. marca şi capacitatea cilindrică a autovehiculului din faţă.
+B
+False
+
+346
+Circulaţi în spatele unui vehicul cu tracţiune animală şi constataţi că acesta doreşte să schimbe direcţia de mers. Cum procedaţi?
+A. semnalizaţi sonor intenţia de a-l depăşi;
+B. permiteţi vehiculului efectuarea în siguranţă a manevrei;
+C. nu aveţi nicio obligaţie.
+B
+False
+
+347
+Circulaţi printr-o localitate, în spatele unui vehicul cu număr de înmatriculare din altă localitate sau din străinătate. La ce vă puteţi aştepta?
+A. vehiculul care circulă în faţă merge corect;
+B. înainte de a vira, conducătorul vehiculului respectiv va semnaliza din timp schimbarea direcţiei de mers;
+C. conducătorul care circulă în faţă poate să frâneze şi să oprească în mod neaşteptat, pentru a cere informaţii privind drumul.
+C
+False
+
+348
+În funcţie de starea accidentatului, măsurile de prim ajutor se vor lua în următoarea ordine:
+A. oprirea hemoragiei, pansarea rănilor, imobilizarea fracturilor, respiraţia artificială, masajul cardiac;
+B. respiraţia artificială, masajul cardiac, oprirea hemoragiei, pansarea rănilor, imobilizarea fracturilor;
+C. imobilizarea fracturilor, pansarea rănilor, respiraţia artificială, masajul cardiac, oprirea hemoragiei.
+B
+False
+
+349
+Accidentatul cu hemoragie externă trebuie aşezat:
+A. în aşa fel încât rana care sângerează să fie mai jos decât planul corpului;
+B. nu are importanţă dacă rana este situată mai sus sau mai jos decât planul corpului;
+C. în aşa fel încât rana sângerândă să fie mai sus decât nivelul corpului.
+C
+False
+
+350
+Pentru a conduce ecologic un autovehicul, se recomandă:
+A. folosirea motorului la relanti, în cazul în care staţionaţi mai mult timp în acelaşi loc;
+B. menţinerea unei viteze constante, de preferinţă medie;
+C. oprirea motorului în timp ce coborâţi o pantă, pentru a economisi carburant.
+B
+False
+
+351
+Ce vehicul poate îndeplini funcţia de remorcă?
+A. orice autovehicul cu o putere mai mică de 11 kW;
+B. orice vehicul destinat să fie tractat de un autovehicul sau de un autotractor;
+C. orice vehicul dotat cu 4 roţi şi o osie.
+B
+False
+
+352
+Imposibilitatea realizării efectului maxim al frânării poate avea originea în:
+A. bruscarea comenzilor de către conducătorul auto;
+B. prezenţa aerului în instalaţia de frânare;
+C. folosirea unor pneuri mai late decât cele indicate de constructor.
+B
+False
+
+353
+Care dintre următoarele cauze determină încălzirea anormală a tamburilor de frânare?
+A. ruperea arcului de readucere a saboţilor;
+B. distanţa prea mare dintre saboţi şi tamburi;
+C. prezenţa aerului în instalaţia de frânare.
+A
+False
+
+354
+Care este durata maximă de utilizare a foilor de înregistrare a diagramelor tahograf, proprii fiecărui conducător?
+A. 24 de ore;
+B. 48 de ore;
+C. 72 de ore.
+A
+False
+
+355
+Exploziile cadenţate în carburator sunt cauzate de:
+A. supapele de evacuare defecte;
+B. supapele de admisie defecte;
+C. garnitura de chiulasă ruptă între doi cilindri.
+B
+False
+
+356
+În cazul plăgilor însoţite de hemoragii arteriale, persoanelor rănite trebuie să li se aplice un garou de cauciuc:
+A. deasupra plăgii;
+B. sub plagă;
+C. peste plagă.
+A
+False
+
+357
+Cum poate fi definit un autovehicul?
+A. o caroserie montată pe o structură de rezistenţă numită şasiu, având un sistem de direcţie hidramat sau mecanic;
+B. orice vehicul cu motor care circulă pe un drum public, cu excepţia celor care se deplasează în permanenţă pe calea ferată, şi care serveşte normal la transportul de persoane sau de mărfuri;
+C. orice vehicul dotat cu un motor cu o putere mai mare de 45 kW.
+B
+False
+
+358
+Autovehiculele cu mase şi/sau dimensiuni de gabarit depăşite sunt prevăzute cu dispozitive de iluminare speciale de avertizare având culoarea:
+A. roşie;
+B. galbenă;
+C. albastră.
+B
+False
+
+359
+În cazul imobilizării unei fracturi, atela trebuie să fie:
+A. rigidă şi suficient de lungă pentru a cuprinde capetele fracturii;
+B. moale;
+C. nu contează.
+A
+False
+
+360
+Cum procedaţi în cazul unui accidentat care are puls, dar nu respiră?
+A. îi faceţi o resuscitare cardio-respiratorie;
+B. îi daţi câteva palme peste faţă, până îşi revine;
+C. începeţi respiraţia artificială.
+C
+False
+
+361
+Ce se înţelege prin expresia „masă totală maximă autorizată”?
+A. masa totală a încărcăturii pe care autovehiculul condus o poate transporta;
+B. masa maximă pe care o poate avea autovehiculul la plecarea din garaj;
+C. masa maximă a unui autovehicul încărcat, declarată admisibilă în urma omologării de către autoritatea competentă.
+C
+False
+
+362
+Fazele principale ale funcţionării motorului cu ardere internă sunt, în ordine, următoarele:
+A. admisia, destinderea, arderea, compresia şi evacuarea;
+B. compresia, evacuarea, arderea, destinderea şi admisia;
+C. admisia, compresia, arderea, destinderea şi evacuarea.
+C
+False
+
+363
+Încetinitorul electromagnetic generează, în timpul folosirii sale, un câmp electromagnetic care frânează:
+A. arborele motorului;
+B. roţile autovehiculului;
+C. arborele de transmisie (cardanic).
+C
+False
+
+364
+Resuscitarea cardio-respiratorie trebuie efectuată:
+A. oricărui accidentat;
+B. accidentaţilor aflaţi în stare de inconştienţă, care nu respiră şi nu au puls;
+C. numai accidentaţilor care au suferit fracturi uşoare.
+B
+False
+
+365
+Care dintre următoarele cauze duce la uzura prematură a anvelopelor roţilor din faţă?
+A. folosirea unor anvelope cu profil necorespunzător;
+B. rularea cu viteze mari în viraje sau curbe;
+C. reglarea greşită a unghiului de convergenţă.
+C
+False
+
+366
+Pentru a acorda primul ajutor în caz de fracturi, se fac următoarele manevre:
+A. se împing fragmentele osoase care au perforat pielea;
+B. se fixează focarul de fractură, pentru a preveni mişcarea fragmentelor osoase în timpul imobilizării membrului, în atele care să fie destul de lungi pentru a prinde articulaţia de deasupra şi cea de dedesubtul focarului de fractură;
+C. se imobilizează fractura cu feşe sterile.
+B
+False
+
+367
+Ce trebuie să folosiţi pentru imobilizarea fracturilor de la membrele superioare?
+A. atele improvizate;
+B. o eşarfă simplă;
+C. în acest caz nu se intervine.
+B
+False
+
+368
+În cazul unui accident în care victima şi-a pierdut cunoştinţa, prima măsură va fi:
+A. să administraţi medicamente din trusa de prim ajutor;
+B. să imobilizaţi eventualele fracturi;
+C. să controlaţi respiraţia şi bătăile inimii.
+C
+False
+
+369
+Hemoragia nazală se poate opri dacă accidentatul:
+A. stă culcat cu capul pe spate;
+B. stă în picioare şi îşi strânge ambele nări timp de aproximativ 5-10 minute;
+C. ridică mâna dreaptă.
+B
+False
+
+370
+Ce trebuie să menţioneze conducătorul auto pe diagrama tahograf la scoaterea acesteia?
+A. localitatea, data, numărul de kilometri la sosire, numărul de kilometri parcurşi (diferenţa între numărul de kilometri la sosire şi numărul de kilometri parcurşi);
+B. problemele apărute pe timpul deplasării;
+C. natura şi starea încărcăturii.
+A
+False
+
+371
+Încetinitorul (retarderul) de pe eşapament permite utilizarea motorului ca pe un compresor, întrerupând:
+A. frânarea de securitate;
+B. frânarea de serviciu;
+C. injecţia de carburant, obturând şi ieşirea gazelor de eşapament.
+C
+False
+
+372
+Catalizatorul înfundat al unui autovehicul poate duce la:
+A. scăderea nivelului uleiului în baia de ulei a motorului;
+B. scăderea puterii motorului;
+C. scăderea nivelului lichidului de răcire în vasul de expansiune al instalaţiei de răcire.
+B
+False
+
+373
+În timpul mersului, remarcaţi că autovehiculul dvs. trage spre stânga. Care ar putea fi cauza?
+A. pneuri uzate;
+B. presiune prea joasă în roata stângă din faţă;
+C. presiune prea joasă în roata dreaptă din faţă.
+B
+False
+
+374
+Existenţa aerului în instalaţia de frânare hidraulică se manifestă, la apăsarea pedalei de frână, prin:
+A. atingerea podelei de către pedală la o apăsare uşoară, fără a mai reveni;
+B. rezistenţa asemănătoare apăsării pe un arc, pe care o întâmpină pedala;
+C. blocarea pedalei de frână.
+B
+False
+
+375
+Care dintre următoarele cauze duce la un consum mărit de combustibil?
+A. obturarea jiclorului principal;
+B. nivelul benzinei în camera de nivel constant este mediu;
+C. pătrunderea în exces a impurităţilor în filtrul de aer.
+C
+False
+
+376
+Utilizarea sistemului de climatizare are ca efect:
+A. creşterea consumului de combustibil;
+B. reducerea consumului de combustibil;
+C. scăderea puternică a gradului de confort.
+A
+False
+
+377
+Care dintre următoarele cauze determină amestecarea uleiului cu apă?
+A. fisurarea pistoanelor blocului motor;
+B. fisurarea blocului motor;
+C. deteriorarea garniturilor de etanşare a cămăşilor cilindrilor.
+C
+False
+
+378
+Exploziile cadenţate în eşapament indică:
+A. pierderea etanşeităţii unei supape de evacuare;
+B. defectarea tobei de eşapament;
+C. dereglarea unui amortizor.
+A
+False
+
+379
+În cazul motoarelor cu aprindere prin compresie, emisia fumului de culoare neagră este o urmare a:
+A. reglării incorecte a pompei de injecţie;
+B. uzurii segmenţilor;
+C. jocului mic dintre supape şi culbutori.
+A
+False
+
+380
+Care este durata maximă de conducere zilnică?
+A. 9 ore;
+B. 8 ore;
+C. 12 ore.
+A
+False
+
+381
+În cazul unui accident cu victime şi cu deformarea accentuată a caroseriei, procedaţi astfel:
+A. victimele conştiente sunt sfătuite să nu se mişte, iar degajarea acestora trebuie să se realizeze cât mai repede şi numai de către echipaje specializate;
+B. degajarea victimelor trebuie să se realizeze cât mai repede, prin orice mijloace;
+C. se administrează calmante victimelor care sunt conştiente.
+A
+False
+
+382
+Conduita ecologică în conducerea unui autovehicul înseamnă:
+A. să nu poluaţi fonic mediul înconjurător, folosind sistemul de sonorizare la putere maximă;
+B. să întreţineţi în permanenţă autovehiculul curat, prin spălare şi degresare zilnică;
+C. să fiţi calm şi să anticipaţi situaţiile astfel încât să evitaţi accelerarea şi frânarea bruscă.
+C
+False
+
+383
+Uzurile locale din zona benzii de rulare a pneurilor se produc din cauza:
+A. ovalizării tamburului roţii respective;
+B. rulării cu presiune scăzută în pneuri;
+C. rulării autovehiculului pe drumuri accidentate.
+A
+False
+
+384
+Rularea cu pneuri având o presiune mai mică decât cea indicată produce uzură pe:
+A. centrul benzii de rulare;
+B. flancurile benzii de rulare;
+C. taloanele anvelopelor.
+B
+False
+
+385
+Instalaţia de alimentare cu energie electrică este alcătuită din:
+A. conductori electrici, conectori, întrerupătoare şi relee de comandă;
+B. bateria de acumulatori, generatorul de curent, conductori şi relee cu diferite roluri;
+C. transformatorul, distribuitorul de tensiune şi consumatorii electrici.
+B
+False
+
+386
+Cum este bine să procedaţi atunci când, circulând în spatele unui biciclist, constataţi că acesta doreşte să schimbe direcţia de mers?
+A. semnalizaţi sonor intenţia de a-l depăşi;
+B. îi asiguraţi condiţii pentru realizarea manevrei;
+C. nu aveţi nicio obligaţie, întrucât acesta este un vehicul foarte lent.
+B
+False
+
+387
+Ce cauze pot conduce la un consum exagerat de combustibil?
+A. turaţia la ralanti prea mare;
+B. temperatura mediului ambiant;
+C. lipsa filtrului de benzină.
+A
+False
+
+388
+La acţionarea frânei, efectul de frânare se obţine abia la capătul cursei pedalei. Care este cauza?
+A. distanţa dintre saboţi şi tamburi este prea mică;
+B. distanţa dintre saboţi şi tamburi este prea mare;
+C. pedala de frână este deformată.
+B
+False
+
+389
+Tractarea unei remorci neînmatriculate sau neînregistrate sau cu număr fals de înmatriculare constituie:
+A. infracţiune, şi se pedepseşte cu închisoare;
+B. contravenţie, şi se pedepseşte cu amendă;
+C. abatere disciplinară, sancţionată cu atenţionare.
+A
+False
+
+390
+Cifra 14 din inscripţionarea 185/70R 14, existentă pe o anvelopă, reprezintă:
+A. limita maximă de viteză cu care se poate rula, respectiv 140 km/h;
+B. diametrul jantei, exprimat în inci, adică echivalentul a 365 mm;
+C. presiunea recomandată, respectiv 1,4 atmosfere.
+B
+False
+
+391
+La motorul în patru timpi, turaţia arborelui cu came, faţă de turaţia arborelui cotit, este:
+A. de două ori mai mică;
+B. de două ori mai mare;
+C. egală.
+A
+False
+
+392
+Arborele cu came este acţionat de:
+A. arborele cotit;
+B. diferenţial;
+C. ruptor-distribuitor.
+A
+False
+
+393
+La cuplarea semiremorcii, înainte de branşarea tuburilor flexibile se va acţiona obligatoriu:
+A. frâna de staţionare a tractorului;
+B. încetinitorul hidraulic;
+C. frâna de serviciu a tractorului.
+A
+False
+
+394
+Ce înţelegeţi prin termenul de „arimare”?
+A. aranjarea încărcăturilor paletizate;
+B. aranjarea încărcăturilor periculoase;
+C. aranjarea şi fixarea încărcăturilor pentru menţinerea unei centrări favorabile stabilităţii.
+C
+False
+
+395
+Vă apropiaţi de o trecere la nivel cu calea ferată curentă fără bariere, în traversarea căreia s-a angajat o căruţă aflată în faţa dvs. În această situaţie puteţi efectua depăşirea?
+A. da, dacă aceasta nu a ajuns încă la linia de tren;
+B. da, întrucât căruţa este un vehicul lent;
+C. nu, întrucât depăşirea este interzisă pe trecerile la nivel cu calea ferată şi la mai puţin de 50 m înainte de acestea.
+C
+False
+
+396
+Este interzisă staţionarea unui autocamion pe un drum public cu o lăţime mai mică de 6 m?
+A. da;
+B. nu;
+C. legal, nu este prevãzut.
+A
+False
+
+397
+Desfacerea firelor de cord, ca urmare a flexionărilor mari ale carcasei anvelopei, este o consecinţă a rulării:
+A. cu presiune scăzută în pneul respectiv;
+B. cu frâna de motor;
+C. pe un drum cu denivelări.
+A
+False
+
+398
+Autovehiculul porneşte de pe loc cu şocuri, din cauza:
+A. deformării plăcii de presiune sau uzurii neuniforme a discului de fricţiune;
+B. acţionării prea lente a pedalei de ambreiaj;
+C. neeliberării la timp a clapetei de şoc şi a celei de acceleraţie.
+A
+False
+
+399
+Conducerea pe drumurile publice a unui autocamion sau tractarea unei remorci ale căror plăcuţe cu numărul de înmatriculare/înregistrare au fost retrase sau a unui vehicul înmatriculat în alt stat, care nu are drept de circulaţie în România, se pedepseşte:
+A. contravenţional;
+B. penal;
+C. cu imobilizarea vehiculului respectiv.
+B
+False
+
+400
+„Durata de conducere zilnică“ reprezintă:
+A. durata totală de conducere acumulată între două perioade de odihnă zilnică;
+B. perioada de conducere în care autovehiculul rulează neîntrerupt;
+C. perioada de conducere între două puncte ale traseului, prevăzute într-o singură zi.
+A
+False
+
+401
+Pentru a obţine o eficacitate sporită, încetinitorul electromagnetic trebuie utilizat:
+A. în acelaşi timp cu încetinitorul de pe eşapament;
+B. în acelaşi timp cu frânarea de parcare;
+C. independent de frâna de serviciu.
+A
+False
+
+402
+Care dintre piesele următoare acţionează pompa de înaltă presiune din componenţa sistemului de direcţie cu servomecanism hidraulic?
+A. axul cardanic;
+B. arborele cotit al compresorului de aer;
+C. arborele cu came.
+B
+False
+
+403
+Care este rolul alternatorului de curent?
+A. alimentează consumatorii electrici, când motorul este oprit;
+B. asigură încărcarea bateriei de acumulatori şi alimentează cu energie electrică consumatorii;
+C. alimentează cu energie electrică farurile.
+B
+False
+
+404
+Care dintre următoarele defecţiuni creează joc mare la volan?
+A. rulmenţii roţilor directoare sunt blocaţi;
+B. articulaţiile mecanismului de direcţie nu sunt gresate;
+C. uzura pronunţată a capetelor de bare.
+C
+False
+
+405
+Oprirea este interzisă:
+A. la mai puţin de 25 m de colţul unei intersecţii;
+B. în zona de acţiune a indicatorului „Staţionarea interzisă“;
+C. în curbe şi pe sectoarele de drum cu vizibilitate redusă sub 50 m.
+AC
+False
+
+406
+Scăderea nivelului lichidului de răcire din vasul de expansiune se poate datora:
+A. arderii garniturii de chiulasă;
+B. folosirii unui lichid antigel cu o concentraţie mai mică;
+C. folosirii excesive a instalaţiei de spălare a parbrizului.
+A
+False
+
+407
+Care dintre factorii enumeraţi mai jos condiţionează exploatarea raţională a pneurilor?
+A. viteza de deplasare, modul de conducere, presiunea corectă;
+B. tipul autovehiculului, numărul de roţi, viteza de deplasare;
+C. puterea motorului, tipul de tracţiune al autovehiculului, viteza de deplasare.
+A
+False
+
+408
+Semnele unei fracturi sunt:
+A. durere în zona afectată;
+B. poziţie nefirească, mişcare nenaturală, braţ sau picior mai scurt;
+C. temperatură mărită şi transpiraţie abundentă.
+B
+False
+
+409
+Ce trebuie să menţioneze conducătorul auto pe diagrama tahograf la introducerea acesteia?
+A. denumirea firmei şi localitatea de destinaţie;
+B. numele şi prenumele, localitatea, data, numărul de înmatriculare, numărul de kilometri la plecare;
+C. defecţiunile şi remedierile ce trebuie executate.
+B
+False
+
+410
+Care dintre următoarele cauze provoacă manevrarea anevoioasă a volanului, în cazul unui sistem de direcţie cu servomecanism hidraulic?
+A. defectarea pompei de înaltă presiune;
+B. jocul mare din articulaţii;
+C. presiunea mare în pneurile roţilor directoare.
+A
+False
+
+411
+Care dintre următoarele cauze provoacă revenirea greoaie a roţilor directoare pe direcţia de mers înainte?
+A. circumferinţa roţilor directoare este prea mică;
+B. articulaţiile mecanismului de direcţie sunt negresate;
+C. lubrifiantul articulaţiilor este prea fluid.
+B
+False
+
+412
+Cele mai frecvente pene ale motoarelor pe benzină sunt cauzate de:
+A. instalaţia de aprindere;
+B. instalaţia de iluminare;
+C. sistemul de evacuare a gazelor arse.
+A
+False
+
+413
+Fisurile în lungul anvelopei se datorează:
+A. supraîncărcării vehiculului;
+B. rulării frecvente cu viteză redusă;
+C. montării incorecte a roţilor.
+A
+False
+
+414
+O persoană grav rănită, victima unui accident de circulaţie, va fi ridicată:
+A. mai întâi de cap, apoi de torace şi picioare;
+B. de umeri şi de picioare de către două persoane;
+C. cu atenţie, menţinându-se în acelaşi plan capul, gâtul şi toracele.
+C
+False
+
+415
+Apariţia unui zgomot ascuţit în momentul apăsării pedalei de ambreiaj semnifică:
+A. ferodourile sunt uzate;
+B. arcul de revenire a pedalei de ambreiaj este uzat;
+C. rulmentul de presiune este defect.
+C
+False
+
+416
+Conducătorilor de autocamioane le este interzis:
+A. să profereze injurii;
+B. să săvârşească acte sau gesturi obscene;
+C. să adreseze celorlalţi participanţi la trafic expresii jignitoare sau vulgare.
+ABC
+False
+
+417
+Care este avantajul pneurilor cu carcasă radială?
+A. au dimensiuni şi greutăţi specifice mai mici decât cele cu carcasă diagonală;
+B. durata de exploatare este mai mare cu 30-80% decât în cazul celor cu carcasă diagonală;
+C. oferă posibilitatea exploatării eficiente pe timp de vară.
+B
+False
+
+418
+Unghiul de cădere prea mare la o roată duce la uzura uniformă a pneurilor:
+A. pe marginea exterioară;
+B. pe marginea interioară;
+C. pe toată lăţimea.
+A
+False
+
+419
+Un garou, aplicat unei persoane rănite într-un accident de circulaţie, poate fi menţinut pentru a nu afecta ţesuturile:
+A. maximum 24 de ore;
+B. minimum 2 ore;
+C. maximum 2 ore.
+C
+False
+
+420
+Pedala de frânare acţionează eficient doar după mai multe apăsări succesive. Ce trebuie să faceţi în asemenea situaţie?
+A. să completaţi lichidul de frână;
+B. să reglaţi cursa pedalei;
+C. să reparaţi instalaţia de frânare într-un atelier specializat.
+C
+False
+
+421
+Anvelopele roţilor directoare se uzează excesiv pe partea interioară a benzii de rulare, dacă:
+A. divergenţa acestora este mărită;
+B. convergenţa acestora este mărită;
+C. s-a rulat îndelungat cu presiunea scăzută în pneuri.
+A
+False
+
+422
+Se consideră contravenţie:
+A. nerespectarea prevederilor privind scoaterea neautorizată a diagramei tahografice din tahograf sau a cartelei tahografice din tahograful digital, înaintea terminării zilei de lucru, sau utilizarea pentru o perioadă mai lungă decât cea prevăzută;
+B. folosirea unui tahograf electronic;
+C. întreţinerea de conversaţii cu persoanele aflate în cabină.
+A
+False
+
+423
+Când pot dispune inspectorii de trafic imobilizarea unui vehicul?
+A. atunci când sunt constatate abateri privind transportul mărfurilor periculoase, urmând ca imediat să fie anunţaţi reprezentanţii poliţiei rutiere cu competenţe în zona în care s-a efectuat controlul;
+B. atunci când sunt transportate mărfuri periculoase şi inflamabile;
+C. atunci când vehiculul care execută transportul de mărfuri periculoase nu este precedat de către un autovehicul antemergător, dotat cu girofaruri de culoare galbenă.
+A
+False
+
+424
+Temperatura de intrare în funcţiune a termostatului este de:
+A. 76-80 grade C;
+B. 95-100 grade C;
+C. 105-120 grade C.
+A
+False
+
+425
+Uzura unei anvelope pe una dintre marginile benzii de rulare este cauzată de:
+A. dereglarea geometriei direcţiei;
+B. presiunea scăzută în roţile directoare;
+C. jocul mare în rulmenţii roţii respective.
+A
+False
+
+426
+Consumul de carburant se măreşte dacă:
+A. lichidul de răcire nu conţine antigel;
+B. sistemul de direcţie este manual;
+C. folosiţi orice aparat electric alimentat de generatorul autovehiculului.
+C
+False
+
+427
+Griparea (înţepenirea) pistoanelor în cilindri se poate datora:
+A. supraîncălzirii motorului, din cauza lipsei lichidului din instalaţia de răcire;
+B. folosirii defectuoase a ambreiajului;
+C. rulării cu viteză redusă, fără motiv întemeiat, pe timp de vară.
+A
+False
+
+428
+Uzura accentuată a părţii interioare a benzii de rulare a pneurilor directoare denotă:
+A. poziţia excesiv convergentă a acestor roţi;
+B. poziţia excesiv divergentă a acestor roţi;
+C. rularea cu viteze foarte mari şi cu presiune prea mare în pneuri.
+B
+False
+
+429
+Injecţia de benzină multipunct se realizează în:
+A. fiecare cilindru al motorului, în poarta supapei de admisie;
+B. interiorul difuzorului carburatorului;
+C. filtrul de benzină situat înaintea carburatorului.
+A
+False
+
+430
+Care dintre cauzele de mai jos provoacă sulfatarea bateriei de acumulatori?
+A. legăturile bateriei cu alternatorul sunt slabe;
+B. nivelul scăzut al electrolitului în baterie;
+C. bornele bateriei sunt oxidate.
+B
+False
+
+431
+Utilizarea pe autostradă a limitatorului de viteză pentru autovehiculele dotate cu acest sistem are ca efect:
+A. creşterea consumului de combustibil, datorită unei viteze mai mici;
+B. reducerea consumului de combustibil, datorită vitezei constante;
+C. acest sistem nu are efecte asupra consumului de combustibil.
+B
+False
+
+432
+În situaţia în care cureaua de antrenare a pompei de apă şi a generatorului de curent patinează, se poate curăţa cu:
+A. o lavetă îmbibată uşor cu benzină, tratament care trebuie aplicat şi fuliilor;
+B. numai cu apă distilată, după care se usucă cu aer comprimat;
+C. cu hârtie abrazivă, după care se unge cu ulei mineral.
+A
+False
+
+433
+Uzura neuniformă a benzii de rulare a unui pneu pe toată lăţimea acesteia este produsă de:
+A. folosirea constantă a autovehiculului încărcat;
+B. rularea cu viteză mare;
+C. neechilibrarea roţii respective.
+C
+False
+
+434
+Care dintre următoarele piese fac parte din mecanismul de distribuţie?
+A. carburatorul;
+B. arborele cotit;
+C. arborele cu came.
+C
+False
+
+435
+Încetinitorul electromagnetic este mai eficient decât cel de pe eşapament, mai ales la:
+A. viteze ridicate;
+B. opriri neprevăzute;
+C. viteze scăzute.
+A
+False
+
+436
+Dacă rămâneţi în pană într-un tunel:
+A. opriţi funcţionarea motorului;
+B. motorul trebuie să funcţioneze, pentru a putea folosi luminile de avarie;
+C. închideţi autovehiculul şi vă îndepărtaţi de acesta.
+A
+False
+
+437
+Victima care a pierdut mult sânge trebuie să fie aşezată:
+A. cu faţa în sus;
+B. cu faţa în jos;
+C. cu picioarele situate mai sus decât nivelul corpului.
+C
+False
+
+438
+Injecţia de benzină monopunct se realizează în:
+A. interiorul camerei de nivel constant a carburatorului;
+B. colectorul de admisie;
+C. poarta supapelor de evacuare.
+B
+False
+
+439
+Circuitul de înaltă tensiune din cadrul instalaţiei de aprindere prin scânteie cuprinde:
+A. condensatorul, bobinajul rotorului demarorului şi releul electroventilatorului;
+B. înfăşurarea secundară a bobinei de inducţie, distribuitorul, rotorul, fişele şi bujiile;
+C. conductorii electrici marcaţi cu izolatori de culoare roşie şi siguranţele.
+B
+False
+
+440
+Ce trebuie să aveţi în vedere înaintea transportării unei victime la spital?
+A. ca funcţia respiratorie şi funcţia circulatorie să fie asigurate;
+B. ca punctul sanitar către care vă îndreptaţi să nu fie la o distanţă mai mare de 50 km;
+C. ca autovehiculul cu care va fi transportată victima să asigure confortul necesar.
+A
+False
+
+441
+În galeriile de admisie şi evacuare, rateurile se produc ca urmare a:
+A. supraturării motorului;
+B. supraîncălzirii motorului;
+C. jocului prea mic dintre culbutori şi supape.
+C
+False
+
+442
+Care dintre următoarele cauze provoacă, la un sistem de direcţie cu servomecanism hidraulic, manevrarea greoaie a volanului, atunci când acesta este acţionat rapid?
+A. pompa nu debitează ulei suficient;
+B. angrenajele sistemului de direcţie au jocuri;
+C. roţile posterioare sunt dezechilibrate.
+A
+False
+
+443
+Se consideră contravenţie:
+A. completarea diagramei tahograf cu pixul sau cu stiloul;
+B. necompletarea pe diagrama tahograf a datelor prevăzute de legislaţia în vigoare;
+C. omisiunea de a introduce în tahograful digital datele prevăzute de legislaţia în vigoare.
+BC
+False
+
+444
+Care dintre următoarele tipuri de carosabil este cel mai periculos în condiţii de ploaie?
+A. carosabilul cu suprafaţa asfaltată;
+B. carosabilul cu suprafaţa betonată;
+C. carosabilul cu piatră cubică.
+C
+False
+
+445
+Ce obligaţie are conducătorul auto când a accidentat un pieton care a traversat strada neregulamentar?
+A. transportă victima la cea mai apropiată unitate sanitară, dacă nu este posibilă transportarea cu alte mijloace, şi se reîntoarce imediat la locul accidentului;
+B. rămâne la locul accidentului până la sosirea organelor de anchetă, reţinând numele, prenumele şi adresele martorilor;
+C. se prezintă la cel mai apropiat post de poliţie.
+A
+False
+
+446
+Cum trebuie aşezată într-un mijloc de transport o persoană rănită, care prezintă leziuni ale coloanei vertebrale?
+A. în poziţie şezândă;
+B. orizontal, cu faţa în sus;
+C. persoana nu trebuie mişcată până la sosirea ambulanţei.
+C
+False
+
+447
+Ce trebuie să faceţi pentru evitarea complicaţiilor în cazul unei fracturi?
+A. să imobilizaţi zona fracturată;
+B. să sterilizaţi şi să pansaţi zona fracturată;
+C. să aplicaţi un garou de cauciuc deasupra fracturii.
+A
+False
+
+448
+Cum trebuie să fie atelele pentru imobilizarea unei fracturi?
+A. suficient de lungi pentru a acoperi în întregime atât zona de deasupra, cât şi cea de sub fractură;
+B. rigide;
+C. uşoare.
+ABC
+False
+
+449
+Ce funcţii poate avea un bandaj de tifon aplicat pe o rană deschisă?
+A. protejează împotriva infectării rănii;
+B. opreşte hemoragia;
+C. scade tensiunea arterială.
+AB
+False
+
+450
+Care sunt mecanismele şi instalaţiile auxiliare ale motorului?
+A. mecanismul de distribuţie, precum şi instalaţiile de aprindere, de răcire, de ungere şi de alimentare cu combustibil;
+B. instalaţia de iluminare-semnalizare, mecanismul de direcţie şi de frânare;
+C. sistemul de alimentare cu energie electrică şi instalaţia de climatizare.
+A
+False
+
+451
+Care este circuitul de joasă tensiune al instalaţiei de aprindere?
+A. bateria de acumulatori, contactul, înfăşurarea secundară a bobinei de inducţie, ruptorul-distribuitor, masa;
+B. bateria de acumulatori, contactul, înfăşurarea primară a bobinei de inducţie;
+C. bateria de acumulatori, voltmetrul, ampermetrul, înfăşurarea secundară a bobinei de inducţie.
+B
+False
+
+452
+Care sunt documentele însoţitoare, în cazul unui vehicul de trasport rutier public de mărfuri în trafic naţional, deţinut cu contract de închiriere sau de leasing, în afara documentului de transport?
+A. foaia de parcurs vizată de către societatea de leasing;
+B. actul notarial de încredinţare a autovehiculului pentru fiecare conducător în parte;
+C. contractul de închiriere, în original sau în copie conformă cu originalul.
+C
+False
+
+453
+Care dintre următoarele defecţiuni face imposibilă, la un moment dat, frânarea autovehiculului?
+A. uzura exagerată a pneurilor;
+B. ruperea curelei de antrenare a compresorului;
+C. uzura pistoanelor compresorului.
+B
+False
+
+454
+Care dintre următoarele cauze duce la manevrarea greoaie a direcţiei?
+A. jocul prea mare între pivot şi fuzeta de direcţie;
+B. jocul prea mare la articulaţii;
+C. deteriorarea, griparea sau ruginirea pivoţilor fuzetelor.
+C
+False
+
+455
+Apariţia unor bule de gaz în vasul de expansiune, la accelerarea motorului, indică:
+A. arderea garniturii de chiulasă;
+B. temperatura ridicată a lichidului de răcire;
+C. blocarea termostatului.
+A
+False
+
+456
+La sistemul de direcţie cu servomecanism hidraulic apar lovituri puternice la volan, în momentul executării unui viraj, din cauza:
+A. dereglării unghiului de convergenţă;
+B. articulaţiilor neunse;
+C. existenţei aerului în instalaţia hidraulică.
+C
+False
+
+457
+Griparea pistonului unui element al pompei de injecţie poate conduce la:
+A. spargerea carcasei pompei de injecţie;
+B. supraturarea motorului;
+C. fisurarea arborelui cu came al pompei de injecţie.
+B
+False
+
+458
+Atunci când transportaţi mărfuri sau produse periculoase, vă este interzis:
+A. să depăşiţi alte vehicule;
+B. să remorcaţi un vehicul rămas în pană;
+C. să provocaţi în mers şocuri autovehiculului.
+BC
+False
+
+459
+Care dintre următoarele cauze determină revenirea greoaie a roţilor directoare pe direcţia înainte?
+A. articulaţiile direcţiei nu sunt gresate;
+B. pneurile roţilor directoare au o presiune superioară celei indicate de constructor;
+C. jocul din angrenajul casetei de direcţie este prea mare.
+A
+False
+
+460
+Motorul Diesel funcţioneazã optim la o temperaturã de:
+A. 75 grade C;
+B. 80-90 grade C;
+C. 100-120 grade C.
+B
+False
+
+461
+La imobilizarea cu atele, în cazul fracturilor, se va ţine cont ca:
+A. atela să nu fie rigidă;
+B. nu sunt necesare criterii pentru imobilizarea fracturilor cu atele;
+C. atela să fie suficient de lungă, pentru a acoperi zona de deasupra şi de sub fractură.
+C
+False
+
+462
+Care dintre indicatoarele alăturate interzice accesul autocamioanelor a căror lăţime este mai mare de 2,30 m?
+A. indicatorul 1;
+B. indicatorul 2;
+C. indicatorul 3.
+ABC
+True
+
+463
+O funcţie a bandajului este:
+A. de a opri hemoragia;
+B. de a preveni murdărirea hainelor;
+C. de a acoperi aspectul neplăcut al rănii.
+A
+False
+
+464
+Oprirea este interzisă:
+A. în zona de acţiune a indicatorului „Drum îngustat“;
+B. în zona de acţiune a indicatoarelor care interzic depăşirea;
+C. în dreptul altui vehicul staţionat, dacă prin aceasta se stânjeneşte circulaţia a două vehicule venind din sensuri opuse.
+ABC
+False
+
+465
+Încărcătura unui autocamion trebuie să fie aşezată astfel încât:
+A. să nu pună în pericol persoane ori să cauzeze daune proprietăţii publice sau private;
+B. să nu fie târâtă, să nu curgă şi să nu cadă pe drumul public;
+C. să nu stânjenească vizibilitatea conducătorului auto şi să nu pericliteze stabilitatea sau conducerea vehiculului.
+ABC
+False
+
+466
+Frâna de eşapament îndeplineşte următoarele funcţii:
+A. menţine temperatura de pornire a motorului şi aeriseşte toba;
+B. menţine motorul cald la ralanti şi realizează frâna de motor;
+C. ajută la reţinerea noxelor din gazele eşapate.
+B
+False
+
+467
+În ce situaţie pompa unui servomecanism hidraulic al sistemului de direcţie funcţionează cu zgomot?
+A. când fulia de antrenare este dezechilibrată;
+B. când este puţin ulei în instalaţie;
+C. când motorul revine la turaţii mici.
+B
+False
+
+468
+Ce categorii de vehicule au obligaţia de a folosi luminile de întâlnire pe timp de zi?
+A. motocicletele şi mopedele;
+B. autovehiculele care însoţesc coloane militare sau transportă grupuri de persoane;
+C. autovehiculele care tractează alte vehicule sau care transportă produse periculoase.
+ABC
+False
+
+469
+În ce poziţie a cheii de contact intră în funcţiune, pe timp de iarnă, elementul de pornire?
+A. deschis;
+B. dezaburire;
+C. preîncălzire.
+C
+False
+
+470
+Ce funcţie are mecanismul de distribuţie?
+A. facilitează formarea curentului electric de înaltă tensiune şi distribuirea acestuia la bujii;
+B. facilitează uniformizarea funcţionării motorului prin acumularea surplusului de energie debitat în timpul motor şi folosirea acestuia în ceilalţi timpi;
+C. asigură pătrunderea amestecului carburant în cilindri şi evacuarea gazelor arse.
+C
+False
+
+471
+Avantajele funcţionării motorului cu gaz petrolier lichefiat (GPL) sunt:
+A. arderea amestecului carburant este mai completă, reducându-se astfel poluarea;
+B. lubrifiantul de pe cilindri nu se spală, prelungindu-se astfel durata de folosire a uleiului;
+C. puterea motorului este mai mare cu aproximativ 8%.
+AB
+False
+
+472
+Se consideră contravenţie:
+A. nerespectarea prevederilor privind utilizarea diagramelor tahograf sau a cartelelor tahografice atunci când vehiculul este condus de un echipaj format din mai mulţi conducători auto;
+B. nerespectarea obligaţiei privind neintroducerea datelor în tahograf;
+C. nerespectarea prevederilor privind reglarea ceasului tahografului şi utilizarea comutatorului.
+ABC
+False
+
+473
+Care dintre următoarele defecţiuni ale instalaţiei de alimentare a motorului cu aprindere prin comprimare se manifestă prin faptul că motorul merge neregulat, „bate“ şi scoate mult fum?
+A. desfacerea piuliţelor conductelor de înaltă presiune;
+B. uzura injectoarelor;
+C. ruperea arcului de reglare a presiunii de injectare.
+B
+False
+
+474
+Arborele cu came antrenează:
+A. pompa de ulei;
+B. ruptorul-distribuitor;
+C. ventilatorul radiatorului.
+AB
+False
+
+475
+Ce obligaţii aveţi la semnalele agenţilor căilor ferate, plasaţi la trecerea la nivel cu o cale ferată?
+A. nicio obligaţie, deoarece agenţii căilor ferate dirijează garniturile de tren;
+B. să vă conformaţi semnificaţiei semnalelor acestora;
+C. să reduceţi viteza, să vă asiguraţi, iar, dacă trenul nu este în mişcare, puteţi să continuaţi traversarea căii ferate cu atenţie.
+B
+False
+
+476
+În care dintre situaţiile de mai jos este interzisă întoarcerea autocamionului?
+A. în locul unde este instalat indicatorul „Întoarcerea interzisă“;
+B. în dreptul unei instituţii;
+C. în locurile unde oprirea este interzisă, cu excepţia intersecţiilor.
+AC
+False
+
+477
+Care dintre indicatoarele alăturate interzice accesul autocamioanelor a căror înălţime este mai mare de 3,5 m?
+A. indicatorul 1;
+B. indicatorul 2;
+C. indicatorul 3.
+ABC
+True
+
+478
+Primul ajutor în caz de traumatism al capului constă în:
+A. aplicarea unor comprese reci pe frunte şi bandajarea părţilor lovite;
+B. observarea respiraţiei şi a circulaţiei sanguine şi aplecarea capului către bărbie;
+C. bandajarea fracturii deschise, deschiderea căilor respiratorii dacă se impune şi culcarea victimei pe o targă plană pentru transport.
+C
+False
+
+479
+Comportamentul ecologic în conducerea unui autovehiculul presupune:
+A. planificarea traseului pentru a economisi timp şi combustibil;
+B. evitarea zonelor cu circulaţie densă, cu lucrări pe carosabil sau cu teren accidentat;
+C. viteză şi acceleraţie mai mari, pentru a scurta timpul de deplasare.
+AB
+False
+
+480
+În care dintre situaţiile prezentate mai jos nu este permisă oprirea voluntară a autocamioanelor?
+A. la o distanţă mai mică de 50 m de trecerea la nivel cu calea ferată;
+B. pe pistele obligatorii pentru pietoni;
+C. pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulaţia vehiculelor pe şine.
+ABC
+False
+
+481
+În ce situaţii se reduce viteza în trafic?
+A. în toate cazurile prevăzute în legislaţia rutieră pentru aplicarea legii privind circulaţia pe drumurile publice;
+B. preventiv, în toate situaţiile în care se prevede o stare de pericol, care poate fi evitată rulând cu o viteză inferioară;
+C. atunci când sunteţi obosit, indispus sau suferiţi de o afecţiune care vă diminuează capacitatea de a conduce.
+AB
+False
+
+482
+Se interzice depăşirea:
+A. atunci când se încalcă marcajul continuu longitudinal, chiar şi numai cu roţile de pe partea stângă;
+B. în zonele cu trafic intens;
+C. când se încalcă marcajul discontinuu longitudinal.
+A
+False
+
+483
+Rolul instalaţiei de ungere este de a asigura:
+A. ungerea pieselor mobile ale mecanismului motor, pentru a reduce frecarea şi pentru a preveni uzura;
+B. lubrifierea roţilor, pentru a asigura o deplasare uşoară a vehiculului pe drumurile publice;
+C. funcţionarea corespunzătoare a trasmisiei autovehiculului, în orice regim de exploatare.
+A
+False
+
+484
+Prin apăsarea pedalei de frână, aerul sub presiune este trimis spre:
+A. tamburii de frână;
+B. discurile de frână;
+C. cilindrii de frână şi/sau etriere.
+C
+False
+
+485
+Transportul persoanelor accidentate având hemoragii externe se va face:
+A. imediat după sosirea unui mijloc de transport;
+B. imediat după oprirea hemoragiei;
+C. imediat după ce s-a acordat asistenţă medicală de o către persoană calificată.
+BC
+False
+
+486
+Transportarea victimelor la spital se poate realiza cu:
+A. o ambulanţă special dotată în acest sens;
+B. o ambulanţă însoţită de un medic;
+C. vehiculul care a provocat accidentul, dacă starea victimei permite acest lucru.
+ABC
+False
+
+487
+În care dintre situaţii consumul de carburant al unui motor creşte?
+A. atunci când motorul nu atinge temperatura de funcţionare;
+B. atunci când fumul de eşapament este de culoare neagră;
+C. atunci când motorul funcţionează cu întreruperi.
+ABC
+False
+
+488
+Într-un pansament, pe plagă, se aplică:
+A. o compresă de vată sterilă;
+B. o compresă din tifon steril;
+C. o compresă oarecare.
+B
+False
+
+489
+Persoanele accidentate, cu arsuri multiple pe corp şi membre, trebuie să fie:
+A. dezbrăcate rapid de haine, după stingerea flăcărilor;
+B. transportate urgent la o unitate medicală;
+C. spălate, bandajate şi apoi transportate la cea mai apropiată unitate sanitară.
+B
+False
+
+490
+Care dintre obligaţiile de mai jos revin conducătorilor auto angajaţi de către operatorii de transport rutier?
+A. să respecte perioadele de conducere şi perioadele de odihnă, conform reglementărilor legale în vigoare, şi să utilizeze corect aparatul tahograf;
+B. să circule, numai pe timp de zi, fără a depăşi viteza indicată de tahometru şi să se odihnească pe timpul nopţii;
+C. să nu intervină asupra aparatului tahograf sau a limitatorului de viteză pentru scoaterea acestuia din uz sau pentru modificarea caracteristicilor de funcţionare.
+AC
+False
+
+491
+Masa totală maximă admisă a remorcii cu trei osii, pe un drum european, este:
+A. 10 t;
+B. 15 t;
+C. 22 t.
+C
+False
+
+492
+Ce reprezintă „perioada de odihnă zilnică normală“?
+A. intervalul neîntrerupt de cel puţin 11 ore de odihnă;
+B. perioada de odihnă realizată pe timpul nopţii, de cel puţin 12 ore;
+C. odihna realizată în două intervale de timp, primul de cel puţin 3 ore, iar al doilea de cel puţin 9 ore.
+AC
+False
+
+493
+Când trebuie scoasă din vehicul diagrama tahograf?
+A. ori de câte ori este nevoie;
+B. nu înainte de sfârşitul perioadei zilnice de lucru;
+C. pe orice perioadă a zilei, dacă acest lucru a fost autorizat (control rutier, schimbarea vehiculului, defectarea aparatului).
+BC
+False
+
+494
+Care dintre următoarele cauze determină descărcarea bateriei de acumulatori?
+A. defectarea releului regulator;
+B. arderera siguranţelor farurilor;
+C. folosirea excesivă a demarorului.
+AC
+False
+
+495
+Care sunt datele pe care le înregistrează şi/sau stochează în mod automat sau semiautomat tahograful?
+A. distanţa parcursă de vehicul şi viteza de deplasare a acestuia;
+B. durata orelor de conducere, pauzele şi perioadele zilnice de odihnă;
+C. timpii disponibili, precum şi alţi timpi de muncă.
+ABC
+False
+
+496
+Fracturile rezultate în urma unui accident rutier pot fi recunoscute prin:
+A. culoarea diferită a locului fracturii;
+B. segmentul osos fracturat, devenit elastic;
+C. segmentul fracturat, care are o mişcare anormală.
+C
+False
+
+497
+In ce conditii se poate face cuplarea unei remorci la un vehicul?
+A. daca dimensiunile ansamblului de vehicule nu depasesc limitele prevazute de lege;
+B. daca greutatea ansamblului nu depaseste 3,5 tone;
+C. daca elementele de cuplare ale echipamentelor de franare, de iluminare si de semnalizare luminoasa sunt compatibile;
+AC
+False
+
+498
+Care este rolul principal al supapei de refulare a elementului pompei de injecţie?
+A. să împiedice picurarea motorinei din injector, la sfârşitul injecţiei;
+B. să împiedice reîntoarcerea în pompa de injecţie a surplusului de motorină;
+C. să crească presiunea motorinei la sfârşitul injecţiei.
+A
+False
+
+499
+Ce se înţelege prin accident uşor?
+A. accident din care rezulta trei victime;
+B. deformarea caroseriei;
+C. 30% pagube materiale si 6 victime.
+B
+False
+
+500
+Prin „raport de compresie“ se înţelege:
+A. raportul dintre volumul tuturor cilindrilor şi volumul pistoanelor;
+B. raportul dintre volumul camerei de ardere şi volumul cilindrului;
+C. raportul dintre volumul cilindrului şi volumul camerei de ardere.
+C
+False
+
+501
+Ce se înţelege prin „valoarea termică“ a bujiei?
+A. timpul în secunde, până când bujia ajunge la temperatura de autocurăţare a electrozilor;
+B. capacitatea bujiei de a lucra mai bine la temperaturi înalte;
+C. însuşirea bujiei de a conecta şi deconecta funcţionarea termostatului.
+A
+False
+
+502
+Care dintre supapele mecanismului de distribuţie se uzează mai repede?
+A. supapele de admisie;
+B. supapele de evacuare;
+C. ambele supape se uzează la fel în cazul unui motor bine întreţinut.
+B
+False
+
+503
+Reglementările referitoare la stabilirea perioadelor de conducere şi de odihnă a conducătorilor auto se referă la:
+A. vehiculele sau ansamblurile de vehicule a căror masă totală maximă autorizată nu depăşeşte 7,5 tone, utilizate pentru transportul de mărfuri în scopuri necomerciale;
+B. vehiculele destinate transportului de mărfuri, a căror masă totală maximă autorizată, inclusiv remorca sau semiremorca, depăşeşte 3,5 tone;
+C. vehiculele destinate transportului de persoane, a căror masă totală maximă autorizată nu depăşeşte 7,5 tone.
+B
+False
+
+504
+Unde se află baia de ulei şi care este rolul acesteia?
+A. se află în partea superioară a motorului şi serveşte la ungerea chiulasei;
+B. se află în partea inferioară a motorului şi reprezintă depozitul de ulei al acestuia;
+C. se află lângă vasul de expansiune şi unge caseta de direcţie.
+B
+False
+
+505
+Scăderea presiunii uleiului este determinată de una dintre următoarele cauze:
+A. îmbâcsirea sorbului pompei de ulei;;
+B. funcţionarea motorului la turaţii mici;
+C. montarea incorectă a filtrului de ulei.
+A
+False
+
+506
+Ce autovehicule nu au prioritate de trecere?
+A. autovehiculele care întâlnesc indicatorul „Intersecţie cu un drum fără prioritate”;
+B. autovehiculele care virează spre dreapta;
+C. autovehiculele care virează spre stânga, faţă de cele care circulă din sens opus, în aliniament.
+C
+False
